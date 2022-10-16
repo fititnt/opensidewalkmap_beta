@@ -35,3 +35,12 @@ jobs:
       - run: python getting_data.py
 
       - run: python create_webmap.py
+  
+      #### upload ______________________________________________________________
+      # @see https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
