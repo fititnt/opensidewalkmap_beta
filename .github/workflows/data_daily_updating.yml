@@ -1,18 +1,22 @@
-name: generic_python
+name: data_daily_updating
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: ["main"]
-  pull_request:
-    branches: ["main"]
+  # # Triggers the workflow on push or pull request events but only for the "main" branch
+  # push:
+  #   branches: ["main"]
+  # pull_request:
+  #   branches: ["main"]
+
+  schedule:
+    # run 4h30min every day
+    - cron: "30 4 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
-  generic_python:
+  data_daily_updating:
     runs-on: ubuntu-latest
     # continue-on-error: true
     steps:
@@ -39,8 +43,10 @@ jobs:
       #### upload ______________________________________________________________
       # @see https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
       - run: |
+          DATETIME="$(TZ=":Zulu" date +"%Y-%m-%d")"
+          COMMIT_MESSAGE="data updated at $DATETIME"
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "generated"
+          git commit -m "$COMMIT_MESSAGE"
           git push
