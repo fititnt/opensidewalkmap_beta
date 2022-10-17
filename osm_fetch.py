@@ -207,7 +207,7 @@ def get_osm_data(querystring,tempfilesname,geomtype='LineString',print_response=
             geojsonfilepath = geojson_outpath
         
         with open(geojsonfilepath,'w+') as geojson_handle:
-            json.dump(filtered_geojson_dict,geojson_handle, indent=4)
+            json.dump(filtered_geojson_dict,geojson_handle, indent=4,ensure_ascii=False,sort_keys=True)
 
         return geojsonfilepath
 
