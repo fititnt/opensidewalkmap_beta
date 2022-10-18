@@ -10,7 +10,7 @@ on:
 
   schedule:
     # run 4h30min every day
-    - cron: "30 4 * * *"
+    - cron: "30 7 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -37,14 +37,16 @@ jobs:
       #### main ________________________________________________________________
 
       - run: python getting_data.py
+      
+      - run: python filtering_adapting_data.py
 
       - run: python create_webmap.py
   
       #### upload ______________________________________________________________
       # @see https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
       - run: |
-          DATETIME="$(TZ=":Zulu" date +"%Y-%m-%d")"
-          COMMIT_MESSAGE="data updated at $DATETIME"
+          DATETIME="$(TZ=":America/Sao_Paulo" date +"%Y-%m-%d")"
+          COMMIT_MESSAGE="data updating at $DATETIME"
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
