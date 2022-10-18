@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-18T05:04:08Z"/>
+<meta osm_base="2022-10-18T10:50:24Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -10841,7 +10841,6 @@
   <node id="10078627980" lat="-25.4125925" lon="-49.2879231"/>
   <node id="10078627981" lat="-25.4123624" lon="-49.2880309"/>
   <node id="10078627982" lat="-25.4123359" lon="-49.2874455"/>
-  <node id="10078627983" lat="-25.4123359" lon="-49.2874455"/>
   <node id="10078656824" lat="-25.4122956" lon="-49.2890034">
     <tag k="access" v="no"/>
     <tag k="barrier" v="gate"/>
@@ -10961,7 +10960,7 @@
   <way id="32944187">
     <nd ref="1748093355"/>
     <nd ref="6600048051"/>
-    <nd ref="10078627983"/>
+    <nd ref="10078627982"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="name" v="Rua Gaspar Carnilho Júnior"/>
