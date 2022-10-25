@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-24T07:44:35Z"/>
+<meta osm_base="2022-10-25T07:43:09Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -10938,6 +10938,7 @@
   <node id="10121703814" lat="-25.4246966" lon="-49.2796133"/>
   <node id="10121703815" lat="-25.4244674" lon="-49.2800559"/>
   <node id="10121709166" lat="-25.4247585" lon="-49.2793915"/>
+  <node id="10127135292" lat="-25.5302423" lon="-49.2047744"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -13286,12 +13287,12 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="656314785">
-    <nd ref="2631479141"/>
     <nd ref="6883841577"/>
     <nd ref="6148236267"/>
-    <nd ref="2631479144"/>
+    <nd ref="10127135292"/>
     <tag k="access" v="yes"/>
     <tag k="bicycle" v="dismount"/>
+    <tag k="covered" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -13299,11 +13300,11 @@
     <tag k="smoothness" v="excellent"/>
   </way>
   <way id="656314787">
-    <nd ref="6148236264"/>
     <nd ref="6148236265"/>
     <nd ref="6148236266"/>
     <nd ref="6672594867"/>
     <tag k="access" v="customers"/>
+    <tag k="covered" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -13588,6 +13589,7 @@
     <nd ref="6226321498"/>
     <tag k="access" v="yes"/>
     <tag k="bicycle" v="dismount"/>
+    <tag k="covered" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -13597,9 +13599,9 @@
   <way id="665218831">
     <nd ref="6226321498"/>
     <nd ref="6148236261"/>
-    <nd ref="6148236260"/>
     <tag k="access" v="yes"/>
     <tag k="bicycle" v="dismount"/>
+    <tag k="covered" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -13614,6 +13616,7 @@
     <nd ref="6226321499"/>
     <tag k="access" v="yes"/>
     <tag k="bicycle" v="dismount"/>
+    <tag k="covered" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -13627,6 +13630,7 @@
     <nd ref="6226321504"/>
     <tag k="access" v="yes"/>
     <tag k="bicycle" v="dismount"/>
+    <tag k="covered" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -13645,7 +13649,6 @@
   <way id="671329508">
     <nd ref="6286876462"/>
     <nd ref="7152968994"/>
-    <nd ref="6226321504"/>
     <tag k="access" v="yes"/>
     <tag k="bicycle" v="dismount"/>
     <tag k="foot" v="designated"/>
@@ -36296,6 +36299,7 @@
     <nd ref="6148236267"/>
     <tag k="access" v="yes"/>
     <tag k="bicycle" v="dismount"/>
+    <tag k="covered" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -37102,6 +37106,61 @@
     <nd ref="10121703812"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="1106711822">
+    <nd ref="6148236261"/>
+    <nd ref="6148236260"/>
+    <tag k="access" v="yes"/>
+    <tag k="bicycle" v="dismount"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="excellent"/>
+  </way>
+  <way id="1106711823">
+    <nd ref="7152968994"/>
+    <nd ref="6226321504"/>
+    <tag k="access" v="yes"/>
+    <tag k="bicycle" v="dismount"/>
+    <tag k="covered" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="excellent"/>
+  </way>
+  <way id="1106711832">
+    <nd ref="10127135292"/>
+    <nd ref="2631479144"/>
+    <tag k="access" v="yes"/>
+    <tag k="bicycle" v="dismount"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="excellent"/>
+  </way>
+  <way id="1106711833">
+    <nd ref="2631479141"/>
+    <nd ref="6883841577"/>
+    <tag k="access" v="yes"/>
+    <tag k="bicycle" v="dismount"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="excellent"/>
+  </way>
+  <way id="1106711834">
+    <nd ref="6148236264"/>
+    <nd ref="6148236265"/>
+    <tag k="access" v="customers"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="excellent"/>
   </way>
 
 </osm>
