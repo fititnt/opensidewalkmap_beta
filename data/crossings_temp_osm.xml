@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-26T07:34:09Z"/>
+<meta osm_base="2022-10-27T07:34:07Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -348,6 +348,10 @@
   <node id="2061371928" lat="-25.4975139" lon="-49.2767189"/>
   <node id="2066813335" lat="-25.4718903" lon="-49.2375211">
     <tag k="crossing" v="unmarked"/>
+  </node>
+  <node id="2083053065" lat="-25.4840445" lon="-49.3500224">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
   </node>
   <node id="2297540831" lat="-25.4811400" lon="-49.2474119"/>
   <node id="2378836071" lat="-25.4532194" lon="-49.2427846">
@@ -1120,6 +1124,10 @@
   <node id="5794202657" lat="-25.5177448" lon="-49.2301193"/>
   <node id="5794202663" lat="-25.5161109" lon="-49.2306000"/>
   <node id="5794202677" lat="-25.5178458" lon="-49.2303707"/>
+  <node id="5794278932" lat="-25.4839757" lon="-49.3500522">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="5805241053" lat="-25.5118844" lon="-49.2952653"/>
   <node id="5841833299" lat="-25.5125275" lon="-49.2322725">
     <tag k="crossing" v="marked"/>
@@ -1517,7 +1525,7 @@
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="6172295041" lat="-25.4348774" lon="-49.2725597">
+  <node id="6172295041" lat="-25.4348773" lon="-49.2725597">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
   </node>
@@ -2722,7 +2730,7 @@
   <node id="8822664805" lat="-25.4508229" lon="-49.2368782"/>
   <node id="8822664806" lat="-25.4531742" lon="-49.2401182"/>
   <node id="8822664807" lat="-25.4532370" lon="-49.2400765"/>
-  <node id="8822664808" lat="-25.4526589" lon="-49.2405492"/>
+  <node id="8822664808" lat="-25.4526588" lon="-49.2405489"/>
   <node id="8822665920" lat="-25.4539887" lon="-49.2324657"/>
   <node id="8822665921" lat="-25.4540171" lon="-49.2324787"/>
   <node id="8822665922" lat="-25.4540526" lon="-49.2324963"/>
@@ -7252,6 +7260,12 @@
     <nd ref="2066813335"/>
     <nd ref="6456810739"/>
     <nd ref="2047937246"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="198124890">
+    <nd ref="2083053065"/>
+    <nd ref="5794278932"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
