@@ -24,6 +24,7 @@
                 "highway": "footway",
                 "id": 24576715,
                 "kerb": "lowered",
+                "name": "Rua Senador Alencar Guimaraes",
                 "nodes": [
                     4807326711,
                     2688348297,
@@ -2160,8 +2161,12 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.276897,
-                        -25.4339615
+                        -49.2768964,
+                        -25.4339621
+                    ],
+                    [
+                        -49.2769336,
+                        -25.4339929
                     ],
                     [
                         -49.2769819,
@@ -2178,6 +2183,7 @@
                 "id": 554566852,
                 "nodes": [
                     981998257,
+                    10138847582,
                     324724605
                 ],
                 "type": "way"
@@ -4700,30 +4706,41 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2726138,
-                        -25.4347689
+                        -49.2724943,
+                        -25.4350087
                     ],
                     [
                         -49.2725597,
                         -25.4348773
                     ],
                     [
-                        -49.2724943,
-                        -25.4350087
+                        -49.2726045,
+                        -25.4347875
+                    ],
+                    [
+                        -49.2726304,
+                        -25.4347353
                     ]
                 ],
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "marked",
+                "crossing": "zebra",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 659241105,
+                "kerb": "lowered",
+                "name": "Rua Voluntários da Pátria",
                 "nodes": [
-                    4048063178,
+                    6207001432,
                     6172295041,
-                    6207001432
+                    10138847588,
+                    9456125333
                 ],
+                "oneway": "yes",
+                "sidewalk": "both",
+                "surface": "asphalt",
+                "tactile_paving": "no",
                 "traffic_calming": "table",
                 "type": "way"
             },
@@ -7494,8 +7511,8 @@
                         -25.435155
                     ],
                     [
-                        -49.2736718,
-                        -25.4350917
+                        -49.2736748,
+                        -25.4350944
                     ]
                 ],
                 "type": "LineString"

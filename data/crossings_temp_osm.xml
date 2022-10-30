@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-29T07:33:24Z"/>
+<meta osm_base="2022-10-30T07:32:19Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -151,7 +151,7 @@
     <tag k="crossing" v="unmarked"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="981998257" lat="-25.4339615" lon="-49.2768970">
+  <node id="981998257" lat="-25.4339621" lon="-49.2768964">
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
     <tag k="direction" v="both"/>
@@ -752,7 +752,7 @@
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="3602950893" lat="-25.4350917" lon="-49.2736718"/>
+  <node id="3602950893" lat="-25.4350944" lon="-49.2736748"/>
   <node id="3605672476" lat="-25.4129645" lon="-49.2659043"/>
   <node id="3765519483" lat="-25.4700809" lon="-49.2956329">
     <tag k="highway" v="crossing"/>
@@ -762,7 +762,6 @@
   <node id="3938713247" lat="-25.4329202" lon="-49.2184267"/>
   <node id="3996581592" lat="-25.4110149" lon="-49.2477733"/>
   <node id="3996581593" lat="-25.4110778" lon="-49.2478497"/>
-  <node id="4048063178" lat="-25.4347689" lon="-49.2726138"/>
   <node id="4185762993" lat="-25.4436074" lon="-49.2860941">
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
@@ -5853,6 +5852,9 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
+  <node id="9456125333" lat="-25.4347353" lon="-49.2726304">
+    <tag k="traffic_calming" v="table"/>
+  </node>
   <node id="9456125335" lat="-25.4357905" lon="-49.2746661"/>
   <node id="9553309033" lat="-25.6448920" lon="-49.3117348"/>
   <node id="9553309034" lat="-25.6451921" lon="-49.3117181"/>
@@ -7198,6 +7200,8 @@
   <node id="10128794127" lat="-25.4583540" lon="-49.2313643"/>
   <node id="10128794128" lat="-25.4583731" lon="-49.2313016"/>
   <node id="10128794129" lat="-25.4583850" lon="-49.2312626"/>
+  <node id="10138847582" lat="-25.4339929" lon="-49.2769336"/>
+  <node id="10138847588" lat="-25.4347875" lon="-49.2726045"/>
   <way id="24576715">
     <nd ref="4807326711"/>
     <nd ref="2688348297"/>
@@ -7206,6 +7210,7 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="kerb" v="lowered"/>
+    <tag k="name" v="Rua Senador Alencar Guimaraes"/>
     <tag k="surface" v="asphalt"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="traffic_calming" v="table"/>
@@ -7768,6 +7773,7 @@
   </way>
   <way id="554566852">
     <nd ref="981998257"/>
+    <nd ref="10138847582"/>
     <nd ref="324724605"/>
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
@@ -8427,12 +8433,19 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="659241105">
-    <nd ref="4048063178"/>
-    <nd ref="6172295041"/>
     <nd ref="6207001432"/>
-    <tag k="crossing" v="marked"/>
+    <nd ref="6172295041"/>
+    <nd ref="10138847588"/>
+    <nd ref="9456125333"/>
+    <tag k="crossing" v="zebra"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="name" v="Rua Voluntários da Pátria"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="traffic_calming" v="table"/>
   </way>
   <way id="659435710">
