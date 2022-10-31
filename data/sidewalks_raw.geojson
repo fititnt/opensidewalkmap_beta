@@ -1350,14 +1350,17 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 355479579,
+                "lit": "yes",
                 "name": "Rua Monsenhor Celso",
                 "nodes": [
                     1507657876,
                     269224071
                 ],
+                "smoothness": "excellent",
                 "type": "way"
             },
             "type": "Feature"
@@ -15853,8 +15856,8 @@
                         -25.4774228
                     ],
                     [
-                        -49.3264273,
-                        -25.4774733
+                        -49.3264272,
+                        -25.4774727
                     ]
                 ],
                 "type": "LineString"
@@ -15880,7 +15883,7 @@
                     ],
                     [
                         -49.3277582,
-                        -25.4772919
+                        -25.4772918
                     ]
                 ],
                 "type": "LineString"
@@ -16121,6 +16124,82 @@
             "geometry": {
                 "coordinates": [
                     [
+                        -49.237909,
+                        -25.5007395
+                    ],
+                    [
+                        -49.2376492,
+                        -25.5012682
+                    ],
+                    [
+                        -49.2373503,
+                        -25.5018789
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "access": "customers",
+                "covered": "yes",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 764609070,
+                "indoor": "yes",
+                "layer": "-1",
+                "lit": "yes",
+                "nodes": [
+                    7143074365,
+                    7143074367,
+                    7143074366
+                ],
+                "type": "way",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2378172,
+                        -25.5013362
+                    ],
+                    [
+                        -49.2377832,
+                        -25.5013225
+                    ],
+                    [
+                        -49.2377372,
+                        -25.5013039
+                    ],
+                    [
+                        -49.2376865,
+                        -25.5012833
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "access": "customers",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 764609071,
+                "lit": "yes",
+                "nodes": [
+                    7143074373,
+                    7143074372,
+                    7143074371,
+                    7143074375
+                ],
+                "type": "way",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
                         -49.1950231,
                         -25.5492483
                     ],
@@ -16174,42 +16253,6 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2704385,
-                        -25.4328855
-                    ],
-                    [
-                        -49.2704385,
-                        -25.4328972
-                    ],
-                    [
-                        -49.2704375,
-                        -25.4330446
-                    ],
-                    [
-                        -49.2704524,
-                        -25.4331781
-                    ]
-                ],
-                "type": "LineString"
-            },
-            "properties": {
-                "footway": "sidewalk",
-                "highway": "footway",
-                "id": 776924509,
-                "nodes": [
-                    7249364702,
-                    9306977931,
-                    7249364701,
-                    7249364707
-                ],
-                "type": "way"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
                         -49.270527,
                         -25.4338943
                     ],
@@ -16225,15 +16268,19 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 776924510,
+                "lit": "yes",
                 "nodes": [
                     269224070,
                     8488800542,
                     7249364712
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -16245,36 +16292,25 @@
                         -25.4331781
                     ],
                     [
-                        -49.2705663,
-                        -25.4331221
-                    ],
-                    [
-                        -49.2706682,
-                        -25.4331039
-                    ],
-                    [
-                        -49.2707286,
-                        -25.433007
-                    ],
-                    [
-                        -49.270734,
-                        -25.4329982
+                        -49.2707024,
+                        -25.4330791
                     ]
                 ],
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 776924511,
+                "lit": "yes",
                 "nodes": [
                     7249364707,
-                    7249364706,
-                    7249364705,
-                    9306977930,
-                    7249364704
+                    7249364705
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -16290,20 +16326,24 @@
                         -25.4336352
                     ],
                     [
-                        -49.2705381,
-                        -25.4335642
+                        -49.2705019,
+                        -25.4336096
                     ],
                     [
-                        -49.2705327,
-                        -25.4334661
+                        -49.2705884,
+                        -25.4335164
                     ],
                     [
-                        -49.2705984,
-                        -25.4333449
+                        -49.2706869,
+                        -25.4333824
                     ],
                     [
                         -49.2707071,
                         -25.4332384
+                    ],
+                    [
+                        -49.2707782,
+                        -25.4331852
                     ],
                     [
                         -49.2709197,
@@ -16317,9 +16357,11 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 776924512,
+                "lit": "yes",
                 "nodes": [
                     7249364720,
                     7249364712,
@@ -16327,10 +16369,13 @@
                     7249364710,
                     7249364709,
                     7249364708,
+                    10141215388,
                     8488800544,
                     269224069
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -16338,8 +16383,16 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2700216,
-                        -25.4334729
+                        -49.2698407,
+                        -25.4334013
+                    ],
+                    [
+                        -49.2698593,
+                        -25.4334087
+                    ],
+                    [
+                        -49.2699861,
+                        -25.4334596
                     ],
                     [
                         -49.2701748,
@@ -16349,14 +16402,20 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 776924513,
+                "lit": "yes",
                 "nodes": [
+                    10141215400,
+                    10141215399,
                     7249364713,
                     7249364719
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -16376,12 +16435,12 @@
                         -25.4329377
                     ],
                     [
-                        -49.2701277,
-                        -25.4331693
+                        -49.2700875,
+                        -25.4331451
                     ],
                     [
-                        -49.2700216,
-                        -25.4334729
+                        -49.2699861,
+                        -25.4334596
                     ],
                     [
                         -49.2698005,
@@ -16395,9 +16454,11 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 776924514,
+                "lit": "yes",
                 "nodes": [
                     269224068,
                     9306977929,
@@ -16407,7 +16468,9 @@
                     8488800543,
                     269224071
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -16415,8 +16478,8 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2703933,
-                        -25.433133
+                        -49.2703705,
+                        -25.4331191
                     ],
                     [
                         -49.2704524,
@@ -16467,16 +16530,18 @@
                         -25.4331349
                     ],
                     [
-                        -49.2703933,
-                        -25.433133
+                        -49.2703705,
+                        -25.4331191
                     ]
                 ],
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 776924515,
+                "lit": "yes",
                 "nodes": [
                     7249364725,
                     7249364707,
@@ -16493,7 +16558,9 @@
                     9306977932,
                     7249364725
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -16509,12 +16576,12 @@
                         -25.4326396
                     ],
                     [
-                        -49.2729006,
-                        -25.4326879
+                        -49.2728916,
+                        -25.4326793
                     ],
                     [
-                        -49.2729457,
-                        -25.4327139
+                        -49.2729461,
+                        -25.4327143
                     ]
                 ],
                 "type": "LineString"
@@ -16538,8 +16605,8 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2726379,
-                        -25.4322747
+                        -49.2726378,
+                        -25.4322748
                     ],
                     [
                         -49.2725985,
@@ -16550,8 +16617,12 @@
                         -25.4324661
                     ],
                     [
-                        -49.2723582,
-                        -25.4323836
+                        -49.2724077,
+                        -25.4324101
+                    ],
+                    [
+                        -49.2723162,
+                        -25.4324412
                     ],
                     [
                         -49.2722365,
@@ -16569,7 +16640,8 @@
                     7249380857,
                     7249380858,
                     7249380856,
-                    7249380855,
+                    10141215405,
+                    10141215406,
                     267173333
                 ],
                 "type": "way"
@@ -55945,14 +56017,18 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 1008697881,
+                "lit": "yes",
                 "nodes": [
                     7249364724,
                     7249364708
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -55971,14 +56047,18 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "no",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 1008697882,
+                "lit": "yes",
                 "nodes": [
                     9306977933,
                     9306977932
                 ],
-                "type": "way"
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -97854,6 +97934,255 @@
                     2074790403
                 ],
                 "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2702769,
+                        -25.4331349
+                    ],
+                    [
+                        -49.2700875,
+                        -25.4331451
+                    ],
+                    [
+                        -49.2699419,
+                        -25.4331598
+                    ],
+                    [
+                        -49.2699199,
+                        -25.433162
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "no",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1108365966,
+                "lit": "yes",
+                "nodes": [
+                    9306977932,
+                    7249364714,
+                    10141215380,
+                    10141215381
+                ],
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2707782,
+                        -25.4331852
+                    ],
+                    [
+                        -49.2707024,
+                        -25.4330791
+                    ],
+                    [
+                        -49.270575,
+                        -25.4330204
+                    ],
+                    [
+                        -49.2704292,
+                        -25.432959
+                    ],
+                    [
+                        -49.2703054,
+                        -25.4329295
+                    ],
+                    [
+                        -49.2702126,
+                        -25.4329271
+                    ],
+                    [
+                        -49.2700908,
+                        -25.4329377
+                    ],
+                    [
+                        -49.2699888,
+                        -25.4330183
+                    ],
+                    [
+                        -49.2699599,
+                        -25.4330412
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "no",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1108365967,
+                "lit": "yes",
+                "nodes": [
+                    10141215388,
+                    7249364705,
+                    10141215387,
+                    10141215386,
+                    10141215385,
+                    10141215384,
+                    9306977933,
+                    10141215382,
+                    10141215383
+                ],
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2703705,
+                        -25.4331191
+                    ],
+                    [
+                        -49.2702126,
+                        -25.4329271
+                    ],
+                    [
+                        -49.2700748,
+                        -25.4327594
+                    ],
+                    [
+                        -49.2700594,
+                        -25.4327407
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "no",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1108365968,
+                "lit": "yes",
+                "nodes": [
+                    7249364725,
+                    10141215384,
+                    10141215366,
+                    269224068
+                ],
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2704292,
+                        -25.432959
+                    ],
+                    [
+                        -49.2704524,
+                        -25.4331781
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "no",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1108365969,
+                "lit": "yes",
+                "nodes": [
+                    10141215386,
+                    7249364707
+                ],
+                "smoothness": "excellent",
+                "type": "way",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2376092,
+                        -25.501252
+                    ],
+                    [
+                        -49.2375749,
+                        -25.5012381
+                    ],
+                    [
+                        -49.2374907,
+                        -25.501204
+                    ],
+                    [
+                        -49.2374547,
+                        -25.5011894
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "access": "customers",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1108367422,
+                "lit": "yes",
+                "nodes": [
+                    7143074374,
+                    7143074368,
+                    7143074369,
+                    7143074370
+                ],
+                "type": "way",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2376865,
+                        -25.5012833
+                    ],
+                    [
+                        -49.2376492,
+                        -25.5012682
+                    ],
+                    [
+                        -49.2376092,
+                        -25.501252
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "access": "customers",
+                "covered": "yes",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1108367423,
+                "lit": "yes",
+                "nodes": [
+                    7143074375,
+                    7143074367,
+                    7143074374
+                ],
+                "type": "way",
+                "wheelchair": "yes"
             },
             "type": "Feature"
         }
