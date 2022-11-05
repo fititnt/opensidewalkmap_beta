@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-04T07:31:39Z"/>
+<meta osm_base="2022-11-05T07:32:09Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -1929,7 +1929,7 @@
     <tag k="addr:housenumber" v="6706"/>
     <tag k="addr:street" v="Rua Eduardo Pinto da Rocha"/>
   </node>
-  <node id="6389300222" lat="-25.3930152" lon="-49.2399580">
+  <node id="6389300222" lat="-25.3930132" lon="-49.2399607">
     <tag k="crossing:island" v="yes"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="hump"/>
@@ -2024,7 +2024,7 @@
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="hump"/>
   </node>
-  <node id="6502641447" lat="-25.3854634" lon="-49.2329894">
+  <node id="6502641447" lat="-25.3854630" lon="-49.2329899">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="hump"/>
