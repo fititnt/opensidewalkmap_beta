@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-05T07:32:09Z"/>
+<meta osm_base="2022-11-06T07:31:32Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -189,6 +189,30 @@
   <node id="1400318148" lat="-25.4662907" lon="-49.2715780"/>
   <node id="1404735272" lat="-25.5281130" lon="-49.2423334"/>
   <node id="1408345045" lat="-25.4124973" lon="-49.2554066"/>
+  <node id="1408494182" lat="-25.3958719" lon="-49.2160255"/>
+  <node id="1408494196" lat="-25.3963443" lon="-49.2178090">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="1408494198" lat="-25.3967016" lon="-49.2189638">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="1408494209" lat="-25.3968416" lon="-49.2195532">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="1408494212" lat="-25.3958627" lon="-49.2158373"/>
+  <node id="1408494215" lat="-25.3965596" lon="-49.2183699">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="1408494228" lat="-25.3939015" lon="-49.2160442"/>
+  <node id="1408494229" lat="-25.3969146" lon="-49.2188946">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="1408494230" lat="-25.3970684" lon="-49.2194776">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="1408494254" lat="-25.3967672" lon="-49.2183015">
+    <tag k="highway" v="turning_circle"/>
+  </node>
   <node id="1411579413" lat="-25.5503956" lon="-49.1869017"/>
   <node id="1427260180" lat="-25.4365466" lon="-49.2662441"/>
   <node id="1487047403" lat="-25.5549118" lon="-49.3060935"/>
@@ -380,6 +404,9 @@
   </node>
   <node id="2986701327" lat="-25.4274497" lon="-49.2447634"/>
   <node id="2986701328" lat="-25.4276031" lon="-49.2452783"/>
+  <node id="3001392225" lat="-25.3966565" lon="-49.2177069">
+    <tag k="highway" v="turning_circle"/>
+  </node>
   <node id="3021115170" lat="-25.4460613" lon="-49.2359724"/>
   <node id="3089739010" lat="-25.3779785" lon="-49.2619847"/>
   <node id="3152543178" lat="-25.4147669" lon="-49.2245608"/>
@@ -1292,6 +1319,7 @@
   <node id="5486749946" lat="-25.4194700" lon="-49.2249615">
     <tag k="highway" v="turning_circle"/>
   </node>
+  <node id="5486749949" lat="-25.4196801" lon="-49.2248648"/>
   <node id="5492265028" lat="-25.4536396" lon="-49.3040132"/>
   <node id="5574838615" lat="-25.4013682" lon="-49.3296775"/>
   <node id="5574838616" lat="-25.4013260" lon="-49.3295181"/>
@@ -1592,6 +1620,7 @@
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6353296072" lat="-25.4120535" lon="-49.2209053"/>
+  <node id="6353296073" lat="-25.4119295" lon="-49.2209137"/>
   <node id="6382090000" lat="-25.4175862" lon="-49.3636506"/>
   <node id="6382090001" lat="-25.4178318" lon="-49.3628798"/>
   <node id="6382090002" lat="-25.4182872" lon="-49.3614080"/>
@@ -1701,7 +1730,6 @@
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
-  <node id="6456795935" lat="-25.4196801" lon="-49.2248648"/>
   <node id="6456865124" lat="-25.4269873" lon="-49.2633131"/>
   <node id="6456865125" lat="-25.4277856" lon="-49.2629249"/>
   <node id="6456865126" lat="-25.4277100" lon="-49.2629615">
@@ -7047,12 +7075,22 @@
   <node id="9395637007" lat="-25.4232591" lon="-49.3081335"/>
   <node id="9395637008" lat="-25.4232753" lon="-49.3081125"/>
   <node id="9395637009" lat="-25.4232455" lon="-49.3081380"/>
+  <node id="9400514812" lat="-25.3965193" lon="-49.2177518"/>
+  <node id="9400514813" lat="-25.3965263" lon="-49.2179555"/>
+  <node id="9400514814" lat="-25.3965379" lon="-49.2180453"/>
+  <node id="9400514815" lat="-25.3965595" lon="-49.2181148"/>
+  <node id="9400514816" lat="-25.3965897" lon="-49.2181864"/>
+  <node id="9400528617" lat="-25.3966229" lon="-49.2182498"/>
+  <node id="9400528618" lat="-25.3967910" lon="-49.2186084"/>
+  <node id="9400528619" lat="-25.3968090" lon="-49.2187340"/>
+  <node id="9400528620" lat="-25.3968072" lon="-49.2188047"/>
+  <node id="9400528621" lat="-25.3968154" lon="-49.2189268"/>
+  <node id="9400528651" lat="-25.3971135" lon="-49.2201032"/>
   <node id="9403988198" lat="-25.4145815" lon="-49.2220908"/>
   <node id="9403988199" lat="-25.4146584" lon="-49.2220535">
     <tag k="noexit" v="yes"/>
   </node>
-  <node id="9403988215" lat="-25.4119405" lon="-49.2208954"/>
-  <node id="9404005724" lat="-25.4125851" lon="-49.2210662"/>
+  <node id="9404005724" lat="-25.4125853" lon="-49.2210656"/>
   <node id="9404111927" lat="-25.5546579" lon="-49.3069657"/>
   <node id="9404111928" lat="-25.5545564" lon="-49.3069320"/>
   <node id="9404111929" lat="-25.5548065" lon="-49.3066567"/>
@@ -11018,6 +11056,11 @@
   <node id="10158818965" lat="-25.3858459" lon="-49.2322911"/>
   <node id="10158818966" lat="-25.3858515" lon="-49.2325489"/>
   <node id="10158818969" lat="-25.3859609" lon="-49.2323964"/>
+  <node id="10160217801" lat="-25.3969644" lon="-49.2195123"/>
+  <node id="10160217802" lat="-25.3967710" lon="-49.2185291"/>
+  <node id="10160217803" lat="-25.3967416" lon="-49.2184576"/>
+  <node id="10160217805" lat="-25.3966729" lon="-49.2183326"/>
+  <node id="10160222933" lat="-25.3934552" lon="-49.2159784"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -13787,7 +13830,7 @@
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="678515166">
-    <nd ref="9403988215"/>
+    <nd ref="6353296073"/>
     <nd ref="6353296072"/>
     <nd ref="10119940033"/>
     <nd ref="9404005724"/>
@@ -14066,7 +14109,7 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="688526452">
-    <nd ref="6456795935"/>
+    <nd ref="5486749949"/>
     <nd ref="5486749946"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -26079,6 +26122,25 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
+  <way id="1019199197">
+    <nd ref="9400528651"/>
+    <nd ref="10160217801"/>
+    <nd ref="9400528621"/>
+    <nd ref="9400528620"/>
+    <nd ref="9400528619"/>
+    <nd ref="9400528618"/>
+    <nd ref="10160217802"/>
+    <nd ref="10160217803"/>
+    <nd ref="10160217805"/>
+    <nd ref="9400528617"/>
+    <nd ref="9400514816"/>
+    <nd ref="9400514815"/>
+    <nd ref="9400514814"/>
+    <nd ref="9400514813"/>
+    <nd ref="9400514812"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
   <way id="1019268931">
     <nd ref="1738236789"/>
     <nd ref="1738236388"/>
@@ -36910,6 +36972,12 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="1079661089">
+    <nd ref="1408494212"/>
+    <nd ref="1408494182"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
   <way id="1084101633">
     <nd ref="3263190532"/>
     <nd ref="558907913"/>
@@ -37470,6 +37538,44 @@
     <nd ref="1741473838"/>
     <nd ref="10158818969"/>
     <nd ref="10158818966"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1110614977">
+    <nd ref="1408494209"/>
+    <nd ref="10160217801"/>
+    <nd ref="1408494230"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Alfaiate Alfredo Antônio Müller"/>
+  </way>
+  <way id="1110614978">
+    <nd ref="1408494198"/>
+    <nd ref="9400528621"/>
+    <nd ref="1408494229"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Luiz Massuquetto"/>
+  </way>
+  <way id="1110614979">
+    <nd ref="1408494215"/>
+    <nd ref="10160217805"/>
+    <nd ref="1408494254"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Alexandre Dalcuch"/>
+  </way>
+  <way id="1110614980">
+    <nd ref="1408494196"/>
+    <nd ref="9400514812"/>
+    <nd ref="3001392225"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua José Cocconi"/>
+  </way>
+  <way id="1110614981">
+    <nd ref="1408494228"/>
+    <nd ref="10160222933"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
