@@ -594,6 +594,50 @@
             "geometry": {
                 "coordinates": [
                     [
+                        -49.2278186,
+                        -25.4173266
+                    ],
+                    [
+                        -49.2278483,
+                        -25.4173848
+                    ],
+                    [
+                        -49.2278078,
+                        -25.4174381
+                    ],
+                    [
+                        -49.2277765,
+                        -25.4175362
+                    ],
+                    [
+                        -49.2279183,
+                        -25.4176907
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "foot": "designated",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 169460804,
+                "nodes": [
+                    1802679785,
+                    1806221247,
+                    1806221258,
+                    1806221245,
+                    1806221256
+                ],
+                "type": "way",
+                "width": "2m"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
                         -49.2841471,
                         -25.3787549
                     ],
@@ -1361,6 +1405,35 @@
                     269224071
                 ],
                 "smoothness": "excellent",
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2276591,
+                        -25.4179905
+                    ],
+                    [
+                        -49.2277764,
+                        -25.4178487
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 356646945,
+                "name": "Rua Ozório Duque Estrada",
+                "nodes": [
+                    3620597124,
+                    892665553
+                ],
+                "oneway": "no",
+                "source": "Bing",
                 "type": "way"
             },
             "type": "Feature"

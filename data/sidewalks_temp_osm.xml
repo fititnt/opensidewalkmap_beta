@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-06T07:31:32Z"/>
+<meta osm_base="2022-11-07T07:32:53Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -142,6 +142,7 @@
   </node>
   <node id="679327320" lat="-25.4661091" lon="-49.2716567"/>
   <node id="679355008" lat="-25.4742934" lon="-49.2722106"/>
+  <node id="892665553" lat="-25.4178487" lon="-49.2277764"/>
   <node id="961794171" lat="-25.4772827" lon="-49.3278252"/>
   <node id="986730930" lat="-25.5276784" lon="-49.2618736"/>
   <node id="986730932" lat="-25.5280915" lon="-49.2609501"/>
@@ -295,6 +296,11 @@
   <node id="1783444587" lat="-25.4411364" lon="-49.2542063"/>
   <node id="1783511555" lat="-25.3807557" lon="-49.2852182"/>
   <node id="1795171089" lat="-25.3971124" lon="-49.2836289"/>
+  <node id="1802679785" lat="-25.4173266" lon="-49.2278186"/>
+  <node id="1806221245" lat="-25.4175362" lon="-49.2277765"/>
+  <node id="1806221247" lat="-25.4173848" lon="-49.2278483"/>
+  <node id="1806221256" lat="-25.4176907" lon="-49.2279183"/>
+  <node id="1806221258" lat="-25.4174381" lon="-49.2278078"/>
   <node id="1818241209" lat="-25.4494923" lon="-49.2358038"/>
   <node id="1824855190" lat="-25.3798594" lon="-49.2859224"/>
   <node id="1824855205" lat="-25.3800506" lon="-49.2867105"/>
@@ -462,6 +468,7 @@
   </node>
   <node id="3617393355" lat="-25.3850370" lon="-49.2317866"/>
   <node id="3617393357" lat="-25.3854075" lon="-49.2321331"/>
+  <node id="3620597124" lat="-25.4179905" lon="-49.2276591"/>
   <node id="3621693740" lat="-25.4240252" lon="-49.2797331">
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="unmarked"/>
@@ -11207,6 +11214,18 @@
     <tag k="survey:date" v="2019-10-09"/>
     <tag k="tactile_paving" v="no"/>
   </way>
+  <way id="169460804">
+    <nd ref="1802679785"/>
+    <nd ref="1806221247"/>
+    <nd ref="1806221258"/>
+    <nd ref="1806221245"/>
+    <nd ref="1806221256"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="width" v="2m"/>
+  </way>
   <way id="171463168">
     <nd ref="7456128074"/>
     <nd ref="1387896001"/>
@@ -11401,6 +11420,15 @@
     <tag k="lit" v="yes"/>
     <tag k="name" v="Rua Monsenhor Celso"/>
     <tag k="smoothness" v="excellent"/>
+  </way>
+  <way id="356646945">
+    <nd ref="3620597124"/>
+    <nd ref="892665553"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Ozório Duque Estrada"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
   </way>
   <way id="358153507">
     <nd ref="3621693740"/>
