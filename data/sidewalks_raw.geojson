@@ -98715,6 +98715,35 @@
                 "type": "way"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2193845,
+                        -25.4097715
+                    ],
+                    [
+                        -49.2192695,
+                        -25.4097273
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1111240099,
+                "lanes": "1",
+                "nodes": [
+                    7052469463,
+                    1671949256
+                ],
+                "sidewalk": "right",
+                "surface": "concrete",
+                "type": "way"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
