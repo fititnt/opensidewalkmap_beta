@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-09T07:33:00Z"/>
+<meta osm_base="2022-11-10T07:31:45Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -114,6 +114,9 @@
   </node>
   <node id="370965135" lat="-25.4178329" lon="-49.2650115"/>
   <node id="371026510" lat="-25.5234175" lon="-49.1980312"/>
+  <node id="372341753" lat="-25.4275532" lon="-49.2044127">
+    <tag k="highway" v="mini_roundabout"/>
+  </node>
   <node id="372417051" lat="-25.5120283" lon="-49.3241836"/>
   <node id="462003549" lat="-25.4397505" lon="-49.2539813"/>
   <node id="470699163" lat="-25.4262633" lon="-49.3082084"/>
@@ -356,6 +359,7 @@
     <tag k="highway" v="turning_circle"/>
   </node>
   <node id="2581958141" lat="-25.4377153" lon="-49.2529638"/>
+  <node id="2597830656" lat="-25.4290900" lon="-49.2042691"/>
   <node id="2631479141" lat="-25.5301916" lon="-49.2048968">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -2274,7 +2278,9 @@
   <node id="8496512569" lat="-25.4248238" lon="-49.2679154"/>
   <node id="8496606635" lat="-25.4409484" lon="-49.2337799"/>
   <node id="8496727658" lat="-25.5893152" lon="-49.3444740"/>
+  <node id="8499437674" lat="-25.4291279" lon="-49.2044120"/>
   <node id="8505365356" lat="-25.4973361" lon="-49.2763558"/>
+  <node id="8520187873" lat="-25.4276720" lon="-49.2043569"/>
   <node id="8523004661" lat="-25.4916357" lon="-49.2725593"/>
   <node id="8523004662" lat="-25.4925795" lon="-49.2732578"/>
   <node id="8523004663" lat="-25.4930816" lon="-49.2735910"/>
@@ -11069,6 +11075,8 @@
   <node id="10160217803" lat="-25.3967416" lon="-49.2184576"/>
   <node id="10160217805" lat="-25.3966729" lon="-49.2183326"/>
   <node id="10160222933" lat="-25.3934552" lon="-49.2159784"/>
+  <node id="10172801009" lat="-25.4235560" lon="-49.2022314"/>
+  <node id="10172801010" lat="-25.4236162" lon="-49.2022016"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -15361,6 +15369,14 @@
     <tag k="highway" v="footway"/>
     <tag k="layer" v="1"/>
     <tag k="surface" v="wood"/>
+  </way>
+  <way id="917332141">
+    <nd ref="372341753"/>
+    <nd ref="8520187873"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Coronel Domingos Soares"/>
+    <tag k="oneway" v="no"/>
   </way>
   <way id="917715246">
     <nd ref="5370346495"/>
@@ -37616,6 +37632,18 @@
     <tag k="lanes" v="1"/>
     <tag k="sidewalk" v="right"/>
     <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1111933880">
+    <nd ref="8499437674"/>
+    <nd ref="2597830656"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1111933883">
+    <nd ref="10172801009"/>
+    <nd ref="10172801010"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
   </way>
 
 </osm>

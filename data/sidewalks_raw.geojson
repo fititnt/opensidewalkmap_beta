@@ -17174,6 +17174,34 @@
             "geometry": {
                 "coordinates": [
                     [
+                        -49.2044127,
+                        -25.4275532
+                    ],
+                    [
+                        -49.2043569,
+                        -25.427672
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 917332141,
+                "name": "Rua Coronel Domingos Soares",
+                "nodes": [
+                    372341753,
+                    8520187873
+                ],
+                "oneway": "no",
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
                         -49.2718489,
                         -25.4944064
                     ],
@@ -98741,6 +98769,58 @@
                 ],
                 "sidewalk": "right",
                 "surface": "concrete",
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.204412,
+                        -25.4291279
+                    ],
+                    [
+                        -49.2042691,
+                        -25.42909
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1111933880,
+                "nodes": [
+                    8499437674,
+                    2597830656
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2022314,
+                        -25.423556
+                    ],
+                    [
+                        -49.2022016,
+                        -25.4236162
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "id": 1111933883,
+                "nodes": [
+                    10172801009,
+                    10172801010
+                ],
                 "type": "way"
             },
             "type": "Feature"
