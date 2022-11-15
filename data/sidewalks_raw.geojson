@@ -94900,9 +94900,11 @@
                 "type": "LineString"
             },
             "properties": {
+                "bridge": "yes",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 1070407721,
+                "layer": "1",
                 "mapillary": "564352764725446",
                 "name": "highway=footway footway=sidewalk surface=paving_stones paving_stones=good",
                 "nodes": [

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-14T07:32:01Z"/>
+<meta osm_base="2022-11-15T07:31:43Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -36612,8 +36612,10 @@
   <way id="1070407721">
     <nd ref="8842913188"/>
     <nd ref="9823403601"/>
+    <tag k="bridge" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
     <tag k="mapillary" v="564352764725446"/>
     <tag k="name" v="highway=footway footway=sidewalk surface=paving_stones paving_stones=good"/>
     <tag k="paving_stones" v="good"/>
