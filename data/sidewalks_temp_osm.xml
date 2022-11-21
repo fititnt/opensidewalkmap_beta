@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-20T07:30:53Z"/>
+<meta osm_base="2022-11-21T07:31:01Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -22017,6 +22017,7 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="mapillary" v="2950258845251723"/>
+    <tag k="surface" v="paving_stones"/>
     <tag k="survey:date" v="2020-02-18"/>
     <tag k="tactile_paving" v="no"/>
   </way>
@@ -22176,6 +22177,7 @@
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
     <tag k="mapillary" v="508778453490546"/>
+    <tag k="surface" v="paving_stones"/>
     <tag k="survey:date" v="2020-02-18"/>
     <tag k="tactile_paving" v="no"/>
   </way>
@@ -22186,6 +22188,7 @@
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
     <tag k="mapillary" v="470046950744381"/>
+    <tag k="surface" v="paving_stones"/>
     <tag k="survey:date" v="2020-02-18"/>
     <tag k="tactile_paving" v="no"/>
   </way>

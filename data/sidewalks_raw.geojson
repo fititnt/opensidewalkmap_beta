@@ -44118,6 +44118,7 @@
                     8842904549,
                     8885878812
                 ],
+                "surface": "paving_stones",
                 "survey:date": "2020-02-18",
                 "tactile_paving": "no",
                 "type": "way"
@@ -44553,6 +44554,7 @@
                     8886351132,
                     8886351131
                 ],
+                "surface": "paving_stones",
                 "survey:date": "2020-02-18",
                 "tactile_paving": "no",
                 "type": "way"
@@ -44583,6 +44585,7 @@
                     8886351133,
                     8886351132
                 ],
+                "surface": "paving_stones",
                 "survey:date": "2020-02-18",
                 "tactile_paving": "no",
                 "type": "way"
