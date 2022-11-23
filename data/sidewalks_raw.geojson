@@ -15071,6 +15071,7 @@
                 "type": "LineString"
             },
             "properties": {
+                "bicycle": "yes",
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 720393847,
