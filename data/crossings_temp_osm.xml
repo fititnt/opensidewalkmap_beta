@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-24T07:31:09Z"/>
+<meta osm_base="2022-11-25T07:31:09Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -600,16 +600,16 @@
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="2385341294" lat="-25.5581184" lon="-49.1854435">
+  <node id="2385341294" lat="-25.5581221" lon="-49.1854424">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="2385341298" lat="-25.5581725" lon="-49.1856287">
+  <node id="2385341298" lat="-25.5581690" lon="-49.1856298">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="2385341302" lat="-25.5581035" lon="-49.1853532">
+  <node id="2385341302" lat="-25.5581000" lon="-49.1853543">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="2385341304" lat="-25.5581404" lon="-49.1855293">
+  <node id="2385341304" lat="-25.5581436" lon="-49.1855283">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="2385363005" lat="-25.4392635" lon="-49.3178219"/>
@@ -8734,10 +8734,12 @@
     <nd ref="2378868026"/>
     <nd ref="2378868024"/>
     <nd ref="2378868027"/>
+    <tag k="access" v="no"/>
     <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
+    <tag k="note" v="Due to Dec 10, 2022"/>
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="661296216">
@@ -9115,9 +9117,11 @@
     <nd ref="2385341294"/>
     <nd ref="2385341304"/>
     <nd ref="2385341298"/>
+    <tag k="access" v="no"/>
     <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="note" v="Due to Dec 10, 2022"/>
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="671002340">

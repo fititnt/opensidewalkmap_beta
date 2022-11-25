@@ -5595,6 +5595,7 @@
                 "type": "LineString"
             },
             "properties": {
+                "access": "no",
                 "crossing": "marked",
                 "footway": "crossing",
                 "highway": "footway",
@@ -5606,6 +5607,7 @@
                     2378868024,
                     2378868027
                 ],
+                "note": "Due to Dec 10, 2022",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -7025,25 +7027,26 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.1853532,
-                        -25.5581035
+                        -49.1853543,
+                        -25.5581
                     ],
                     [
-                        -49.1854435,
-                        -25.5581184
+                        -49.1854424,
+                        -25.5581221
                     ],
                     [
-                        -49.1855293,
-                        -25.5581404
+                        -49.1855283,
+                        -25.5581436
                     ],
                     [
-                        -49.1856287,
-                        -25.5581725
+                        -49.1856298,
+                        -25.558169
                     ]
                 ],
                 "type": "LineString"
             },
             "properties": {
+                "access": "no",
                 "crossing": "marked",
                 "footway": "crossing",
                 "highway": "footway",
@@ -7054,6 +7057,7 @@
                     2385341304,
                     2385341298
                 ],
+                "note": "Due to Dec 10, 2022",
                 "surface": "asphalt",
                 "type": "way"
             },
