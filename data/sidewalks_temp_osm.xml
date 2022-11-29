@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-28T07:30:39Z"/>
+<meta osm_base="2022-11-29T07:30:59Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -2167,12 +2167,18 @@
   <node id="7143074365" lat="-25.5007423" lon="-49.2379184"/>
   <node id="7143074366" lat="-25.5018817" lon="-49.2373597"/>
   <node id="7143074367" lat="-25.5012720" lon="-49.2376587"/>
-  <node id="7143074368" lat="-25.5012381" lon="-49.2375749"/>
+  <node id="7143074368" lat="-25.5012381" lon="-49.2375749">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="7143074369" lat="-25.5012088" lon="-49.2375028">
     <tag k="entrance" v="yes"/>
   </node>
   <node id="7143074370" lat="-25.5011962" lon="-49.2374736"/>
-  <node id="7143074371" lat="-25.5013039" lon="-49.2377372"/>
+  <node id="7143074371" lat="-25.5013039" lon="-49.2377372">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="7143074372" lat="-25.5013231" lon="-49.2377834">
     <tag k="entrance" v="yes"/>
   </node>
