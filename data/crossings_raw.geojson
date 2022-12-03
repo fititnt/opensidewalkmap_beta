@@ -22268,7 +22268,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=crossing=unmarked_footway=crossing_highway=footway_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446101,
@@ -22306,7 +22306,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446102,
@@ -22343,7 +22343,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446103,
@@ -22384,7 +22384,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446104,
@@ -22426,7 +22426,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446105,
@@ -22468,7 +22468,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446106,
@@ -22510,7 +22510,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446107,
@@ -22552,7 +22552,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446108,
@@ -22846,7 +22846,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955446117,
@@ -25715,7 +25715,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 957994254,
@@ -25757,7 +25757,7 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "crossing=unmarked_footway=crossing_highway=footway_lit=yes",
+                "crossing": "unmarked",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 957994255,

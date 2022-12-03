@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-02T07:30:53Z"/>
+<meta osm_base="2022-12-03T07:31:12Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -12934,7 +12934,7 @@
     <nd ref="8842913205"/>
     <nd ref="8842913206"/>
     <nd ref="8842913207"/>
-    <tag k="crossing" v="crossing=crossing=unmarked_footway=crossing_highway=footway_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -12943,7 +12943,7 @@
     <nd ref="8842913208"/>
     <nd ref="8842913209"/>
     <nd ref="8842913211"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -12952,7 +12952,7 @@
     <nd ref="8842913213"/>
     <nd ref="8842913214"/>
     <nd ref="8842913215"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -12962,7 +12962,7 @@
     <nd ref="8842953119"/>
     <nd ref="8842953120"/>
     <nd ref="8842953121"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -12972,7 +12972,7 @@
     <nd ref="8842953124"/>
     <nd ref="8842953125"/>
     <nd ref="8842953126"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -12982,7 +12982,7 @@
     <nd ref="8842953129"/>
     <nd ref="8842953130"/>
     <nd ref="8842953131"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -12992,7 +12992,7 @@
     <nd ref="8842953134"/>
     <nd ref="8842953135"/>
     <nd ref="8842953136"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -13002,7 +13002,7 @@
     <nd ref="8842953139"/>
     <nd ref="8842953140"/>
     <nd ref="8842953141"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -13072,7 +13072,7 @@
     <nd ref="8842953211"/>
     <nd ref="8842953212"/>
     <nd ref="8842953213"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -13781,7 +13781,7 @@
     <nd ref="8864136774"/>
     <nd ref="8864136775"/>
     <nd ref="8864136776"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -13791,7 +13791,7 @@
     <nd ref="8864136779"/>
     <nd ref="8864136780"/>
     <nd ref="8864136781"/>
-    <tag k="crossing" v="crossing=unmarked_footway=crossing_highway=footway_lit=yes"/>
+    <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
