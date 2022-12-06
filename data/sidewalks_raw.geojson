@@ -50724,6 +50724,7 @@
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 961147439,
+                "lit": "yes",
                 "mapillary": "1382256008814171",
                 "nodes": [
                     8822683920,
@@ -51159,6 +51160,7 @@
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 961147451,
+                "lit": "yes",
                 "mapillary": "4093520177378452",
                 "nodes": [
                     8891164702,
@@ -51229,6 +51231,7 @@
                 "footway": "sidewalk",
                 "highway": "footway",
                 "id": 961147452,
+                "lit": "yes",
                 "mapillary": "320651089449715",
                 "nodes": [
                     8822657104,
