@@ -13700,6 +13700,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 953199156,
+                "lit": "yes",
                 "nodes": [
                     8822683968,
                     8822683969,
@@ -13707,6 +13708,7 @@
                     8822683971,
                     8822683972
                 ],
+                "smoothness": "intermediate",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -21799,6 +21801,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955439532,
+                "lit": "yes",
                 "nodes": [
                     8842893495,
                     8842893496,
@@ -21806,6 +21809,7 @@
                     8842893498,
                     8842893499
                 ],
+                "smoothness": "intermediate",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -21928,6 +21932,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955439535,
+                "lit": "yes",
                 "nodes": [
                     8842893510,
                     8842893511,
@@ -21935,6 +21940,7 @@
                     8842893513,
                     8842893514
                 ],
+                "smoothness": "intermediate",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -22142,6 +22148,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 955439541,
+                "lit": "yes",
                 "nodes": [
                     8822688548,
                     8842904551,
@@ -22149,6 +22156,7 @@
                     8842904553,
                     8842904554
                 ],
+                "smoothness": "good",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -22193,6 +22201,7 @@
                     8842904558,
                     8842904559
                 ],
+                "smoothness": "intermediate",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -25060,6 +25069,7 @@
                     8864131663,
                     8864131664
                 ],
+                "smoothness": "excellent",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -25320,6 +25330,8 @@
                     8864131712,
                     8864131713
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -25363,6 +25375,8 @@
                     8864131717,
                     8864131718
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -25771,6 +25785,8 @@
                     8864136780,
                     8864136781
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -26881,6 +26897,7 @@
                     8883218154,
                     8883218155
                 ],
+                "smoothness": "excellent",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -26915,6 +26932,7 @@
                     8883218157,
                     8883218158
                 ],
+                "smoothness": "good",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -27023,12 +27041,14 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 960112739,
+                "lit": "yes",
                 "nodes": [
                     8883218164,
                     8890631910,
                     8883218165,
                     8883218166
                 ],
+                "smoothness": "intermediate",
                 "surface": "asphalt",
                 "type": "way"
             },
