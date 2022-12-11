@@ -44658,6 +44658,8 @@
                     10250039457,
                     10250039456
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -45314,6 +45316,8 @@
                     10250039541,
                     10250039540
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -45478,6 +45482,8 @@
                     10250039561,
                     10250039560
                 ],
+                "smoothness": "good",
+                "surface": "paving_stones",
                 "type": "way"
             },
             "type": "Feature"
@@ -45560,6 +45566,8 @@
                     10250039571,
                     10250039570
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -45601,6 +45609,8 @@
                     10250039576,
                     10250039575
                 ],
+                "smoothness": "good",
+                "surface": "paving_stones",
                 "type": "way"
             },
             "type": "Feature"
@@ -46917,6 +46927,8 @@
                     10250039731,
                     10250039730
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47081,6 +47093,8 @@
                     10250039751,
                     10250039750
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47327,6 +47341,8 @@
                     10250039781,
                     10250039780
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47368,6 +47384,8 @@
                     10250039786,
                     10250039785
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47409,6 +47427,8 @@
                     10250039791,
                     10250039790
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47450,6 +47470,8 @@
                     10250039796,
                     10250039795
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47491,6 +47513,8 @@
                     10250039801,
                     10250039800
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47655,6 +47679,8 @@
                     10250039821,
                     10250039820
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -47696,6 +47722,8 @@
                     10250039826,
                     10250039825
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -49377,6 +49405,8 @@
                     10250013129,
                     10250013128
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -49418,6 +49448,8 @@
                     10250013134,
                     10250013133
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -49541,6 +49573,8 @@
                     10250013149,
                     10250013148
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -49926,12 +49960,12 @@
                         -25.4466338
                     ],
                     [
-                        -49.2763405,
-                        -25.4466414
+                        -49.2763482,
+                        -25.4466735
                     ],
                     [
-                        -49.276324,
-                        -25.4467066
+                        -49.2763286,
+                        -25.4467087
                     ],
                     [
                         -49.2763206,
@@ -49967,8 +50001,8 @@
                         -25.4471637
                     ],
                     [
-                        -49.2777227,
-                        -25.4471726
+                        -49.2777371,
+                        -25.4471904
                     ],
                     [
                         -49.277715,
@@ -50008,8 +50042,8 @@
                         -25.4472354
                     ],
                     [
-                        -49.2779051,
-                        -25.4472444
+                        -49.2779187,
+                        -25.4472636
                     ],
                     [
                         -49.2778975,
@@ -50033,6 +50067,8 @@
                     10250040109,
                     10250013208
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -50049,8 +50085,8 @@
                         -25.4475763
                     ],
                     [
-                        -49.2787907,
-                        -25.4475851
+                        -49.2787992,
+                        -25.447616
                     ],
                     [
                         -49.2787825,
@@ -50074,6 +50110,8 @@
                     10250040114,
                     10250040113
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -50090,8 +50128,8 @@
                         -25.4477295
                     ],
                     [
-                        -49.2789921,
-                        -25.4476626
+                        -49.2790013,
+                        -25.4476921
                     ],
                     [
                         -49.2790191,
@@ -50115,6 +50153,8 @@
                     10250040119,
                     10250040118
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -50131,8 +50171,8 @@
                         -25.4478584
                     ],
                     [
-                        -49.2795234,
-                        -25.4478672
+                        -49.2795348,
+                        -25.4478935
                     ],
                     [
                         -49.2795153,
@@ -50172,8 +50212,8 @@
                         -25.4479289
                     ],
                     [
-                        -49.2797064,
-                        -25.4479377
+                        -49.2797146,
+                        -25.4479693
                     ],
                     [
                         -49.2796983,
@@ -50213,8 +50253,8 @@
                         -25.4481861
                     ],
                     [
-                        -49.2801782,
-                        -25.4481194
+                        -49.280188,
+                        -25.4481477
                     ],
                     [
                         -49.2802056,
@@ -50254,8 +50294,8 @@
                         -25.4463828
                     ],
                     [
-                        -49.2757003,
-                        -25.4463916
+                        -49.2757114,
+                        -25.4464194
                     ],
                     [
                         -49.2756921,
@@ -50295,11 +50335,11 @@
                         -25.4466363
                     ],
                     [
-                        -49.2761576,
-                        -25.4465705
+                        -49.2761644,
+                        -25.4466031
                     ],
                     [
-                        -49.2761875,
+                        -49.2761874,
                         -25.4465629
                     ],
                     [
@@ -50320,6 +50360,8 @@
                     10250040144,
                     10250040143
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -50336,8 +50378,8 @@
                         -25.4459336
                     ],
                     [
-                        -49.2745233,
-                        -25.4459424
+                        -49.2745327,
+                        -25.4459696
                     ],
                     [
                         -49.2745152,
@@ -50377,8 +50419,8 @@
                         -25.4463147
                     ],
                     [
-                        -49.2755239,
-                        -25.4463235
+                        -49.2755335,
+                        -25.4463522
                     ],
                     [
                         -49.2755157,
@@ -50402,6 +50444,8 @@
                     10250040154,
                     10250040153
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -52042,6 +52086,8 @@
                     10250040353,
                     10250040352
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -52124,6 +52170,8 @@
                     10250040363,
                     10250040362
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -52165,6 +52213,8 @@
                     10250040368,
                     10250040367
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -54871,6 +54921,8 @@
                     10250040695,
                     10250040694
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -55035,6 +55087,8 @@
                     10250040715,
                     10250040714
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -55076,6 +55130,8 @@
                     10250040720,
                     10250040719
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -55117,6 +55173,8 @@
                     10250040725,
                     10250040724
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -55281,6 +55339,8 @@
                     10250040745,
                     10250040744
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -58525,6 +58585,8 @@
                     10250041176,
                     10250041175
                 ],
+                "smoothness": "intermediate",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -68898,6 +68960,8 @@
                     10250042418,
                     10250042417
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -68980,6 +69044,8 @@
                     10250042428,
                     10250042427
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -69236,6 +69302,8 @@
                     10250042458,
                     10250042457
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -72237,47 +72305,6 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2761395,
-                        -25.4535408
-                    ],
-                    [
-                        -49.2761536,
-                        -25.4535586
-                    ],
-                    [
-                        -49.2761866,
-                        -25.4536
-                    ],
-                    [
-                        -49.2762189,
-                        -25.4536406
-                    ],
-                    [
-                        -49.2762328,
-                        -25.453658
-                    ]
-                ],
-                "type": "LineString"
-            },
-            "properties": {
-                "footway": "crossing",
-                "highway": "footway",
-                "id": 1120694238,
-                "nodes": [
-                    10250042830,
-                    10250042829,
-                    10250042828,
-                    10250042827,
-                    10250042826
-                ],
-                "type": "way"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
                         -49.2752824,
                         -25.4536233
                     ],
@@ -72434,6 +72461,8 @@
                     10250042847,
                     10250042846
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -72474,52 +72503,6 @@
                     10250042853,
                     10250042852,
                     10250042851
-                ],
-                "type": "way"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        -49.276362,
-                        -25.4535297
-                    ],
-                    [
-                        -49.2763746,
-                        -25.4535455
-                    ],
-                    [
-                        -49.2763783,
-                        -25.4535501
-                    ],
-                    [
-                        -49.2764039,
-                        -25.4535823
-                    ],
-                    [
-                        -49.2764332,
-                        -25.4536191
-                    ],
-                    [
-                        -49.2764458,
-                        -25.4536348
-                    ]
-                ],
-                "type": "LineString"
-            },
-            "properties": {
-                "footway": "crossing",
-                "highway": "footway",
-                "id": 1120694244,
-                "nodes": [
-                    10250042860,
-                    10250042859,
-                    10250026172,
-                    10250042858,
-                    10250042857,
-                    10250042856
                 ],
                 "type": "way"
             },
@@ -73054,6 +73037,8 @@
                     10250042924,
                     10250042923
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -75918,6 +75903,8 @@
                     10250045288,
                     10250045289
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
