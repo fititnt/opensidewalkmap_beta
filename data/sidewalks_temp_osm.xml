@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-14T07:31:09Z"/>
+<meta osm_base="2022-12-15T07:30:55Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -84481,11 +84481,7 @@
     <nd ref="10250035644"/>
     <nd ref="10250042855"/>
     <nd ref="9855958290"/>
-    <nd ref="10250035643"/>
-    <nd ref="10250035642"/>
-    <nd ref="10250035641"/>
-    <nd ref="10250035640"/>
-    <nd ref="10250035639"/>
+    <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="good"/>
@@ -95164,6 +95160,18 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="sett"/>
+  </way>
+  <way id="1121981854">
+    <nd ref="9855958290"/>
+    <nd ref="10250035643"/>
+    <nd ref="10250035642"/>
+    <nd ref="10250035641"/>
+    <nd ref="10250035640"/>
+    <nd ref="10250035639"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
     <tag k="surface" v="sett"/>
   </way>
 
