@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-16T07:30:54Z"/>
+<meta osm_base="2022-12-17T07:30:38Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -333,6 +333,9 @@
   <node id="1830310745" lat="-25.3792635" lon="-49.2829881"/>
   <node id="1830310747" lat="-25.3795950" lon="-49.2828159"/>
   <node id="1840189620" lat="-25.4137068" lon="-49.2258812"/>
+  <node id="1955869715" lat="-25.4505699" lon="-49.2939617">
+    <tag k="highway" v="turning_circle"/>
+  </node>
   <node id="2060102181" lat="-25.4108677" lon="-49.2661442"/>
   <node id="2066260227" lat="-25.4860674" lon="-49.2680394"/>
   <node id="2066260240" lat="-25.4947176" lon="-49.2749202"/>
@@ -373,6 +376,9 @@
   <node id="2668464605" lat="-25.4522712" lon="-49.2300991"/>
   <node id="2670346396" lat="-25.4302627" lon="-49.2467153"/>
   <node id="2687875260" lat="-25.4531125" lon="-49.2418055">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="2688322193" lat="-25.4525629" lon="-49.2791073">
     <tag k="highway" v="turning_circle"/>
   </node>
   <node id="2688733430" lat="-25.4600993" lon="-49.2343194"/>
@@ -12289,7 +12295,6 @@
   <node id="10250026801" lat="-25.4505271" lon="-49.2939778"/>
   <node id="10250026802" lat="-25.4505269" lon="-49.2939758"/>
   <node id="10250026803" lat="-25.4505286" lon="-49.2939749"/>
-  <node id="10250026804" lat="-25.4505861" lon="-49.2939565"/>
   <node id="10250026805" lat="-25.4514020" lon="-49.2941241"/>
   <node id="10250026806" lat="-25.4514090" lon="-49.2941192"/>
   <node id="10250026807" lat="-25.4514143" lon="-49.2941122"/>
@@ -53610,7 +53615,7 @@
   <way id="1120687911">
     <nd ref="10250026808"/>
     <nd ref="10250026788"/>
-    <nd ref="10250026804"/>
+    <nd ref="1955869715"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -53642,7 +53647,7 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="1120687915">
-    <nd ref="10250026804"/>
+    <nd ref="1955869715"/>
     <nd ref="10250026803"/>
     <nd ref="10250026802"/>
     <nd ref="10250026801"/>
@@ -79597,6 +79602,7 @@
     <nd ref="10250034330"/>
     <nd ref="10250034329"/>
     <nd ref="10250034328"/>
+    <nd ref="2688322193"/>
     <nd ref="10250034327"/>
     <nd ref="10250034326"/>
     <nd ref="10250034325"/>
