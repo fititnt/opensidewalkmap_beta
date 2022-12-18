@@ -795,6 +795,23 @@
         {
             "geometry": {
                 "coordinates": [
+                    -49.2681057,
+                    -25.4235596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "marked",
+                "highway": "crossing",
+                "id": 5445949867,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -49.30886,
                     -25.4566
                 ],

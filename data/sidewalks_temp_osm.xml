@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-17T07:30:38Z"/>
+<meta osm_base="2022-12-18T07:31:39Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -246,6 +246,9 @@
   <node id="1717014114" lat="-25.3783503" lon="-49.2834590"/>
   <node id="1721873377" lat="-25.4507039" lon="-49.2371227"/>
   <node id="1731940861" lat="-25.5224136" lon="-49.2269099"/>
+  <node id="1733116496" lat="-25.4542429" lon="-49.2728176">
+    <tag k="highway" v="turning_circle"/>
+  </node>
   <node id="1738236388" lat="-25.4650537" lon="-49.3538308">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -22838,7 +22841,6 @@
   <node id="10250037671" lat="-25.4542003" lon="-49.2728011"/>
   <node id="10250037672" lat="-25.4542012" lon="-49.2727993"/>
   <node id="10250037673" lat="-25.4542031" lon="-49.2727998"/>
-  <node id="10250037674" lat="-25.4542575" lon="-49.2728241"/>
   <node id="10250037675" lat="-25.4542827" lon="-49.2728354"/>
   <node id="10250037676" lat="-25.4540794" lon="-49.2731290"/>
   <node id="10250037677" lat="-25.4541488" lon="-49.2729408"/>
@@ -91716,7 +91718,7 @@
   </way>
   <way id="1120692956">
     <nd ref="10250037675"/>
-    <nd ref="10250037674"/>
+    <nd ref="1733116496"/>
     <nd ref="10250037673"/>
     <nd ref="10250037672"/>
     <nd ref="10250037671"/>
