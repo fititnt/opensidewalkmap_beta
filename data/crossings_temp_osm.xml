@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-18T07:31:39Z"/>
+<meta osm_base="2022-12-19T07:31:09Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -1024,7 +1024,6 @@
     <tag k="crossing_ref" v="zebra"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="5065068849" lat="-25.4530605" lon="-49.2803093"/>
   <node id="5065833527" lat="-25.4361634" lon="-49.2574584"/>
   <node id="5067932046" lat="-25.4363805" lon="-49.3172322">
     <tag k="crossing" v="zebra"/>
@@ -14888,23 +14887,6 @@
     <tag k="barrier" v="kerb"/>
   </node>
   <node id="10250042815" lat="-25.4634649" lon="-49.2823842"/>
-  <node id="10250042816" lat="-25.4531170" lon="-49.2802849"/>
-  <node id="10250042817" lat="-25.4531001" lon="-49.2802925">
-    <tag k="barrier" v="kerb"/>
-  </node>
-  <node id="10250042819" lat="-25.4530214" lon="-49.2803279">
-    <tag k="barrier" v="kerb"/>
-  </node>
-  <node id="10250042820" lat="-25.4530047" lon="-49.2803355"/>
-  <node id="10250042821" lat="-25.4529464" lon="-49.2794855"/>
-  <node id="10250042822" lat="-25.4529635" lon="-49.2794751">
-    <tag k="barrier" v="kerb"/>
-  </node>
-  <node id="10250042823" lat="-25.4530035" lon="-49.2794510"/>
-  <node id="10250042824" lat="-25.4530436" lon="-49.2794269">
-    <tag k="barrier" v="kerb"/>
-  </node>
-  <node id="10250042825" lat="-25.4530607" lon="-49.2794165"/>
   <node id="10250042831" lat="-25.4535031" lon="-49.2752260"/>
   <node id="10250042832" lat="-25.4535211" lon="-49.2752344">
     <tag k="barrier" v="kerb"/>
@@ -32864,24 +32846,6 @@
     <nd ref="10250042813"/>
     <nd ref="10250042812"/>
     <nd ref="10250042811"/>
-    <tag k="footway" v="crossing"/>
-    <tag k="highway" v="footway"/>
-  </way>
-  <way id="1120694236">
-    <nd ref="10250042820"/>
-    <nd ref="10250042819"/>
-    <nd ref="5065068849"/>
-    <nd ref="10250042817"/>
-    <nd ref="10250042816"/>
-    <tag k="footway" v="crossing"/>
-    <tag k="highway" v="footway"/>
-  </way>
-  <way id="1120694237">
-    <nd ref="10250042825"/>
-    <nd ref="10250042824"/>
-    <nd ref="10250042823"/>
-    <nd ref="10250042822"/>
-    <nd ref="10250042821"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
