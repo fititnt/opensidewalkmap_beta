@@ -4063,6 +4063,23 @@
         {
             "geometry": {
                 "coordinates": [
+                    -49.2310985,
+                    -25.455861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "marked",
+                "highway": "crossing",
+                "id": 8843282993,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -49.2228911,
                     -25.4576696
                 ],
@@ -7734,6 +7751,38 @@
                 "id": 9788702212,
                 "kerb": "lowered",
                 "tactile_paving": "no",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2266181,
+                    -25.4542855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 9788702215,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2265927,
+                    -25.454346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 9788718217,
+                "kerb": "raised",
                 "type": "node"
             },
             "type": "Feature"

@@ -13208,6 +13208,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 953198585,
+                "lit": "yes",
                 "nodes": [
                     8822645906,
                     8822645907,
@@ -13215,6 +13216,8 @@
                     8822645909,
                     8822645910
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -13292,6 +13295,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 953198587,
+                "lit": "yes",
                 "nodes": [
                     8822645915,
                     8822645916,
@@ -13299,6 +13303,8 @@
                     8822679618,
                     8822679619
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -20036,6 +20042,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 954754661,
+                "lit": "yes",
                 "nodes": [
                     8837075382,
                     8837075449,
@@ -20043,6 +20050,7 @@
                     8837075451,
                     8837075452
                 ],
+                "smoothness": "excellent",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -28437,6 +28445,8 @@
                     8889224149,
                     8889224150
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -36347,6 +36357,8 @@
                     9788718217,
                     9788702163
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"

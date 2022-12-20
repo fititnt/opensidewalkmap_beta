@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-19T07:31:09Z"/>
+<meta osm_base="2022-12-20T07:31:23Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -32224,14 +32224,6 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="954648475">
-    <nd ref="8836180378"/>
-    <nd ref="8836180379"/>
-    <nd ref="8836180380"/>
-    <nd ref="8836180381"/>
-    <nd ref="8836180382"/>
-    <nd ref="8836180383"/>
-    <nd ref="8836180384"/>
-    <nd ref="8836180385"/>
     <nd ref="8836180386"/>
     <nd ref="8836180387"/>
     <nd ref="8836180388"/>
@@ -32246,6 +32238,10 @@
     <nd ref="8836180541"/>
     <nd ref="8836180397"/>
     <nd ref="8836180378"/>
+    <nd ref="8836180379"/>
+    <nd ref="8836180380"/>
+    <nd ref="8836180381"/>
+    <nd ref="8836180382"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -49129,6 +49125,7 @@
     <nd ref="9788832586"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
     <tag k="mapillary" v="852581495617019"/>
     <tag k="smoothness" v="bad"/>
     <tag k="surface" v="concrete:plates"/>
@@ -95181,6 +95178,18 @@
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="sett"/>
+  </way>
+  <way id="1123456105">
+    <nd ref="8836180382"/>
+    <nd ref="8836180383"/>
+    <nd ref="8836180384"/>
+    <nd ref="8836180385"/>
+    <nd ref="8836180386"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
 
 </osm>
