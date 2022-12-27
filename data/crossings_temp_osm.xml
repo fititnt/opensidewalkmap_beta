@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-26T07:31:09Z"/>
+<meta osm_base="2022-12-27T07:31:26Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -6793,10 +6793,12 @@
   <node id="9786721961" lat="-25.4552062" lon="-49.2264309"/>
   <node id="9786721962" lat="-25.4551853" lon="-49.2264518">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
   </node>
   <node id="9786721963" lat="-25.4551510" lon="-49.2264927"/>
   <node id="9786721964" lat="-25.4551315" lon="-49.2265358">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
   </node>
   <node id="9786721965" lat="-25.4551208" lon="-49.2265830"/>
   <node id="9786721966" lat="-25.4560935" lon="-49.2269049">
@@ -6845,10 +6847,12 @@
   <node id="9786722013" lat="-25.4551919" lon="-49.2262035"/>
   <node id="9786722014" lat="-25.4561131" lon="-49.2257137">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
   </node>
   <node id="9786722015" lat="-25.4561435" lon="-49.2257014"/>
   <node id="9786722016" lat="-25.4561785" lon="-49.2256861">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
   </node>
   <node id="9786723817" lat="-25.4558659" lon="-49.2249935"/>
   <node id="9786723818" lat="-25.4558886" lon="-49.2249860">
@@ -6862,6 +6866,7 @@
   <node id="9788702209" lat="-25.4537338" lon="-49.2268578"/>
   <node id="9788702210" lat="-25.4537495" lon="-49.2268508">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
   </node>
   <node id="9788702211" lat="-25.4537747" lon="-49.2268401"/>
   <node id="9788702212" lat="-25.4538027" lon="-49.2268285">
@@ -19042,6 +19047,7 @@
     <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="953198584">
     <nd ref="8822645901"/>
@@ -19075,6 +19081,8 @@
     <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="953198587">
     <nd ref="8822645915"/>
@@ -21553,6 +21561,7 @@
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="955847257">
     <nd ref="8846406920"/>
@@ -22223,6 +22232,8 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="959863304">
     <nd ref="8880932809"/>
@@ -22685,6 +22696,9 @@
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="960925976">
     <nd ref="8889224078"/>
@@ -24842,6 +24856,9 @@
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1065698097">
     <nd ref="9786721957"/>
@@ -24862,6 +24879,7 @@
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1065698099">
     <nd ref="9786723817"/>
@@ -24882,6 +24900,8 @@
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1065914709">
     <nd ref="9788702214"/>

@@ -13131,6 +13131,7 @@
                     8822645899,
                     8822645900
                 ],
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -13260,6 +13261,8 @@
                     8822645913,
                     8822645914
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -23370,6 +23373,7 @@
                     8846406958,
                     8846406959
                 ],
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -26048,6 +26052,8 @@
                     8880932807,
                     8880932808
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -27891,6 +27897,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 960925975,
+                "lit": "yes",
                 "nodes": [
                     8889224073,
                     8889224074,
@@ -27898,6 +27905,8 @@
                     8889224076,
                     8889224077
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -36140,6 +36149,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 1065698096,
+                "lit": "yes",
                 "nodes": [
                     9786721978,
                     9786722008,
@@ -36147,6 +36157,8 @@
                     9786722009,
                     8842683540
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -36231,6 +36243,7 @@
                     9786722016,
                     8822636743
                 ],
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -36315,6 +36328,8 @@
                     9788702212,
                     9788702213
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
