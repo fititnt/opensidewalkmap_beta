@@ -34169,20 +34169,26 @@
                         -25.4751524
                     ],
                     [
-                        -49.2183678,
-                        -25.4751875
+                        -49.2184077,
+                        -25.475173
+                    ],
+                    [
+                        -49.2183516,
+                        -25.4751906
                     ]
                 ],
                 "type": "LineString"
             },
             "properties": {
                 "crossing": "marked",
+                "crossing:markings": "zebra",
                 "foot": "yes",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 1054973923,
                 "nodes": [
                     9694206153,
+                    10289538355,
                     9694206154
                 ],
                 "surface": "asphalt",
