@@ -155,6 +155,23 @@
         {
             "geometry": {
                 "coordinates": [
+                    -49.2698183,
+                    -25.4022319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "marked",
+                "highway": "crossing",
+                "id": 881735107,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -49.271431,
                     -25.4394178
                 ],
@@ -1189,6 +1206,42 @@
                 "survey:date": "2021-04-21",
                 "type": "node",
                 "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2699458,
+                    -25.3976296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "marked",
+                "crossing:island": "no",
+                "highway": "crossing",
+                "id": 6390644452,
+                "kerb": "flush",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.26995,
+                    -25.3986948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "marked",
+                "crossing:island": "no",
+                "highway": "crossing",
+                "id": 6390644454,
+                "kerb": "flush",
+                "type": "node"
             },
             "type": "Feature"
         },
@@ -3683,6 +3736,7 @@
                 "kerb": "raised",
                 "mapillary": "374427537306653",
                 "survey:date": "2020-02-17",
+                "tactile_paving": "no",
                 "type": "node",
                 "wheelchair": "no"
             },

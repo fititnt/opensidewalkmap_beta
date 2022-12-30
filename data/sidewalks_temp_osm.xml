@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-29T07:31:39Z"/>
+<meta osm_base="2022-12-30T07:31:39Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -6430,7 +6430,8 @@
   <node id="8890149812" lat="-25.4607232" lon="-49.2337579"/>
   <node id="8890149813" lat="-25.4606932" lon="-49.2337374">
     <tag k="access" v="customers"/>
-    <tag k="door" v="automatic"/>
+    <tag k="automatic_door" v="motion"/>
+    <tag k="door" v="sliding"/>
     <tag k="entrance" v="main"/>
     <tag k="level" v="0"/>
   </node>
@@ -6750,9 +6751,13 @@
   <node id="9034978607" lat="-25.4624927" lon="-49.2295754"/>
   <node id="9034978608" lat="-25.4587644" lon="-49.2386961"/>
   <node id="9034978609" lat="-25.4598872" lon="-49.2315579"/>
-  <node id="9034978610" lat="-25.4542592" lon="-49.2294018"/>
+  <node id="9034978610" lat="-25.4542592" lon="-49.2294018">
+    <tag k="barrier" v="gate"/>
+  </node>
   <node id="9034978611" lat="-25.4615631" lon="-49.2292381"/>
-  <node id="9034978612" lat="-25.4545493" lon="-49.2295381"/>
+  <node id="9034978612" lat="-25.4545493" lon="-49.2295381">
+    <tag k="barrier" v="gate"/>
+  </node>
   <node id="9034980879" lat="-25.4180008" lon="-49.3623363"/>
   <node id="9034980948" lat="-25.4528329" lon="-49.3749826"/>
   <node id="9035358902" lat="-25.4626402" lon="-49.2325006"/>
@@ -25505,6 +25510,26 @@
   <node id="10288446684" lat="-25.4661865" lon="-49.2223440"/>
   <node id="10288446685" lat="-25.4678678" lon="-49.2217601"/>
   <node id="10288524702" lat="-25.4634304" lon="-49.2231451"/>
+  <node id="10294151369" lat="-25.4585805" lon="-49.2278720"/>
+  <node id="10294151370" lat="-25.4586891" lon="-49.2275866"/>
+  <node id="10294151371" lat="-25.4589651" lon="-49.2273174"/>
+  <node id="10294151372" lat="-25.4591136" lon="-49.2273871"/>
+  <node id="10294151373" lat="-25.4592304" lon="-49.2274420"/>
+  <node id="10294151374" lat="-25.4593190" lon="-49.2274836"/>
+  <node id="10294151375" lat="-25.4594349" lon="-49.2275380"/>
+  <node id="10294151376" lat="-25.4595524" lon="-49.2275932"/>
+  <node id="10294151377" lat="-25.4596627" lon="-49.2276450"/>
+  <node id="10294151378" lat="-25.4597307" lon="-49.2276769"/>
+  <node id="10294151379" lat="-25.4597440" lon="-49.2280930"/>
+  <node id="10294151380" lat="-25.4596955" lon="-49.2282277"/>
+  <node id="10294151381" lat="-25.4596692" lon="-49.2283009"/>
+  <node id="10294151382" lat="-25.4594227" lon="-49.2284851"/>
+  <node id="10294151383" lat="-25.4593019" lon="-49.2284280"/>
+  <node id="10294151384" lat="-25.4591541" lon="-49.2283583"/>
+  <node id="10294151385" lat="-25.4590582" lon="-49.2283130"/>
+  <node id="10294151386" lat="-25.4589309" lon="-49.2282529"/>
+  <node id="10294151387" lat="-25.4588372" lon="-49.2282087"/>
+  <node id="10294151388" lat="-25.4587278" lon="-49.2281571"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -29999,22 +30024,10 @@
   </way>
   <way id="952179483">
     <nd ref="8813219908"/>
+    <nd ref="8813219908"/>
     <nd ref="8813219909"/>
     <nd ref="8813243725"/>
-    <nd ref="8813243744"/>
-    <nd ref="8813219910"/>
-    <nd ref="8813219911"/>
-    <nd ref="8813243739"/>
-    <nd ref="8813243676"/>
-    <nd ref="8813219912"/>
-    <nd ref="8813219913"/>
-    <nd ref="8813243671"/>
-    <nd ref="8813243691"/>
-    <nd ref="8813219914"/>
-    <nd ref="8813219915"/>
-    <nd ref="8813243700"/>
-    <nd ref="8813243720"/>
-    <nd ref="8813219908"/>
+    <nd ref="10294151369"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -48561,6 +48574,7 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
   </way>
   <way id="1065388872">
     <nd ref="9784320758"/>
@@ -95239,6 +95253,153 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1125734574">
+    <nd ref="10294151369"/>
+    <nd ref="10294151370"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734575">
+    <nd ref="10294151370"/>
+    <nd ref="8813243744"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734576">
+    <nd ref="8813243744"/>
+    <nd ref="8813219910"/>
+    <nd ref="8813219911"/>
+    <nd ref="8813243739"/>
+    <nd ref="10294151371"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734577">
+    <nd ref="10294151371"/>
+    <nd ref="10294151372"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734578">
+    <nd ref="10294151372"/>
+    <nd ref="10294151373"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734579">
+    <nd ref="10294151373"/>
+    <nd ref="10294151374"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734580">
+    <nd ref="10294151374"/>
+    <nd ref="10294151375"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734581">
+    <nd ref="10294151375"/>
+    <nd ref="10294151376"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734582">
+    <nd ref="10294151376"/>
+    <nd ref="10294151377"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734583">
+    <nd ref="10294151377"/>
+    <nd ref="10294151378"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734584">
+    <nd ref="10294151378"/>
+    <nd ref="8813243676"/>
+    <nd ref="8813219912"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734585">
+    <nd ref="8813219912"/>
+    <nd ref="8813219913"/>
+    <nd ref="8813243671"/>
+    <nd ref="10294151379"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734586">
+    <nd ref="10294151379"/>
+    <nd ref="10294151380"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734587">
+    <nd ref="10294151380"/>
+    <nd ref="10294151381"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734588">
+    <nd ref="10294151381"/>
+    <nd ref="8813243691"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734589">
+    <nd ref="8813243691"/>
+    <nd ref="8813219914"/>
+    <nd ref="8813219915"/>
+    <nd ref="8813243700"/>
+    <nd ref="10294151382"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734590">
+    <nd ref="10294151382"/>
+    <nd ref="10294151383"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734591">
+    <nd ref="10294151383"/>
+    <nd ref="10294151384"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734592">
+    <nd ref="10294151384"/>
+    <nd ref="10294151385"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734593">
+    <nd ref="10294151385"/>
+    <nd ref="10294151386"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734594">
+    <nd ref="10294151386"/>
+    <nd ref="10294151387"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734595">
+    <nd ref="10294151387"/>
+    <nd ref="10294151388"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1125734596">
+    <nd ref="10294151388"/>
+    <nd ref="8813243720"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
   </way>
 
 </osm>

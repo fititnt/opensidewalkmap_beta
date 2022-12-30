@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-29T07:31:39Z"/>
+<meta osm_base="2022-12-30T07:31:39Z"/>
 
   <node id="603560947" lat="-25.3652886" lon="-49.1862047">
     <tag k="crossing" v="zebra"/>
@@ -58,6 +58,11 @@
     <tag k="mapillary" v="576614830396307"/>
     <tag k="survey:date" v="2019-08-02"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="881735107" lat="-25.4022319" lon="-49.2698183">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
   </node>
   <node id="1229468354" lat="-25.4394178" lon="-49.2714310">
     <tag k="crossing" v="zebra"/>
@@ -450,6 +455,18 @@
     <tag k="mapillary" v="862090991353985"/>
     <tag k="survey:date" v="2021-04-21"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6390644452" lat="-25.3976296" lon="-49.2699458">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="6390644454" lat="-25.3986948" lon="-49.2699500">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
   </node>
   <node id="6403047144" lat="-25.4568324" lon="-49.2318672">
     <tag k="crossing" v="unmarked"/>
@@ -1229,6 +1246,7 @@
     <tag k="kerb" v="raised"/>
     <tag k="mapillary" v="374427537306653"/>
     <tag k="survey:date" v="2020-02-17"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="8842309418" lat="-25.4628459" lon="-49.2329814">

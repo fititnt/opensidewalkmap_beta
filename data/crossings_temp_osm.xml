@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-29T07:31:39Z"/>
+<meta osm_base="2022-12-30T07:31:39Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -1920,6 +1920,7 @@
     <tag k="crossing" v="traffic_signals"/>
     <tag k="crossing_ref" v="zebra"/>
     <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:sound" v="no"/>
   </node>
   <node id="6334218789" lat="-25.4618513" lon="-49.2339769">
     <tag k="bicycle" v="yes"/>
