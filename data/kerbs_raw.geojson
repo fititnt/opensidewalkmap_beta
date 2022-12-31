@@ -4117,6 +4117,21 @@
         {
             "geometry": {
                 "coordinates": [
+                    -49.2303897,
+                    -25.4587603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 8843282971,
+                "kerb": "raised",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -49.2310985,
                     -25.455861
                 ],

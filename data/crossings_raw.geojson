@@ -10568,6 +10568,7 @@
                     8813120851,
                     8813120852
                 ],
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -21650,6 +21651,7 @@
                     8842699965,
                     8842699966
                 ],
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
