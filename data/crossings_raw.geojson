@@ -204,6 +204,39 @@
             "geometry": {
                 "coordinates": [
                     [
+                        -49.2371837,
+                        -25.5024345
+                    ],
+                    [
+                        -49.2370897,
+                        -25.5023959
+                    ],
+                    [
+                        -49.2369825,
+                        -25.502352
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "crossing": "marked",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 106914280,
+                "nodes": [
+                    1229378348,
+                    1399678993,
+                    1229378266
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
                         -49.2639389,
                         -25.4186203
                     ],

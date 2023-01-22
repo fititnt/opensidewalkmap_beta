@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-21T07:31:24Z"/>
+<meta osm_base="2023-01-22T07:31:40Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -228,6 +228,14 @@
     <tag k="survey:date" v="2020-07-30"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="1229378266" lat="-25.5023520" lon="-49.2369825">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1229378348" lat="-25.5024345" lon="-49.2371837">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="1229493581" lat="-25.4186801" lon="-49.2638574">
     <tag k="crossing" v="marked"/>
     <tag k="crossing_ref" v="zebra"/>
@@ -276,6 +284,10 @@
   <node id="1393843482" lat="-25.4375460" lon="-49.2754437">
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1399678993" lat="-25.5023959" lon="-49.2370897">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
   </node>
   <node id="1409006257" lat="-25.5328522" lon="-49.2545563"/>
   <node id="1417501800" lat="-25.5409366" lon="-49.2030429">
@@ -15735,6 +15747,15 @@
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
     <tag k="segregated" v="no"/>
+  </way>
+  <way id="106914280">
+    <nd ref="1229378348"/>
+    <nd ref="1399678993"/>
+    <nd ref="1229378266"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
   </way>
   <way id="106928168">
     <nd ref="370965137"/>
