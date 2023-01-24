@@ -9834,6 +9834,28 @@
                 "type": "node"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2066129,
+                    -25.346856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bin": "no",
+                "departures_board": "no",
+                "highway": "bus_stop",
+                "id": 10577858524,
+                "kerb": "no",
+                "passenger_information_display": "no",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
