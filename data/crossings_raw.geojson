@@ -28846,7 +28846,6 @@
                 "type": "LineString"
             },
             "properties": {
-                "crossing": "highway",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 961034063,
