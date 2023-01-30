@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-29T07:31:21Z"/>
+<meta osm_base="2023-01-30T07:31:23Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -51,6 +51,7 @@
     <tag k="traffic_signals" v="signal"/>
   </node>
   <node id="269224071" lat="-25.4335918" lon="-49.2697792"/>
+  <node id="269362699" lat="-25.4550107" lon="-49.2416367"/>
   <node id="271226465" lat="-25.4285078" lon="-49.2740033"/>
   <node id="324272061" lat="-25.4343041" lon="-49.2907079"/>
   <node id="324272063" lat="-25.4340836" lon="-49.2913304"/>
@@ -176,6 +177,9 @@
   <node id="1354250031" lat="-25.5322647" lon="-49.1955394"/>
   <node id="1359953202" lat="-25.5176099" lon="-49.1987827"/>
   <node id="1387896001" lat="-25.3788162" lon="-49.2841972"/>
+  <node id="1392806610" lat="-25.4548279" lon="-49.2414413">
+    <tag k="highway" v="turning_circle"/>
+  </node>
   <node id="1394041997" lat="-25.4284191" lon="-49.2732020"/>
   <node id="1394041998" lat="-25.4285104" lon="-49.2741174"/>
   <node id="1395984082" lat="-25.4094994" lon="-49.2206057">
@@ -95189,6 +95193,13 @@
     <nd ref="8842683578"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="1136294561">
+    <nd ref="1392806610"/>
+    <nd ref="269362699"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua José Todeschini"/>
   </way>
 
 </osm>
