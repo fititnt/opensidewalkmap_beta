@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-07T07:30:54Z"/>
+<meta osm_base="2023-02-08T07:30:56Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -11717,8 +11717,6 @@
   <node id="10250026280" lat="-25.4629875" lon="-49.2803992"/>
   <node id="10250026281" lat="-25.4532517" lon="-49.2788265"/>
   <node id="10250026282" lat="-25.4529537" lon="-49.2796471"/>
-  <node id="10250026283" lat="-25.4463683" lon="-49.2801062"/>
-  <node id="10250026284" lat="-25.4462777" lon="-49.2798633"/>
   <node id="10250026285" lat="-25.4457119" lon="-49.2787424"/>
   <node id="10250026286" lat="-25.4536478" lon="-49.2778198"/>
   <node id="10250026287" lat="-25.4538500" lon="-49.2782242"/>
@@ -19653,9 +19651,7 @@
   <node id="10250034402" lat="-25.4465653" lon="-49.2794730"/>
   <node id="10250034403" lat="-25.4464251" lon="-49.2795385"/>
   <node id="10250034404" lat="-25.4462584" lon="-49.2798115"/>
-  <node id="10250034405" lat="-25.4462666" lon="-49.2798335"/>
-  <node id="10250034406" lat="-25.4463431" lon="-49.2800386"/>
-  <node id="10250034407" lat="-25.4463844" lon="-49.2801494"/>
+  <node id="10250034407" lat="-25.4463880" lon="-49.2801499"/>
   <node id="10250034408" lat="-25.4464173" lon="-49.2802377"/>
   <node id="10250034409" lat="-25.4464217" lon="-49.2802457"/>
   <node id="10250034410" lat="-25.4464282" lon="-49.2802518"/>
@@ -20426,10 +20422,8 @@
   <node id="10250035235" lat="-25.4458374" lon="-49.2785146"/>
   <node id="10250035236" lat="-25.4458360" lon="-49.2785229"/>
   <node id="10250035237" lat="-25.4458368" lon="-49.2785314"/>
-  <node id="10250035238" lat="-25.4458830" lon="-49.2787362"/>
-  <node id="10250035239" lat="-25.4459215" lon="-49.2789069"/>
-  <node id="10250035240" lat="-25.4459228" lon="-49.2789110"/>
-  <node id="10250035241" lat="-25.4459463" lon="-49.2789741"/>
+  <node id="10250035238" lat="-25.4458926" lon="-49.2787339"/>
+  <node id="10250035241" lat="-25.4460017" lon="-49.2790953"/>
   <node id="10250035242" lat="-25.4468324" lon="-49.2792189"/>
   <node id="10250035243" lat="-25.4466604" lon="-49.2792991"/>
   <node id="10250035244" lat="-25.4469438" lon="-49.2791669"/>
@@ -25460,6 +25454,11 @@
   <node id="10313637812" lat="-25.4245757" lon="-49.2687141">
     <tag k="entrance" v="yes"/>
   </node>
+  <node id="10614522993" lat="-25.4463992" lon="-49.2801216"/>
+  <node id="10614522994" lat="-25.4464136" lon="-49.2800758"/>
+  <node id="10614522995" lat="-25.4463371" lon="-49.2798491"/>
+  <node id="10614522996" lat="-25.4463269" lon="-49.2798250"/>
+  <node id="10614522997" lat="-25.4463905" lon="-49.2800075"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -39575,6 +39574,7 @@
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
     <tag k="mapillary" v="301759848230519"/>
+    <tag k="surface" v="concrete:plates"/>
     <tag k="survey:date" v="2020-02-17"/>
     <tag k="tactile_paving" v="no"/>
   </way>
@@ -79635,14 +79635,6 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="1120691381">
-    <nd ref="10250034406"/>
-    <nd ref="10250026284"/>
-    <nd ref="10250034405"/>
-    <nd ref="10250034404"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-  </way>
   <way id="1120691382">
     <nd ref="10250034415"/>
     <nd ref="10250040873"/>
@@ -79654,8 +79646,6 @@
     <nd ref="10250034408"/>
     <nd ref="10250039401"/>
     <nd ref="10250034407"/>
-    <nd ref="10250026283"/>
-    <nd ref="10250034406"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -82692,8 +82682,6 @@
   </way>
   <way id="1120691784">
     <nd ref="10250035241"/>
-    <nd ref="10250035240"/>
-    <nd ref="10250035239"/>
     <nd ref="10250035238"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -95200,6 +95188,17 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="name" v="Rua José Todeschini"/>
+  </way>
+  <way id="1138718996">
+    <nd ref="10250034407"/>
+    <nd ref="10614522993"/>
+    <nd ref="10614522994"/>
+    <nd ref="10614522997"/>
+    <nd ref="10614522995"/>
+    <nd ref="10614522996"/>
+    <nd ref="10250034404"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
   </way>
 
 </osm>
