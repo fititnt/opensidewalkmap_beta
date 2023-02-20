@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-19T07:31:34Z"/>
+<meta osm_base="2023-02-20T07:30:39Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -322,9 +322,7 @@
   <node id="1738398103" lat="-25.4379300" lon="-49.2717046"/>
   <node id="1738672190" lat="-25.5136209" lon="-49.2946835"/>
   <node id="1744738716" lat="-25.4473390" lon="-49.2141049"/>
-  <node id="1747179882" lat="-25.4343250" lon="-49.1846090"/>
   <node id="1749769078" lat="-25.4129347" lon="-49.2657209"/>
-  <node id="1763849976" lat="-25.4343649" lon="-49.1844896"/>
   <node id="1766533682" lat="-25.4166347" lon="-49.2790473">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="crossing_ref" v="toucan"/>
@@ -1749,7 +1747,7 @@
     <tag k="traffic_signals" v="signal"/>
   </node>
   <node id="6195656954" lat="-25.4437508" lon="-49.1961789"/>
-  <node id="6202545343" lat="-25.4430329" lon="-49.1992878"/>
+  <node id="6202545343" lat="-25.4430315" lon="-49.1992877"/>
   <node id="6202545344" lat="-25.4431834" lon="-49.1992877"/>
   <node id="6202548600" lat="-25.4355893" lon="-49.2482646">
     <tag k="highway" v="crossing"/>
@@ -2076,7 +2074,7 @@
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6502641419" lat="-25.3773340" lon="-49.2255509">
+  <node id="6502641419" lat="-25.3773359" lon="-49.2255485">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
@@ -15689,6 +15687,8 @@
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
+  <node id="10679245900" lat="-25.4344158" lon="-49.1846452"/>
+  <node id="10679245901" lat="-25.4344470" lon="-49.1845369"/>
   <way id="24576715">
     <nd ref="4807326711"/>
     <nd ref="2688348297"/>
@@ -15771,12 +15771,11 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="164011422">
-    <nd ref="1747179882"/>
-    <nd ref="1763849976"/>
+    <nd ref="10679245900"/>
+    <nd ref="10679245901"/>
     <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
-    <tag k="name" v="Rua Moçambique"/>
   </way>
   <way id="194267133">
     <nd ref="2066813335"/>
