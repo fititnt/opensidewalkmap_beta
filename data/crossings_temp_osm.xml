@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-27T07:31:24Z"/>
+<meta osm_base="2023-02-28T07:32:02Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -2445,10 +2445,18 @@
     <tag k="highway" v="crossing"/>
   </node>
   <node id="8076169081" lat="-25.4358449" lon="-49.2511652">
-    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing:barrier" v="no"/>
+    <tag k="crossing:chicane" v="no"/>
+    <tag k="crossing:light" v="yes"/>
+    <tag k="crossing:saltire" v="yes"/>
+    <tag k="railway" v="crossing"/>
   </node>
   <node id="8076169082" lat="-25.4358170" lon="-49.2511681">
-    <tag k="railway" v="level_crossing"/>
+    <tag k="crossing:barrier" v="no"/>
+    <tag k="crossing:chicane" v="no"/>
+    <tag k="crossing:light" v="yes"/>
+    <tag k="crossing:saltire" v="yes"/>
+    <tag k="railway" v="crossing"/>
   </node>
   <node id="8076169083" lat="-25.4359168" lon="-49.2511576"/>
   <node id="8076169084" lat="-25.4357756" lon="-49.2511725"/>
