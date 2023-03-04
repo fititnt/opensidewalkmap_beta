@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-03T07:30:53Z"/>
+<meta osm_base="2023-03-04T07:30:43Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -144,7 +144,6 @@
     <tag k="survey:date" v="2020-09-15"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="613858125" lat="-25.4712014" lon="-49.2787768"/>
   <node id="679327320" lat="-25.4661091" lon="-49.2716567"/>
   <node id="679355008" lat="-25.4742934" lon="-49.2722106"/>
   <node id="892665553" lat="-25.4178487" lon="-49.2277764"/>
@@ -10940,7 +10939,6 @@
   <node id="10096087578" lat="-25.4450164" lon="-49.2855728">
     <tag k="entrance" v="main"/>
   </node>
-  <node id="10098099313" lat="-25.4710941" lon="-49.2786651"/>
   <node id="10104417904" lat="-25.4327143" lon="-49.2729461"/>
   <node id="10107207005" lat="-25.3933667" lon="-49.2408632"/>
   <node id="10107207006" lat="-25.3934738" lon="-49.2404805"/>
@@ -95278,14 +95276,6 @@
     <nd ref="10250034404"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-  </way>
-  <way id="1143615455">
-    <nd ref="10098099313"/>
-    <nd ref="613858125"/>
-    <tag k="bicycle" v="dismount"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="surface" v="concrete:plates"/>
   </way>
   <way id="1149515407">
     <nd ref="6744463161"/>
