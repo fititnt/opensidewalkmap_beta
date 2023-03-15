@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-14T07:31:15Z"/>
+<meta osm_base="2023-03-15T07:31:26Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -54,9 +54,9 @@
   <node id="269362699" lat="-25.4550107" lon="-49.2416367"/>
   <node id="271226465" lat="-25.4285078" lon="-49.2740033"/>
   <node id="324272061" lat="-25.4343041" lon="-49.2907079"/>
-  <node id="324272063" lat="-25.4340836" lon="-49.2913304"/>
+  <node id="324272063" lat="-25.4340998" lon="-49.2913590"/>
   <node id="324272067" lat="-25.4346603" lon="-49.2916393"/>
-  <node id="324272069" lat="-25.4349750" lon="-49.2909132"/>
+  <node id="324272069" lat="-25.4350551" lon="-49.2908929"/>
   <node id="324342966" lat="-25.4260723" lon="-49.2788183"/>
   <node id="347167883" lat="-25.3768359" lon="-49.2835476"/>
   <node id="347167953" lat="-25.3783205" lon="-49.2834005"/>
@@ -1449,7 +1449,7 @@
   <node id="6174044401" lat="-25.5166066" lon="-49.2310422">
     <tag k="entrance" v="exit"/>
   </node>
-  <node id="6175700263" lat="-25.4325299" lon="-49.2655554">
+  <node id="6175700263" lat="-25.4325302" lon="-49.2655562">
     <tag k="bus" v="yes"/>
     <tag k="name" v="Estação Tubo Guadalupe (507)"/>
     <tag k="network" v="Rede Integrada de Transportes"/>
@@ -1457,7 +1457,7 @@
     <tag k="public_transport" v="stop_position"/>
     <tag k="ref" v="109027"/>
   </node>
-  <node id="6175700264" lat="-25.4329160" lon="-49.2653682"/>
+  <node id="6175700264" lat="-25.4329143" lon="-49.2653640"/>
   <node id="6175793582" lat="-25.3780324" lon="-49.2626267">
     <tag k="highway" v="traffic_signals"/>
   </node>
@@ -2282,7 +2282,7 @@
   <node id="8790787765" lat="-25.4342536" lon="-49.2905760">
     <tag k="highway" v="stop"/>
   </node>
-  <node id="8790787767" lat="-25.4344726" lon="-49.2911485"/>
+  <node id="8790787767" lat="-25.4344821" lon="-49.2911725"/>
   <node id="8813120824" lat="-25.4582213" lon="-49.2300702"/>
   <node id="8813120825" lat="-25.4585252" lon="-49.2292884"/>
   <node id="8813120826" lat="-25.4591358" lon="-49.2295806"/>
@@ -11646,7 +11646,7 @@
   <node id="10250026156" lat="-25.4552689" lon="-49.2842456"/>
   <node id="10250026157" lat="-25.4470024" lon="-49.2740008"/>
   <node id="10250026159" lat="-25.4453793" lon="-49.2852404"/>
-  <node id="10250026160" lat="-25.4450294" lon="-49.2854091"/>
+  <node id="10250026160" lat="-25.4450293" lon="-49.2854090"/>
   <node id="10250026166" lat="-25.4530752" lon="-49.2808069"/>
   <node id="10250026168" lat="-25.4531933" lon="-49.2808141"/>
   <node id="10250026169" lat="-25.4535757" lon="-49.2766991"/>
@@ -28479,7 +28479,8 @@
     <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="surface" v="sett"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="690344760">
     <nd ref="6191039885"/>
