@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-15T07:31:26Z"/>
+<meta osm_base="2023-03-16T07:31:08Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
@@ -9676,7 +9676,7 @@
   <node id="10250039676" lat="-25.4483091" lon="-49.2896782">
     <tag k="barrier" v="kerb"/>
   </node>
-  <node id="10250039677" lat="-25.4482945" lon="-49.2896396"/>
+  <node id="10250039677" lat="-25.4482942" lon="-49.2896390"/>
   <node id="10250039678" lat="-25.4482799" lon="-49.2896010">
     <tag k="barrier" v="kerb"/>
   </node>
@@ -9685,7 +9685,7 @@
   <node id="10250039681" lat="-25.4494945" lon="-49.2889852">
     <tag k="barrier" v="kerb"/>
   </node>
-  <node id="10250039682" lat="-25.4495087" lon="-49.2890239"/>
+  <node id="10250039682" lat="-25.4495085" lon="-49.2890235"/>
   <node id="10250039683" lat="-25.4495229" lon="-49.2890627">
     <tag k="barrier" v="kerb"/>
   </node>
@@ -11536,7 +11536,7 @@
   <node id="10250040770" lat="-25.4469155" lon="-49.2903848">
     <tag k="barrier" v="kerb"/>
   </node>
-  <node id="10250040771" lat="-25.4469009" lon="-49.2903462"/>
+  <node id="10250040771" lat="-25.4469005" lon="-49.2903453"/>
   <node id="10250040772" lat="-25.4468863" lon="-49.2903077">
     <tag k="barrier" v="kerb"/>
   </node>
@@ -11545,7 +11545,7 @@
   <node id="10250040775" lat="-25.4479110" lon="-49.2897881">
     <tag k="barrier" v="kerb"/>
   </node>
-  <node id="10250040776" lat="-25.4479190" lon="-49.2898300"/>
+  <node id="10250040776" lat="-25.4479187" lon="-49.2898293"/>
   <node id="10250040777" lat="-25.4479272" lon="-49.2898730">
     <tag k="barrier" v="kerb"/>
   </node>
@@ -11913,7 +11913,7 @@
   <node id="10250040982" lat="-25.4485898" lon="-49.2947985">
     <tag k="barrier" v="kerb"/>
   </node>
-  <node id="10250040983" lat="-25.4485777" lon="-49.2947664"/>
+  <node id="10250040983" lat="-25.4485781" lon="-49.2947673"/>
   <node id="10250040984" lat="-25.4485656" lon="-49.2947343">
     <tag k="barrier" v="kerb"/>
   </node>
@@ -11922,7 +11922,7 @@
   <node id="10250040987" lat="-25.4496822" lon="-49.2941946">
     <tag k="barrier" v="kerb"/>
   </node>
-  <node id="10250040988" lat="-25.4496943" lon="-49.2942267"/>
+  <node id="10250040988" lat="-25.4496943" lon="-49.2942268"/>
   <node id="10250040989" lat="-25.4497064" lon="-49.2942589">
     <tag k="barrier" v="kerb"/>
   </node>
@@ -14246,7 +14246,7 @@
   <node id="10250042413" lat="-25.4497091" lon="-49.2889606">
     <tag k="barrier" v="kerb"/>
   </node>
-  <node id="10250042414" lat="-25.4496973" lon="-49.2889283"/>
+  <node id="10250042414" lat="-25.4496971" lon="-49.2889279"/>
   <node id="10250042415" lat="-25.4496854" lon="-49.2888960">
     <tag k="barrier" v="kerb"/>
   </node>
