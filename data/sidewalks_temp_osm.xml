@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-17T07:31:09Z"/>
+<meta osm_base="2023-03-18T07:31:09Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -57,7 +57,7 @@
   <node id="324272063" lat="-25.4340998" lon="-49.2913590"/>
   <node id="324272067" lat="-25.4347147" lon="-49.2916916"/>
   <node id="324272069" lat="-25.4350551" lon="-49.2908929"/>
-  <node id="324342966" lat="-25.4260723" lon="-49.2788183"/>
+  <node id="324342966" lat="-25.4260725" lon="-49.2787927"/>
   <node id="347167883" lat="-25.3768359" lon="-49.2835476"/>
   <node id="347167953" lat="-25.3783205" lon="-49.2834005"/>
   <node id="347167980" lat="-25.3782802" lon="-49.2833465"/>
@@ -167,6 +167,11 @@
     <tag k="highway" v="turning_circle"/>
   </node>
   <node id="1109643584" lat="-25.4525478" lon="-49.3771571"/>
+  <node id="1228410625" lat="-25.4295101" lon="-49.2840742">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1229541315" lat="-25.4287636" lon="-49.2882250"/>
   <node id="1229556438" lat="-25.4378380" lon="-49.2673100">
     <tag k="highway" v="traffic_signals"/>
   </node>
@@ -298,7 +303,7 @@
     <tag k="highway" v="turning_circle"/>
   </node>
   <node id="1750306704" lat="-25.4512890" lon="-49.2331725"/>
-  <node id="1751801461" lat="-25.4318377" lon="-49.2965761"/>
+  <node id="1751801461" lat="-25.4318569" lon="-49.2965668"/>
   <node id="1760530604" lat="-25.3785253" lon="-49.2878530"/>
   <node id="1760530623" lat="-25.3788106" lon="-49.2874388"/>
   <node id="1760530631" lat="-25.3786538" lon="-49.2882407"/>
@@ -367,13 +372,13 @@
     <tag k="entrance" v="main"/>
     <tag k="fee" v="yes"/>
   </node>
-  <node id="2377388129" lat="-25.4322679" lon="-49.2976673"/>
+  <node id="2377388129" lat="-25.4322867" lon="-49.2976582"/>
   <node id="2381001464" lat="-25.4732959" lon="-49.2667975"/>
   <node id="2381001465" lat="-25.4729653" lon="-49.2669019"/>
-  <node id="2384090913" lat="-25.4320011" lon="-49.2964950"/>
-  <node id="2384090915" lat="-25.4319176" lon="-49.2965364"/>
-  <node id="2384094301" lat="-25.4324299" lon="-49.2975872"/>
-  <node id="2384094302" lat="-25.4323475" lon="-49.2976280"/>
+  <node id="2384090913" lat="-25.4320177" lon="-49.2964870"/>
+  <node id="2384090915" lat="-25.4319381" lon="-49.2965265"/>
+  <node id="2384094301" lat="-25.4324489" lon="-49.2975780"/>
+  <node id="2384094302" lat="-25.4323682" lon="-49.2976180"/>
   <node id="2550667136" lat="-25.4278317" lon="-49.2369720">
     <tag k="highway" v="turning_circle"/>
   </node>
@@ -444,6 +449,7 @@
   </node>
   <node id="3021115170" lat="-25.4460613" lon="-49.2359724"/>
   <node id="3089739010" lat="-25.3780173" lon="-49.2620158"/>
+  <node id="3091785949" lat="-25.4298545" lon="-49.2825072"/>
   <node id="3152543178" lat="-25.4147669" lon="-49.2245608"/>
   <node id="3190587579" lat="-25.4525889" lon="-49.2326585"/>
   <node id="3190587597" lat="-25.4480608" lon="-49.2319713"/>
@@ -756,6 +762,8 @@
   <node id="5046986484" lat="-25.3633504" lon="-49.1850753"/>
   <node id="5046986485" lat="-25.3633157" lon="-49.1851620"/>
   <node id="5067928465" lat="-25.4378383" lon="-49.3132644"/>
+  <node id="5088845738" lat="-25.4293907" lon="-49.2837612"/>
+  <node id="5088878113" lat="-25.4297574" lon="-49.2822585"/>
   <node id="5094707933" lat="-25.4496064" lon="-49.2335268"/>
   <node id="5171044874" lat="-25.5246495" lon="-49.1981589"/>
   <node id="5257521313" lat="-25.3915609" lon="-49.3062160"/>
@@ -1527,18 +1535,19 @@
   <node id="6194124911" lat="-25.5511506" lon="-49.1887455"/>
   <node id="6194124912" lat="-25.5488860" lon="-49.1948564"/>
   <node id="6194124913" lat="-25.5494544" lon="-49.1951179"/>
-  <node id="6202571686" lat="-25.4260674" lon="-49.2786687"/>
-  <node id="6202571687" lat="-25.4259352" lon="-49.2783597"/>
-  <node id="6202571688" lat="-25.4258397" lon="-49.2780995"/>
-  <node id="6202571689" lat="-25.4257957" lon="-49.2779206"/>
+  <node id="6202571686" lat="-25.4260732" lon="-49.2786344"/>
+  <node id="6202571687" lat="-25.4258771" lon="-49.2781280"/>
+  <node id="6202571688" lat="-25.4258397" lon="-49.2780223"/>
+  <node id="6202571689" lat="-25.4258131" lon="-49.2779399"/>
   <node id="6202571690" lat="-25.4257832" lon="-49.2778439"/>
   <node id="6202571692" lat="-25.4285688" lon="-49.2737925"/>
   <node id="6202571693" lat="-25.4285734" lon="-49.2736476"/>
-  <node id="6202619416" lat="-25.5224986" lon="-49.2271144"/>
+  <node id="6202619416" lat="-25.5225010" lon="-49.2271202"/>
   <node id="6206922897" lat="-25.4294053" lon="-49.2940075">
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="signal"/>
   </node>
+  <node id="6206922913" lat="-25.4286048" lon="-49.2882234"/>
   <node id="6211676462" lat="-25.4125791" lon="-49.2554506"/>
   <node id="6211676482" lat="-25.4192275" lon="-49.2652064"/>
   <node id="6211676483" lat="-25.4192708" lon="-49.2645458"/>
@@ -25884,6 +25893,17 @@
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
   </way>
+  <way id="304610302">
+    <nd ref="3091785949"/>
+    <nd ref="5088878113"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Alameda Princesa Izabel"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
   <way id="319847152">
     <nd ref="558907929"/>
     <nd ref="3263190530"/>
@@ -26325,6 +26345,17 @@
     <nd ref="4788549258"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="522498234">
+    <nd ref="5088845738"/>
+    <nd ref="1228410625"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Alameda Júlia da Costa"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="543880389">
     <nd ref="5257593269"/>
@@ -28145,6 +28176,12 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="name" v="Avenida Cândido Hartmann"/>
+  </way>
+  <way id="663066064">
+    <nd ref="1229541315"/>
+    <nd ref="6206922913"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
   </way>
   <way id="663647787">
     <nd ref="267414402"/>

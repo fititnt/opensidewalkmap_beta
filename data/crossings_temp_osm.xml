@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-17T07:32:09Z"/>
+<meta osm_base="2023-03-18T07:32:09Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
-  <node id="266971037" lat="-25.5207465" lon="-49.2281402"/>
+  <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
   <node id="266971058" lat="-25.5291259" lon="-49.2465627"/>
   <node id="266982725" lat="-25.5011799" lon="-49.2364755">
     <tag k="highway" v="traffic_signals"/>
@@ -139,12 +139,14 @@
   </node>
   <node id="836044186" lat="-25.4501725" lon="-49.2501049"/>
   <node id="842703990" lat="-25.5026982" lon="-49.2111229"/>
-  <node id="867530501" lat="-25.5122120" lon="-49.2321816">
+  <node id="867530501" lat="-25.5122062" lon="-49.2321660">
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="867530507" lat="-25.5122960" lon="-49.2323817">
+  <node id="867530507" lat="-25.5122950" lon="-49.2323860">
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="896286720" lat="-25.4228705" lon="-49.3054152">
@@ -233,7 +235,7 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="1229378348" lat="-25.5024345" lon="-49.2371837">
+  <node id="1229378348" lat="-25.5024283" lon="-49.2371798">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
@@ -418,7 +420,7 @@
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="signal"/>
   </node>
-  <node id="2380881623" lat="-25.4950004" lon="-49.2405458"/>
+  <node id="2380881623" lat="-25.4950039" lon="-49.2405554"/>
   <node id="2380881624" lat="-25.4950596" lon="-49.2406947"/>
   <node id="2380907594" lat="-25.4623019" lon="-49.2565488">
     <tag k="highway" v="crossing"/>
@@ -731,7 +733,6 @@
     <tag k="traffic_signals:sound" v="no"/>
   </node>
   <node id="3021115169" lat="-25.4444984" lon="-49.2349315"/>
-  <node id="3101233443" lat="-25.5178932" lon="-49.2296765"/>
   <node id="3144498001" lat="-25.5330689" lon="-49.2636302">
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
@@ -766,7 +767,7 @@
   <node id="3510437804" lat="-25.4290157" lon="-49.2225753"/>
   <node id="3510437807" lat="-25.4291925" lon="-49.2206567"/>
   <node id="3510437809" lat="-25.4295669" lon="-49.2171998"/>
-  <node id="3510483497" lat="-25.5158936" lon="-49.2306540"/>
+  <node id="3510483497" lat="-25.5158659" lon="-49.2305824"/>
   <node id="3515469951" lat="-25.3824883" lon="-49.2001851">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="crossing_ref" v="zebra"/>
@@ -898,17 +899,18 @@
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="4912987576" lat="-25.5203552" lon="-49.2282426">
+  <node id="4912987576" lat="-25.5203340" lon="-49.2282416">
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="4912987577" lat="-25.5273755" lon="-49.2212304">
+  <node id="4912987577" lat="-25.5273737" lon="-49.2212216">
     <tag k="side" v="both"/>
     <tag k="traffic_calming" v="hump"/>
     <tag k="traffic_sign:forward" v="BR:A-18"/>
   </node>
-  <node id="4912987578" lat="-25.5271656" lon="-49.2221063">
+  <node id="4912987578" lat="-25.5271541" lon="-49.2220995">
     <tag k="side" v="both"/>
     <tag k="traffic_calming" v="hump"/>
     <tag k="traffic_sign:forward" v="BR:A-18"/>
@@ -1467,22 +1469,24 @@
   <node id="6161810987" lat="-25.4601540" lon="-49.2119722"/>
   <node id="6161810988" lat="-25.4601294" lon="-49.2118942"/>
   <node id="6161810989" lat="-25.4601079" lon="-49.2118295"/>
-  <node id="6172162701" lat="-25.5203924" lon="-49.2283276"/>
+  <node id="6172162701" lat="-25.5203757" lon="-49.2283276"/>
   <node id="6172162705" lat="-25.5124879" lon="-49.2321727"/>
-  <node id="6172162712" lat="-25.5071837" lon="-49.2348744">
+  <node id="6172162712" lat="-25.5071771" lon="-49.2348551">
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172162713" lat="-25.5071442" lon="-49.2347747"/>
-  <node id="6172162714" lat="-25.5063827" lon="-49.2350200">
+  <node id="6172162714" lat="-25.5063727" lon="-49.2349902">
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172162715" lat="-25.5064244" lon="-49.2351252"/>
   <node id="6172162731" lat="-25.4895248" lon="-49.2433906"/>
-  <node id="6172162732" lat="-25.4894759" lon="-49.2432672"/>
+  <node id="6172162732" lat="-25.4894735" lon="-49.2432610"/>
   <node id="6172162733" lat="-25.4908245" lon="-49.2427573"/>
   <node id="6172162734" lat="-25.4908699" lon="-49.2428715"/>
   <node id="6172162735" lat="-25.4871564" lon="-49.2446817">
@@ -1491,28 +1495,29 @@
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172162736" lat="-25.4871120" lon="-49.2445651"/>
-  <node id="6172162737" lat="-25.4859772" lon="-49.2449860">
+  <node id="6172162737" lat="-25.4859716" lon="-49.2449719">
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172162738" lat="-25.4860207" lon="-49.2450964"/>
-  <node id="6172162759" lat="-25.4811627" lon="-49.2475805">
+  <node id="6172162759" lat="-25.4811660" lon="-49.2475854">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6172162762" lat="-25.4811114" lon="-49.2472073"/>
-  <node id="6172162779" lat="-25.4770770" lon="-49.2496221"/>
+  <node id="6172162779" lat="-25.4770759" lon="-49.2496197"/>
   <node id="6172162780" lat="-25.4770176" lon="-49.2494740"/>
-  <node id="6172162781" lat="-25.4757423" lon="-49.2499621"/>
+  <node id="6172162781" lat="-25.4757430" lon="-49.2499666"/>
   <node id="6172162782" lat="-25.4757866" lon="-49.2500739"/>
-  <node id="6172167189" lat="-25.4729703" lon="-49.2515643">
+  <node id="6172167189" lat="-25.4729767" lon="-49.2515836">
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172167190" lat="-25.4729288" lon="-49.2514582">
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="6172167191" lat="-25.4728872" lon="-49.2513516">
+  <node id="6172167191" lat="-25.4728923" lon="-49.2513615">
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172167192" lat="-25.4642425" lon="-49.2556054">
@@ -1835,21 +1840,21 @@
   </node>
   <node id="6217776766" lat="-25.5292004" lon="-49.2172726"/>
   <node id="6217776784" lat="-25.5270767" lon="-49.2220560"/>
-  <node id="6217776990" lat="-25.5068010" lon="-49.2348163">
+  <node id="6217776990" lat="-25.5067885" lon="-49.2347860">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6217776991" lat="-25.5068427" lon="-49.2349215">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6217776992" lat="-25.5068823" lon="-49.2350212">
+  <node id="6217776992" lat="-25.5068740" lon="-49.2350028">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6217776995" lat="-25.4963354" lon="-49.2400706"/>
-  <node id="6217776996" lat="-25.4963830" lon="-49.2401904"/>
-  <node id="6217777003" lat="-25.4735108" lon="-49.2513105"/>
+  <node id="6217776996" lat="-25.4963790" lon="-49.2401798"/>
+  <node id="6217777003" lat="-25.4735149" lon="-49.2513203"/>
   <node id="6217777004" lat="-25.4734670" lon="-49.2511969"/>
   <node id="6217777005" lat="-25.4722524" lon="-49.2517866"/>
-  <node id="6217777006" lat="-25.4722127" lon="-49.2516803"/>
+  <node id="6217777006" lat="-25.4722155" lon="-49.2516927"/>
   <node id="6217777013" lat="-25.4592011" lon="-49.2581749"/>
   <node id="6217777014" lat="-25.4592432" lon="-49.2582813"/>
   <node id="6217777015" lat="-25.4580349" lon="-49.2587348"/>
@@ -2286,6 +2291,13 @@
     <tag k="access" v="customers"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6919127096" lat="-25.5179711" lon="-49.2296960">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
   </node>
   <node id="6919303152" lat="-25.4447021" lon="-49.2849090">
     <tag k="bicycle" v="yes"/>
@@ -7201,7 +7213,7 @@
     <tag k="highway" v="crossing"/>
     <tag k="traffic_signals" v="signal"/>
   </node>
-  <node id="9987346434" lat="-25.4729869" lon="-49.2516070"/>
+  <node id="9987346434" lat="-25.4729937" lon="-49.2516266"/>
   <node id="9998215631" lat="-25.4821396" lon="-49.2926146">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -15722,6 +15734,58 @@
   <node id="10740304498" lat="-25.4444872" lon="-49.2351982"/>
   <node id="10740304499" lat="-25.4444859" lon="-49.2352687"/>
   <node id="10740464573" lat="-25.4533441" lon="-49.2427320"/>
+  <node id="10741431086" lat="-25.5214712" lon="-49.2277021">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10741431087" lat="-25.5215015" lon="-49.2277780">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10741431088" lat="-25.5215392" lon="-49.2278721">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10741431089" lat="-25.5212949" lon="-49.2277877">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10741431090" lat="-25.5213222" lon="-49.2278615">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10741431091" lat="-25.5213590" lon="-49.2279620">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10741431093" lat="-25.5271814" lon="-49.2221152"/>
+  <node id="10741509160" lat="-25.5214469" lon="-49.2276415"/>
+  <node id="10741509161" lat="-25.5212733" lon="-49.2277289"/>
+  <node id="10741509170" lat="-25.5178977" lon="-49.2296960"/>
+  <node id="10741509172" lat="-25.5179364" lon="-49.2296773"/>
+  <node id="10741509178" lat="-25.5213735" lon="-49.2280015"/>
+  <node id="10741509179" lat="-25.5215554" lon="-49.2279126"/>
+  <node id="10741540172" lat="-25.5159591" lon="-49.2302918"/>
+  <node id="10741540182" lat="-25.5160522" lon="-49.2306323"/>
+  <node id="10741540183" lat="-25.5159787" lon="-49.2303409"/>
+  <node id="10741540184" lat="-25.5159688" lon="-49.2304136"/>
+  <node id="10741540185" lat="-25.5159941" lon="-49.2304798"/>
+  <node id="10741540186" lat="-25.5159799" lon="-49.2304426"/>
+  <node id="10741653516" lat="-25.5122200" lon="-49.2322006"/>
+  <node id="10741653519" lat="-25.5068055" lon="-49.2348278"/>
+  <node id="10741653520" lat="-25.5063872" lon="-49.2350314"/>
+  <node id="10741653523" lat="-25.5023694" lon="-49.2370251"/>
+  <node id="10741653550" lat="-25.5125143" lon="-49.2322393"/>
+  <node id="10741653551" lat="-25.5122807" lon="-49.2323491"/>
+  <node id="10741668616" lat="-25.5159907" lon="-49.2303766"/>
+  <node id="10741699805" lat="-25.4963602" lon="-49.2401330"/>
+  <node id="10741699807" lat="-25.4908498" lon="-49.2428209"/>
+  <node id="10741699809" lat="-25.4871393" lon="-49.2446367"/>
+  <node id="10741786853" lat="-25.4950212" lon="-49.2405980"/>
+  <node id="10741786855" lat="-25.4894897" lon="-49.2433020"/>
+  <node id="10741786856" lat="-25.4859856" lon="-49.2450073"/>
+  <node id="10741830597" lat="-25.4757638" lon="-49.2500165"/>
+  <node id="10741859205" lat="-25.4770547" lon="-49.2495665"/>
   <way id="24576715">
     <nd ref="4807326711"/>
     <nd ref="2688348297"/>
@@ -15763,10 +15827,12 @@
   </way>
   <way id="106805350">
     <nd ref="6217776990"/>
+    <nd ref="10741653519"/>
     <nd ref="6217776991"/>
     <nd ref="6217776992"/>
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="foot" v="permissive"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -15785,9 +15851,11 @@
   <way id="106914280">
     <nd ref="1229378348"/>
     <nd ref="1399678993"/>
+    <nd ref="10741653523"/>
     <nd ref="1229378266"/>
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -15825,6 +15893,7 @@
   </way>
   <way id="229498760">
     <nd ref="2380881623"/>
+    <nd ref="10741786853"/>
     <nd ref="2380881624"/>
     <tag k="bicycle" v="no"/>
     <tag k="footway" v="crossing"/>
@@ -16825,6 +16894,7 @@
     <nd ref="266971037"/>
     <nd ref="4912987575"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="foot" v="permissive"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -16833,14 +16903,17 @@
     <nd ref="4912987576"/>
     <nd ref="6172162701"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="659237665">
     <nd ref="5841833299"/>
+    <nd ref="10741653550"/>
     <nd ref="6172162705"/>
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -16848,30 +16921,36 @@
     <nd ref="6172162712"/>
     <nd ref="6172162713"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="659237670">
     <nd ref="6172162714"/>
+    <nd ref="10741653520"/>
     <nd ref="6172162715"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="659237676">
     <nd ref="6172162731"/>
+    <nd ref="10741786855"/>
     <nd ref="6172162732"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="659237677">
     <nd ref="6172162733"/>
+    <nd ref="10741699807"/>
     <nd ref="6172162734"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="659237678">
     <nd ref="6172162735"/>
+    <nd ref="10741699809"/>
     <nd ref="6172162736"/>
     <tag k="bicycle" v="no"/>
     <tag k="footway" v="crossing"/>
@@ -16879,6 +16958,7 @@
   </way>
   <way id="659237679">
     <nd ref="6172162737"/>
+    <nd ref="10741786856"/>
     <nd ref="6172162738"/>
     <tag k="bicycle" v="no"/>
     <tag k="footway" v="crossing"/>
@@ -16889,17 +16969,20 @@
     <nd ref="2297540831"/>
     <nd ref="6172162762"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="659237700">
     <nd ref="6172162779"/>
+    <nd ref="10741859205"/>
     <nd ref="6172162780"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="659237701">
     <nd ref="6172162781"/>
+    <nd ref="10741830597"/>
     <nd ref="6172162782"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -16911,6 +16994,7 @@
     <nd ref="6172167191"/>
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -16982,13 +17066,14 @@
     <tag k="traffic_calming" v="table"/>
   </way>
   <way id="659435710">
-    <nd ref="3510483497"/>
-    <nd ref="6209115606"/>
+    <nd ref="10741540182"/>
     <nd ref="5794202663"/>
     <nd ref="6174044405"/>
     <nd ref="6202619437"/>
     <tag k="bicycle" v="no"/>
-    <tag k="crossing" v="marked"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="foot" v="destination"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -17322,7 +17407,8 @@
   </way>
   <way id="663339774">
     <nd ref="6174044403"/>
-    <nd ref="3101233443"/>
+    <nd ref="10741509170"/>
+    <nd ref="10741509172"/>
     <tag k="bicycle" v="yes"/>
     <tag k="foot" v="designated"/>
     <tag k="footway" v="crossing"/>
@@ -17416,19 +17502,23 @@
     <nd ref="6202619424"/>
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="664311267">
+    <nd ref="10741431093"/>
     <nd ref="4912987578"/>
     <nd ref="6217776784"/>
     <tag k="bicycle" v="yes"/>
-    <tag k="crossing" v="marked"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
   <way id="664311283">
     <nd ref="6217776995"/>
+    <nd ref="10741699805"/>
     <nd ref="6217776996"/>
     <tag k="bicycle" v="no"/>
     <tag k="footway" v="crossing"/>
@@ -18288,10 +18378,13 @@
   </way>
   <way id="763039967">
     <nd ref="867530507"/>
+    <nd ref="10741653551"/>
     <nd ref="7130352817"/>
+    <nd ref="10741653516"/>
     <nd ref="867530501"/>
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -33938,6 +34031,67 @@
     <nd ref="10740304497"/>
     <nd ref="10740304499"/>
     <nd ref="10740304498"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1155016619">
+    <nd ref="6919127096"/>
+    <nd ref="10741509172"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1155019032">
+    <nd ref="10741509179"/>
+    <nd ref="10741431088"/>
+    <nd ref="10741431087"/>
+    <nd ref="10741431086"/>
+    <nd ref="10741509160"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1155019033">
+    <nd ref="10741509178"/>
+    <nd ref="10741431091"/>
+    <nd ref="10741431090"/>
+    <nd ref="10741431089"/>
+    <nd ref="10741509161"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1155020590">
+    <nd ref="3510483497"/>
+    <nd ref="6209115606"/>
+    <nd ref="10741540182"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="foot" v="destination"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1155020591">
+    <nd ref="10741540172"/>
+    <nd ref="10741540183"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1155020592">
+    <nd ref="10741540183"/>
+    <nd ref="10741668616"/>
+    <nd ref="10741540184"/>
+    <nd ref="10741540186"/>
+    <nd ref="10741540185"/>
+    <nd ref="10741540182"/>
     <tag k="crossing" v="unmarked"/>
     <tag k="crossing:markings" v="no"/>
     <tag k="footway" v="crossing"/>
