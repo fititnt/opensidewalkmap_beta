@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-18T07:31:09Z"/>
+<meta osm_base="2023-03-19T07:31:08Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -25,7 +25,7 @@
   <node id="267453083" lat="-25.4492736" lon="-49.2345575"/>
   <node id="267453084" lat="-25.4487520" lon="-49.2341724"/>
   <node id="267453506" lat="-25.4509940" lon="-49.2319206"/>
-  <node id="269205145" lat="-25.4245959" lon="-49.2817493">
+  <node id="269205145" lat="-25.4246095" lon="-49.2817879">
     <tag k="highway" v="traffic_signals"/>
   </node>
   <node id="269222949" lat="-25.4304987" lon="-49.2722212">
@@ -53,11 +53,13 @@
   <node id="269224071" lat="-25.4335918" lon="-49.2697792"/>
   <node id="269362699" lat="-25.4550107" lon="-49.2416367"/>
   <node id="271226465" lat="-25.4285078" lon="-49.2740033"/>
-  <node id="324272061" lat="-25.4343414" lon="-49.2906908"/>
+  <node id="324272061" lat="-25.4343375" lon="-49.2906844"/>
   <node id="324272063" lat="-25.4340998" lon="-49.2913590"/>
   <node id="324272067" lat="-25.4347147" lon="-49.2916916"/>
   <node id="324272069" lat="-25.4350551" lon="-49.2908929"/>
   <node id="324342966" lat="-25.4260725" lon="-49.2787927"/>
+  <node id="325672380" lat="-25.4286935" lon="-49.2954511"/>
+  <node id="325672473" lat="-25.4282780" lon="-49.2955645"/>
   <node id="347167883" lat="-25.3768359" lon="-49.2835476"/>
   <node id="347167953" lat="-25.3783205" lon="-49.2834005"/>
   <node id="347167980" lat="-25.3782802" lon="-49.2833465"/>
@@ -247,6 +249,7 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
+  <node id="1598778677" lat="-25.4303566" lon="-49.2922844"/>
   <node id="1671949256" lat="-25.4097273" lon="-49.2192695"/>
   <node id="1703737540" lat="-25.3980401" lon="-49.3425541">
     <tag k="highway" v="turning_circle"/>
@@ -292,6 +295,7 @@
   <node id="1748093355" lat="-25.4125341" lon="-49.2878124"/>
   <node id="1748093363" lat="-25.4126698" lon="-49.2876404"/>
   <node id="1748093380" lat="-25.4128675" lon="-49.2875310"/>
+  <node id="1748506796" lat="-25.4302342" lon="-49.2924470"/>
   <node id="1748694173" lat="-25.4295583" lon="-49.2937212"/>
   <node id="1749642494" lat="-25.4130280" lon="-49.2866310">
     <tag k="highway" v="turning_circle"/>
@@ -1543,7 +1547,7 @@
   <node id="6202571692" lat="-25.4285688" lon="-49.2737925"/>
   <node id="6202571693" lat="-25.4285734" lon="-49.2736476"/>
   <node id="6202619416" lat="-25.5225010" lon="-49.2271202"/>
-  <node id="6206922897" lat="-25.4294053" lon="-49.2940075">
+  <node id="6206922897" lat="-25.4293995" lon="-49.2940096">
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="signal"/>
   </node>
@@ -2025,6 +2029,7 @@
   <node id="6967951297" lat="-25.4468275" lon="-49.2333231"/>
   <node id="6967978994" lat="-25.4497169" lon="-49.2347558"/>
   <node id="6967979017" lat="-25.4513118" lon="-49.2320849"/>
+  <node id="6970003251" lat="-25.4302906" lon="-49.2923449"/>
   <node id="7042234268" lat="-25.4277081" lon="-49.2366374"/>
   <node id="7042277861" lat="-25.4180250" lon="-49.2185909">
     <tag k="crossing" v="marked"/>
@@ -25659,6 +25664,17 @@
     <tag k="name" v="Rua Lápis"/>
     <tag k="segregated" v="yes"/>
   </way>
+  <way id="74383311">
+    <nd ref="325672380"/>
+    <nd ref="325672473"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Desembargador Otávio do Amaral"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="concrete"/>
+  </way>
   <way id="106935657">
     <nd ref="3621910085"/>
     <nd ref="5283151676"/>
@@ -29289,6 +29305,15 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="name" v="Rua Ivo Leão"/>
+  </way>
+  <way id="744726677">
+    <nd ref="1748506796"/>
+    <nd ref="6970003251"/>
+    <nd ref="1598778677"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Avenida Cândido Hartmann"/>
   </way>
   <way id="753738628">
     <nd ref="2550667136"/>
