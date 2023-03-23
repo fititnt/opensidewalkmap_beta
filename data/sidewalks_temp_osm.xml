@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-22T07:30:35Z"/>
+<meta osm_base="2023-03-23T07:32:01Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -308,6 +308,7 @@
   </node>
   <node id="1750306704" lat="-25.4512890" lon="-49.2331725"/>
   <node id="1751801461" lat="-25.4318569" lon="-49.2965668"/>
+  <node id="1760468185" lat="-25.4468200" lon="-49.3558704"/>
   <node id="1760530604" lat="-25.3785253" lon="-49.2878530"/>
   <node id="1760530623" lat="-25.3788106" lon="-49.2874388"/>
   <node id="1760530631" lat="-25.3786538" lon="-49.2882407"/>
@@ -376,13 +377,8 @@
     <tag k="entrance" v="main"/>
     <tag k="fee" v="yes"/>
   </node>
-  <node id="2377388129" lat="-25.4322867" lon="-49.2976582"/>
   <node id="2381001464" lat="-25.4732959" lon="-49.2667975"/>
   <node id="2381001465" lat="-25.4729653" lon="-49.2669019"/>
-  <node id="2384090913" lat="-25.4320177" lon="-49.2964870"/>
-  <node id="2384090915" lat="-25.4319381" lon="-49.2965265"/>
-  <node id="2384094301" lat="-25.4324489" lon="-49.2975780"/>
-  <node id="2384094302" lat="-25.4323682" lon="-49.2976180"/>
   <node id="2550667136" lat="-25.4278317" lon="-49.2369720">
     <tag k="highway" v="turning_circle"/>
   </node>
@@ -2287,6 +2283,9 @@
   <node id="8677780392" lat="-25.4244053" lon="-49.2816766"/>
   <node id="8677780397" lat="-25.4245048" lon="-49.2815319"/>
   <node id="8679436929" lat="-25.4469069" lon="-49.3078195"/>
+  <node id="8695631718" lat="-25.4374256" lon="-49.3362599">
+    <tag k="noexit" v="yes"/>
+  </node>
   <node id="8704881938" lat="-25.4178638" lon="-49.3627804"/>
   <node id="8705338173" lat="-25.4466563" lon="-49.2330197"/>
   <node id="8705338185" lat="-25.4467048" lon="-49.2331528"/>
@@ -25554,6 +25553,31 @@
   <node id="10745460863" lat="-25.4058208" lon="-49.3052067"/>
   <node id="10747563392" lat="-25.4261415" lon="-49.2934851"/>
   <node id="10747563393" lat="-25.4257989" lon="-49.2936780"/>
+  <node id="10753227768" lat="-25.4374535" lon="-49.3361751"/>
+  <node id="10753250418" lat="-25.4467547" lon="-49.3555573"/>
+  <node id="10753250689" lat="-25.4467381" lon="-49.3558201"/>
+  <node id="10753250690" lat="-25.4468229" lon="-49.3558270"/>
+  <node id="10753250691" lat="-25.4467466" lon="-49.3556857">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="10753250692" lat="-25.4456016" lon="-49.3557149">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10753250694" lat="-25.4456414" lon="-49.3555715">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10753250695" lat="-25.4455903" lon="-49.3557555"/>
+  <node id="10753250696" lat="-25.4464063" lon="-49.3560308"/>
+  <node id="10753250697" lat="-25.4463926" lon="-49.3560806"/>
+  <node id="10754493739" lat="-25.4328698" lon="-49.3085057"/>
+  <node id="10754493743" lat="-25.4328936" lon="-49.3085075"/>
+  <node id="10754493744" lat="-25.4329178" lon="-49.3083380"/>
+  <node id="10754493745" lat="-25.4330050" lon="-49.3083541"/>
+  <node id="10754493746" lat="-25.4330883" lon="-49.3083699"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -25827,23 +25851,6 @@
     <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-  </way>
-  <way id="229871064">
-    <nd ref="2384090913"/>
-    <nd ref="2384090915"/>
-    <nd ref="1751801461"/>
-    <nd ref="3637417066"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="name" v="Rua Bruno Filgueira"/>
-  </way>
-  <way id="229871575">
-    <nd ref="2377388129"/>
-    <nd ref="2384094302"/>
-    <nd ref="2384094301"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="name" v="Rua General Aristides Athaýde Júnior"/>
   </way>
   <way id="282701898">
     <nd ref="2866360897"/>
@@ -95501,6 +95508,51 @@
     <nd ref="5370346491"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="1156289600">
+    <nd ref="8695631718"/>
+    <nd ref="10753227768"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Francisco Juglair"/>
+  </way>
+  <way id="1156289676">
+    <nd ref="1760468185"/>
+    <nd ref="10753250690"/>
+    <nd ref="10753250689"/>
+    <nd ref="10753250691"/>
+    <nd ref="10753250418"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1156289678">
+    <nd ref="10753250697"/>
+    <nd ref="10753250696"/>
+    <nd ref="10753250695"/>
+    <nd ref="10753250692"/>
+    <nd ref="10753250694"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1156450048">
+    <nd ref="10754493739"/>
+    <nd ref="10754493743"/>
+    <nd ref="10754493744"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1156450050">
+    <nd ref="10754493745"/>
+    <nd ref="10754493746"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1156520805">
+    <nd ref="1751801461"/>
+    <nd ref="3637417066"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Bruno Filgueira"/>
   </way>
 
 </osm>
