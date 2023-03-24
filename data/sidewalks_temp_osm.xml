@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-23T07:32:01Z"/>
+<meta osm_base="2023-03-24T07:31:09Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -10,7 +10,7 @@
   <node id="267173333" lat="-25.4324684" lon="-49.2722365">
     <tag k="highway" v="traffic_signals"/>
   </node>
-  <node id="267192091" lat="-25.4356609" lon="-49.2612445">
+  <node id="267192091" lat="-25.4356616" lon="-49.2612464">
     <tag k="highway" v="traffic_signals"/>
   </node>
   <node id="267414398" lat="-25.4136874" lon="-49.2572090"/>
@@ -1984,7 +1984,7 @@
     <tag k="access" v="customers"/>
     <tag k="barrier" v="gate"/>
   </node>
-  <node id="6680588559" lat="-25.4467083" lon="-49.2476825"/>
+  <node id="6680588559" lat="-25.4467085" lon="-49.2476829"/>
   <node id="6680588560" lat="-25.4467115" lon="-49.2472340"/>
   <node id="6680588561" lat="-25.4466061" lon="-49.2472149"/>
   <node id="6680588562" lat="-25.4465916" lon="-49.2473584"/>
@@ -2088,8 +2088,14 @@
     <tag k="foot" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7130253975" lat="-25.4397344" lon="-49.2626594"/>
-  <node id="7130253976" lat="-25.4396197" lon="-49.2627131"/>
+  <node id="7130253975" lat="-25.4397344" lon="-49.2626594">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7130253976" lat="-25.4396197" lon="-49.2627131">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="7130275470" lat="-25.4394630" lon="-49.2713315"/>
   <node id="7130275471" lat="-25.4393923" lon="-49.2713645">
     <tag k="crossing" v="marked"/>
@@ -29318,7 +29324,6 @@
   <way id="744726677">
     <nd ref="1748506796"/>
     <nd ref="6970003251"/>
-    <nd ref="1598778677"/>
     <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -95553,6 +95558,14 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="name" v="Rua Bruno Filgueira"/>
+  </way>
+  <way id="1156759437">
+    <nd ref="6970003251"/>
+    <nd ref="1598778677"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Avenida Cândido Hartmann"/>
   </way>
 
 </osm>

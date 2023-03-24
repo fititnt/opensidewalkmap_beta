@@ -76,8 +76,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2603738,
-                    -25.4358313
+                    -49.2603743,
+                    -25.4358169
                 ],
                 "type": "Point"
             },
@@ -124,7 +124,9 @@
                 "type": "Point"
             },
             "properties": {
-                "highway": "crossing",
+                "crossing": "traffic_signals",
+                "crossing_ref": "zebra",
+                "highway": "traffic_signals",
                 "id": 846529477,
                 "kerb": "lowered",
                 "type": "node"

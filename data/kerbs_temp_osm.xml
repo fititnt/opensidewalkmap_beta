@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-23T07:30:59Z"/>
+<meta osm_base="2023-03-24T07:31:09Z"/>
 
   <node id="603560947" lat="-25.3652927" lon="-49.1861978">
     <tag k="crossing" v="zebra"/>
@@ -28,7 +28,7 @@
     <tag k="survey:date" v="2019-08-02"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="846529470" lat="-25.4358313" lon="-49.2603738">
+  <node id="846529470" lat="-25.4358169" lon="-49.2603743">
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -47,7 +47,9 @@
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="846529477" lat="-25.4434074" lon="-49.2593717">
-    <tag k="highway" v="crossing"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
     <tag k="kerb" v="lowered"/>
   </node>
   <node id="846529481" lat="-25.4357259" lon="-49.2603732">

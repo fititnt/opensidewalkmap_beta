@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-23T07:32:01Z"/>
+<meta osm_base="2023-03-24T07:31:09Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
@@ -1252,7 +1252,7 @@
     <tag k="crossing_ref" v="toucan"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6008810940" lat="-25.4461334" lon="-49.2483192">
+  <node id="6008810940" lat="-25.4461339" lon="-49.2483200">
     <tag k="bicycle" v="yes"/>
     <tag k="button_operated" v="yes"/>
     <tag k="crossing" v="traffic_signals"/>
@@ -1260,7 +1260,7 @@
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="pedestrian_crossing"/>
   </node>
-  <node id="6008810941" lat="-25.4460809" lon="-49.2481480">
+  <node id="6008810941" lat="-25.4460833" lon="-49.2481519">
     <tag k="bicycle" v="yes"/>
     <tag k="button_operated" v="yes"/>
     <tag k="crossing" v="traffic_signals"/>
@@ -1280,7 +1280,7 @@
   </node>
   <node id="6032373943" lat="-25.4500198" lon="-49.2452113"/>
   <node id="6032373944" lat="-25.4501687" lon="-49.2451013"/>
-  <node id="6032373945" lat="-25.4501255" lon="-49.2450362">
+  <node id="6032373945" lat="-25.4501285" lon="-49.2450410">
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="pedestrian_crossing"/>
   </node>
@@ -2145,13 +2145,13 @@
   <node id="6538093495" lat="-25.5289833" lon="-49.2466007"/>
   <node id="6551451231" lat="-25.4356580" lon="-49.2748235"/>
   <node id="6551451232" lat="-25.4351560" lon="-49.2754166"/>
-  <node id="6551933831" lat="-25.4165143" lon="-49.2790244">
+  <node id="6551933831" lat="-25.4165532" lon="-49.2790342">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="crossing_ref" v="toucan"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6551933832" lat="-25.4167375" lon="-49.2784828"/>
-  <node id="6551933833" lat="-25.4166470" lon="-49.2784023"/>
+  <node id="6551933833" lat="-25.4166810" lon="-49.2784108"/>
   <node id="6557741066" lat="-25.4366714" lon="-49.2580683"/>
   <node id="6557741067" lat="-25.4366478" lon="-49.2580855"/>
   <node id="6557741068" lat="-25.4366001" lon="-49.2581203"/>
@@ -15703,11 +15703,27 @@
   <node id="10716455497" lat="-25.4268896" lon="-49.2653222"/>
   <node id="10716455499" lat="-25.4270095" lon="-49.2651838"/>
   <node id="10716455500" lat="-25.4269639" lon="-49.2650477"/>
-  <node id="10716455501" lat="-25.4269829" lon="-49.2651044"/>
+  <node id="10716455501" lat="-25.4269829" lon="-49.2651044">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
   <node id="10716455503" lat="-25.4269579" lon="-49.2650006"/>
-  <node id="10716455504" lat="-25.4269659" lon="-49.2649571"/>
-  <node id="10716473705" lat="-25.4268430" lon="-49.2652524"/>
-  <node id="10716473706" lat="-25.4267944" lon="-49.2651811"/>
+  <node id="10716455504" lat="-25.4269659" lon="-49.2649571">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="10716473705" lat="-25.4268430" lon="-49.2652524">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="10716473706" lat="-25.4267944" lon="-49.2651811">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
   <node id="10716473710" lat="-25.4271702" lon="-49.2642861"/>
   <node id="10716473712" lat="-25.4269537" lon="-49.2648312"/>
   <node id="10716473713" lat="-25.4270194" lon="-49.2648475"/>
