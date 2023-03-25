@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-24T07:31:09Z"/>
+<meta osm_base="2023-03-25T07:31:54Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -103,11 +103,11 @@
     <tag k="highway" v="traffic_signals"/>
   </node>
   <node id="370961393" lat="-25.4131696" lon="-49.2866916"/>
-  <node id="370961405" lat="-25.4226036" lon="-49.2804933"/>
-  <node id="370961413" lat="-25.4130270" lon="-49.2795162">
+  <node id="370961405" lat="-25.4226307" lon="-49.2804622"/>
+  <node id="370961413" lat="-25.4130314" lon="-49.2795312">
     <tag k="highway" v="traffic_signals"/>
   </node>
-  <node id="370961515" lat="-25.4129146" lon="-49.2800748"/>
+  <node id="370961515" lat="-25.4129195" lon="-49.2800627"/>
   <node id="370961542" lat="-25.4141969" lon="-49.2894124"/>
   <node id="370963754" lat="-25.4176291" lon="-49.2652163">
     <tag k="highway" v="turning_circle"/>
@@ -300,7 +300,7 @@
   <node id="1749642494" lat="-25.4130280" lon="-49.2866310">
     <tag k="highway" v="turning_circle"/>
   </node>
-  <node id="1749642508" lat="-25.4130552" lon="-49.2793756">
+  <node id="1749642508" lat="-25.4130637" lon="-49.2793778">
     <tag k="highway" v="turning_circle"/>
   </node>
   <node id="1749642542" lat="-25.4140846" lon="-49.2893185">
@@ -474,7 +474,7 @@
   <node id="3507819420" lat="-25.4545896" lon="-49.2417884"/>
   <node id="3507819461" lat="-25.4650164" lon="-49.2347254"/>
   <node id="3584290721" lat="-25.4472415" lon="-49.2313642"/>
-  <node id="3596185034" lat="-25.4205022" lon="-49.2746857">
+  <node id="3596185034" lat="-25.4205138" lon="-49.2746857">
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="3599738141" lat="-25.4610445" lon="-49.2800942"/>
