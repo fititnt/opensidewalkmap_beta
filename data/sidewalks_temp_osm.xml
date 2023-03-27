@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-26T07:31:47Z"/>
+<meta osm_base="2023-03-27T07:31:45Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -10,7 +10,7 @@
   <node id="267173333" lat="-25.4324684" lon="-49.2722365">
     <tag k="highway" v="traffic_signals"/>
   </node>
-  <node id="267192091" lat="-25.4356616" lon="-49.2612464">
+  <node id="267192091" lat="-25.4356297" lon="-49.2612540">
     <tag k="highway" v="traffic_signals"/>
   </node>
   <node id="267414398" lat="-25.4136874" lon="-49.2572090"/>
@@ -1468,6 +1468,7 @@
     <tag k="bus" v="yes"/>
     <tag k="name" v="Estação Tubo Guadalupe (507)"/>
     <tag k="network" v="Rede Integrada de Transportes"/>
+    <tag k="network:wikidata" v="Q168744"/>
     <tag k="operator" v="URBS"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="ref" v="109027"/>
@@ -1716,7 +1717,7 @@
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
-  <node id="6456865124" lat="-25.4269873" lon="-49.2633131"/>
+  <node id="6456865124" lat="-25.4269719" lon="-49.2633217"/>
   <node id="6456865125" lat="-25.4277856" lon="-49.2629249"/>
   <node id="6456865126" lat="-25.4277100" lon="-49.2629615">
     <tag k="access" v="yes"/>
@@ -2127,7 +2128,7 @@
   </node>
   <node id="7130279748" lat="-25.4356632" lon="-49.2606494"/>
   <node id="7130279749" lat="-25.4356622" lon="-49.2609079"/>
-  <node id="7130279750" lat="-25.4356643" lon="-49.2603798"/>
+  <node id="7130279750" lat="-25.4356645" lon="-49.2603754"/>
   <node id="7130342692" lat="-25.3847213" lon="-49.2325282">
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="traffic_signals"/>
@@ -25577,6 +25578,7 @@
   <node id="10754493745" lat="-25.4330050" lon="-49.3083541"/>
   <node id="10754493746" lat="-25.4330883" lon="-49.3083699"/>
   <node id="10763124885" lat="-25.4518944" lon="-49.3628536"/>
+  <node id="10764075280" lat="-25.4356580" lon="-49.2611418"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -29468,6 +29470,7 @@
     <nd ref="7130279750"/>
     <nd ref="7130279748"/>
     <nd ref="7130279749"/>
+    <nd ref="10764075280"/>
     <nd ref="267192091"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>

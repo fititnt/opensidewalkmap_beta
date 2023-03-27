@@ -23,28 +23,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2634266,
-                    -25.42884
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "id": 840597204,
-                "kerb": "raised",
-                "type": "node"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -49.2588959,
-                    -25.4451817
+                    -49.2588952,
+                    -25.4451832
                 ],
                 "type": "Point"
             },
             "properties": {
                 "crossing": "marked",
+                "crossing:markings": "yes",
                 "highway": "crossing",
                 "id": 846529453,
                 "kerb": "lowered",
@@ -55,8 +41,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2604637,
-                    -25.435367
+                    -49.2604673,
+                    -25.4353272
                 ],
                 "type": "Point"
             },
@@ -76,8 +62,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2603743,
-                    -25.4358169
+                    -49.2603671,
+                    -25.4358029
                 ],
                 "type": "Point"
             },
@@ -97,8 +83,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2605065,
-                    -25.4352432
+                    -49.2605284,
+                    -25.4351965
                 ],
                 "type": "Point"
             },
@@ -118,8 +104,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2593717,
-                    -25.4434074
+                    -49.25938,
+                    -25.443374
                 ],
                 "type": "Point"
             },
@@ -136,8 +122,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2603732,
-                    -25.4357259
+                    -49.260373,
+                    -25.4357048
                 ],
                 "type": "Point"
             },
@@ -566,13 +552,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2590259,
-                    -25.4448356
+                    -49.2590349,
+                    -25.444839
                 ],
                 "type": "Point"
             },
             "properties": {
                 "crossing": "marked",
+                "crossing:markings": "yes",
                 "highway": "crossing",
                 "id": 3746752900,
                 "kerb": "lowered",
