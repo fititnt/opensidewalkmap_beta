@@ -6443,8 +6443,8 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2212216,
-                        -25.5273737
+                        -49.221218,
+                        -25.5273754
                     ],
                     [
                         -49.221273,
@@ -76398,6 +76398,35 @@
                     10741540186,
                     10741540185,
                     10741540182
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.221273,
+                        -25.5274614
+                    ],
+                    [
+                        -49.221218,
+                        -25.5273754
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "crossing": "uncontrolled",
+                "crossing:markings": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1158078235,
+                "nodes": [
+                    6202619424,
+                    4912987577
                 ],
                 "type": "way"
             },
