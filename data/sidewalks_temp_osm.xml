@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-29T07:30:52Z"/>
+<meta osm_base="2023-03-30T07:31:08Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -854,6 +854,7 @@
   <node id="5284445413" lat="-25.4253003" lon="-49.2699764"/>
   <node id="5284445414" lat="-25.4254506" lon="-49.2697208"/>
   <node id="5284445415" lat="-25.4251857" lon="-49.2700098"/>
+  <node id="5284625978" lat="-25.4010700" lon="-49.2841666"/>
   <node id="5284649133" lat="-25.4946033" lon="-49.2748252"/>
   <node id="5284649135" lat="-25.4882877" lon="-49.2698360"/>
   <node id="5284649136" lat="-25.4862842" lon="-49.2682078"/>
@@ -25579,6 +25580,8 @@
   <node id="10754493746" lat="-25.4330883" lon="-49.3083699"/>
   <node id="10763124885" lat="-25.4518944" lon="-49.3628536"/>
   <node id="10764075280" lat="-25.4356580" lon="-49.2611418"/>
+  <node id="10771828729" lat="-25.4009933" lon="-49.2846345"/>
+  <node id="10771828730" lat="-25.4010038" lon="-49.2841555"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -95559,6 +95562,13 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="name" v="Avenida Cândido Hartmann"/>
+  </way>
+  <way id="1158277273">
+    <nd ref="10771828729"/>
+    <nd ref="10771828730"/>
+    <nd ref="5284625978"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
   </way>
 
 </osm>
