@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-01T07:31:38Z"/>
+<meta osm_base="2023-04-02T07:32:22Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
@@ -138,12 +138,12 @@
   </node>
   <node id="836044186" lat="-25.4501725" lon="-49.2501049"/>
   <node id="842703990" lat="-25.5026982" lon="-49.2111229"/>
-  <node id="867530501" lat="-25.5122062" lon="-49.2321660">
+  <node id="867530501" lat="-25.5121723" lon="-49.2321827">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="867530507" lat="-25.5122950" lon="-49.2323860">
+  <node id="867530507" lat="-25.5122607" lon="-49.2324029">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
@@ -898,7 +898,7 @@
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="4912987576" lat="-25.5203340" lon="-49.2282416">
+  <node id="4912987576" lat="-25.5203377" lon="-49.2282511">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
@@ -2375,7 +2375,7 @@
   </node>
   <node id="7108569766" lat="-25.3889621" lon="-49.1856255"/>
   <node id="7108569767" lat="-25.3887909" lon="-49.1857734"/>
-  <node id="7130352817" lat="-25.5122558" lon="-49.2322859"/>
+  <node id="7130352817" lat="-25.5122207" lon="-49.2323032"/>
   <node id="7143335363" lat="-25.6443233" lon="-49.3123732"/>
   <node id="7143335378" lat="-25.6443020" lon="-49.3123332"/>
   <node id="7143335379" lat="-25.6445513" lon="-49.3125728"/>
@@ -15757,12 +15757,12 @@
   <node id="10741540184" lat="-25.5159688" lon="-49.2304136"/>
   <node id="10741540185" lat="-25.5159941" lon="-49.2304798"/>
   <node id="10741540186" lat="-25.5159799" lon="-49.2304426"/>
-  <node id="10741653516" lat="-25.5122200" lon="-49.2322006"/>
+  <node id="10741653516" lat="-25.5121862" lon="-49.2322173"/>
   <node id="10741653519" lat="-25.5068055" lon="-49.2348278"/>
   <node id="10741653520" lat="-25.5063872" lon="-49.2350314"/>
   <node id="10741653523" lat="-25.5023694" lon="-49.2370251"/>
   <node id="10741653550" lat="-25.5125143" lon="-49.2322393"/>
-  <node id="10741653551" lat="-25.5122807" lon="-49.2323491"/>
+  <node id="10741653551" lat="-25.5122460" lon="-49.2323662"/>
   <node id="10741668616" lat="-25.5159907" lon="-49.2303766"/>
   <node id="10741699805" lat="-25.4963602" lon="-49.2401330"/>
   <node id="10741699807" lat="-25.4908498" lon="-49.2428209"/>
@@ -18362,6 +18362,7 @@
     <tag k="crossing:markings" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Diogo Mugiatti"/>
   </way>
   <way id="764632608">
     <nd ref="7143335363"/>
