@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-04T07:32:09Z"/>
+<meta osm_base="2023-04-05T07:31:33Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -2277,6 +2277,7 @@
   <node id="8523941399" lat="-25.4951635" lon="-49.2719594"/>
   <node id="8552452667" lat="-25.4938648" lon="-49.2074983"/>
   <node id="8552452677" lat="-25.4937291" lon="-49.2079595"/>
+  <node id="8560216796" lat="-25.4956476" lon="-49.2253181"/>
   <node id="8574552878" lat="-25.3934590" lon="-49.2404999"/>
   <node id="8574552879" lat="-25.3932917" lon="-49.2410889"/>
   <node id="8574552880" lat="-25.3931878" lon="-49.2409913"/>
@@ -25582,6 +25583,12 @@
   <node id="10764075280" lat="-25.4356580" lon="-49.2611418"/>
   <node id="10771828729" lat="-25.4009933" lon="-49.2846345"/>
   <node id="10771828730" lat="-25.4010038" lon="-49.2841555"/>
+  <node id="10786497194" lat="-25.4960222" lon="-49.2250391"/>
+  <node id="10786497195" lat="-25.4959060" lon="-49.2251228"/>
+  <node id="10786497196" lat="-25.4958663" lon="-49.2251625"/>
+  <node id="10786497197" lat="-25.4957743" lon="-49.2252826"/>
+  <node id="10786497198" lat="-25.4957501" lon="-49.2253009"/>
+  <node id="10786497199" lat="-25.4957230" lon="-49.2253073"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -95567,6 +95574,17 @@
     <nd ref="10771828729"/>
     <nd ref="10771828730"/>
     <nd ref="5284625978"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1159831344">
+    <nd ref="10786497194"/>
+    <nd ref="10786497195"/>
+    <nd ref="10786497196"/>
+    <nd ref="10786497197"/>
+    <nd ref="10786497198"/>
+    <nd ref="10786497199"/>
+    <nd ref="8560216796"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
