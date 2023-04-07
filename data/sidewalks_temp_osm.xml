@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-06T07:31:06Z"/>
+<meta osm_base="2023-04-07T07:31:22Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -181,7 +181,11 @@
     <tag k="crossing" v="unmarked"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="1354250031" lat="-25.5322647" lon="-49.1955394"/>
+  <node id="1354250031" lat="-25.5322647" lon="-49.1955394">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="1359953202" lat="-25.5176099" lon="-49.1987827"/>
   <node id="1387896001" lat="-25.3788162" lon="-49.2841972"/>
   <node id="1392806610" lat="-25.4548279" lon="-49.2414413">

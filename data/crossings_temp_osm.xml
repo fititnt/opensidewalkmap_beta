@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-06T07:31:06Z"/>
+<meta osm_base="2023-04-07T07:31:22Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
@@ -150,10 +150,6 @@
   </node>
   <node id="896286720" lat="-25.4228705" lon="-49.3054152">
     <tag k="crossing" v="unmarked"/>
-    <tag k="highway" v="crossing"/>
-  </node>
-  <node id="966145636" lat="-25.5452627" lon="-49.2052781">
-    <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="966850553" lat="-25.4778952" lon="-49.3283024"/>
@@ -913,10 +909,6 @@
     <tag k="side" v="both"/>
     <tag k="traffic_calming" v="hump"/>
     <tag k="traffic_sign:forward" v="BR:A-18"/>
-  </node>
-  <node id="4919962657" lat="-25.5452995" lon="-49.2051845">
-    <tag k="crossing" v="marked"/>
-    <tag k="highway" v="crossing"/>
   </node>
   <node id="5029140936" lat="-25.4499517" lon="-49.3572682"/>
   <node id="5029140937" lat="-25.4500422" lon="-49.3571684"/>
@@ -17237,15 +17229,6 @@
     <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
-  </way>
-  <way id="660048172">
-    <nd ref="966145636"/>
-    <nd ref="4919962657"/>
-    <tag k="crossing" v="marked"/>
-    <tag k="footway" v="crossing"/>
-    <tag k="highway" v="footway"/>
-    <tag k="name" v="Rua Duque de Caxias"/>
-    <tag k="note" v="Cruzamento fechado para veículos em 03/2022"/>
   </way>
   <way id="660048181">
     <nd ref="1417501803"/>

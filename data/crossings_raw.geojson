@@ -5527,35 +5527,6 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2052781,
-                        -25.5452627
-                    ],
-                    [
-                        -49.2051845,
-                        -25.5452995
-                    ]
-                ],
-                "type": "LineString"
-            },
-            "properties": {
-                "crossing": "marked",
-                "footway": "crossing",
-                "highway": "footway",
-                "id": 660048172,
-                "name": "Rua Duque de Caxias",
-                "nodes": [
-                    966145636,
-                    4919962657
-                ],
-                "note": "Cruzamento fechado para veículos em 03/2022",
-                "type": "way"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
                         -49.2031396,
                         -25.5409006
                     ],

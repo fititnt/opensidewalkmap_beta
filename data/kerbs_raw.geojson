@@ -223,6 +223,29 @@
         {
             "geometry": {
                 "coordinates": [
+                    -49.1961959,
+                    -25.5496491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing_ref": "zebra",
+                "direction": "both",
+                "highway": "traffic_signals",
+                "id": 1617661724,
+                "kerb": "lowered",
+                "side": "both",
+                "traffic_signals:direction": "both",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -49.2300199,
                     -25.4163473
                 ],
@@ -1014,7 +1037,9 @@
                 "type": "Point"
             },
             "properties": {
-                "crossing": "unmarked",
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
                 "highway": "crossing",
                 "id": 6223620973,
                 "kerb": "lowered",
@@ -1031,7 +1056,9 @@
                 "type": "Point"
             },
             "properties": {
-                "crossing": "unmarked",
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
                 "highway": "crossing",
                 "id": 6223620974,
                 "kerb": "lowered",
@@ -1048,7 +1075,9 @@
                 "type": "Point"
             },
             "properties": {
-                "crossing": "unmarked",
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
                 "highway": "crossing",
                 "id": 6223620975,
                 "kerb": "lowered",
@@ -1065,7 +1094,9 @@
                 "type": "Point"
             },
             "properties": {
-                "crossing": "unmarked",
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
                 "highway": "crossing",
                 "id": 6223620976,
                 "kerb": "lowered",
@@ -9843,6 +9874,229 @@
                 "tactile_paving": "no",
                 "type": "node",
                 "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1972319,
+                    -25.5324342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340978,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1970134,
+                    -25.53241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340979,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1969641,
+                    -25.5323306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340980,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1969668,
+                    -25.5322194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340981,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1970472,
+                    -25.5321748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340982,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1973168,
+                    -25.5322749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340983,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1972327,
+                    -25.5322114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bicycle": "yes",
+                "button_operated": "yes",
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340984,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2014948,
+                    -25.5410563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340995,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2016569,
+                    -25.541073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340996,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2015602,
+                    -25.5411942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340997,
+                "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2014348,
+                    -25.541156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "zebra",
+                "crossing_ref": "zebra",
+                "highway": "crossing",
+                "id": 10791340998,
+                "kerb": "lowered",
+                "type": "node"
             },
             "type": "Feature"
         }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-06T07:31:06Z"/>
+<meta osm_base="2023-04-07T07:31:22Z"/>
 
   <node id="603560947" lat="-25.3652927" lon="-49.1861978">
     <tag k="crossing" v="zebra"/>
@@ -90,6 +90,17 @@
     <tag k="mapillary" v="501421137650725"/>
     <tag k="survey:date" v="2019-10-17"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1617661724" lat="-25.5496491" lon="-49.1961959">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="direction" v="both"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="side" v="both"/>
+    <tag k="traffic_signals:direction" v="both"/>
   </node>
   <node id="1802228562" lat="-25.4163473" lon="-49.2300199">
     <tag k="highway" v="crossing"/>
@@ -385,22 +396,30 @@
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="6223620973" lat="-25.5309052" lon="-49.2030371">
-    <tag k="crossing" v="unmarked"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
   <node id="6223620974" lat="-25.5308424" lon="-49.2028937">
-    <tag k="crossing" v="unmarked"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
   <node id="6223620975" lat="-25.5310038" lon="-49.2028014">
-    <tag k="crossing" v="unmarked"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
   <node id="6223620976" lat="-25.5310916" lon="-49.2029200">
-    <tag k="crossing" v="unmarked"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
@@ -3188,6 +3207,97 @@
     <tag k="shelter" v="yes"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10791340978" lat="-25.5324342" lon="-49.1972319">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340979" lat="-25.5324100" lon="-49.1970134">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340980" lat="-25.5323306" lon="-49.1969641">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340981" lat="-25.5322194" lon="-49.1969668">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340982" lat="-25.5321748" lon="-49.1970472">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340983" lat="-25.5322749" lon="-49.1973168">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340984" lat="-25.5322114" lon="-49.1972327">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340995" lat="-25.5410563" lon="-49.2014948">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340996" lat="-25.5410730" lon="-49.2016569">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340997" lat="-25.5411942" lon="-49.2015602">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10791340998" lat="-25.5411560" lon="-49.2014348">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
   </node>
 
 </osm>
