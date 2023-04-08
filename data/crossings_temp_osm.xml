@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-07T07:31:22Z"/>
+<meta osm_base="2023-04-08T07:31:16Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
@@ -138,12 +138,12 @@
   </node>
   <node id="836044186" lat="-25.4501725" lon="-49.2501049"/>
   <node id="842703990" lat="-25.5026982" lon="-49.2111229"/>
-  <node id="867530501" lat="-25.5121723" lon="-49.2321827">
+  <node id="867530501" lat="-25.5121738" lon="-49.2321865">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="867530507" lat="-25.5122607" lon="-49.2324029">
+  <node id="867530507" lat="-25.5122645" lon="-49.2324125">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
@@ -226,7 +226,7 @@
     <tag k="survey:date" v="2020-07-30"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1229378266" lat="-25.5023520" lon="-49.2369825">
+  <node id="1229378266" lat="-25.5023539" lon="-49.2369911">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
@@ -415,7 +415,7 @@
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="signal"/>
   </node>
-  <node id="2380881623" lat="-25.4950039" lon="-49.2405554"/>
+  <node id="2380881623" lat="-25.4950136" lon="-49.2405640"/>
   <node id="2380881624" lat="-25.4950596" lon="-49.2406947"/>
   <node id="2380907594" lat="-25.4623019" lon="-49.2565488">
     <tag k="highway" v="crossing"/>
@@ -889,12 +889,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="lit" v="yes"/>
   </node>
-  <node id="4912987575" lat="-25.5207907" lon="-49.2282470">
+  <node id="4912987575" lat="-25.5207918" lon="-49.2282498">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="4912987576" lat="-25.5203377" lon="-49.2282511">
+  <node id="4912987576" lat="-25.5203372" lon="-49.2282499">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
@@ -1166,7 +1166,7 @@
     <tag k="highway" v="crossing"/>
   </node>
   <node id="5805241053" lat="-25.5118844" lon="-49.2952653"/>
-  <node id="5841833299" lat="-25.5125275" lon="-49.2322725">
+  <node id="5841833299" lat="-25.5125318" lon="-49.2322835">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
@@ -1461,14 +1461,14 @@
   <node id="6161810989" lat="-25.4601079" lon="-49.2118295"/>
   <node id="6172162701" lat="-25.5203757" lon="-49.2283276"/>
   <node id="6172162705" lat="-25.5124879" lon="-49.2321727"/>
-  <node id="6172162712" lat="-25.5071771" lon="-49.2348551">
+  <node id="6172162712" lat="-25.5071801" lon="-49.2348627">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172162713" lat="-25.5071442" lon="-49.2347747"/>
-  <node id="6172162714" lat="-25.5063727" lon="-49.2349902">
+  <node id="6172162714" lat="-25.5063771" lon="-49.2350014">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
@@ -1476,7 +1476,7 @@
   </node>
   <node id="6172162715" lat="-25.5064244" lon="-49.2351252"/>
   <node id="6172162731" lat="-25.4895248" lon="-49.2433906"/>
-  <node id="6172162732" lat="-25.4894735" lon="-49.2432610"/>
+  <node id="6172162732" lat="-25.4894793" lon="-49.2432739"/>
   <node id="6172162733" lat="-25.4908245" lon="-49.2427573"/>
   <node id="6172162734" lat="-25.4908699" lon="-49.2428715"/>
   <node id="6172162735" lat="-25.4871564" lon="-49.2446817">
@@ -1485,7 +1485,7 @@
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="6172162736" lat="-25.4871120" lon="-49.2445651"/>
-  <node id="6172162737" lat="-25.4859716" lon="-49.2449719">
+  <node id="6172162737" lat="-25.4859747" lon="-49.2449798">
     <tag k="crossing" v="marked"/>
     <tag k="crossing:markings" v="yes"/>
     <tag k="highway" v="crossing"/>
@@ -1830,17 +1830,17 @@
   </node>
   <node id="6217776766" lat="-25.5292180" lon="-49.2172824"/>
   <node id="6217776784" lat="-25.5270674" lon="-49.2220457"/>
-  <node id="6217776990" lat="-25.5067885" lon="-49.2347860">
+  <node id="6217776990" lat="-25.5067937" lon="-49.2347990">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6217776991" lat="-25.5068427" lon="-49.2349215">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6217776992" lat="-25.5068740" lon="-49.2350028">
+  <node id="6217776992" lat="-25.5068771" lon="-49.2350105">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6217776995" lat="-25.4963354" lon="-49.2400706"/>
-  <node id="6217776996" lat="-25.4963790" lon="-49.2401798"/>
+  <node id="6217776996" lat="-25.4963790" lon="-49.2401841"/>
   <node id="6217777003" lat="-25.4735149" lon="-49.2513203"/>
   <node id="6217777004" lat="-25.4734670" lon="-49.2511969"/>
   <node id="6217777005" lat="-25.4722524" lon="-49.2517866"/>
@@ -2187,7 +2187,7 @@
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6668053221" lat="-25.5021442" lon="-49.2385321"/>
-  <node id="6668053222" lat="-25.5020968" lon="-49.2384118"/>
+  <node id="6668053222" lat="-25.5020929" lon="-49.2383946"/>
   <node id="6668053223" lat="-25.5001688" lon="-49.2368682"/>
   <node id="6668053227" lat="-25.5011529" lon="-49.2363887">
     <tag k="highway" v="traffic_signals"/>
@@ -15712,7 +15712,7 @@
   <node id="10740304498" lat="-25.4444872" lon="-49.2351982"/>
   <node id="10740304499" lat="-25.4444859" lon="-49.2352687"/>
   <node id="10740464573" lat="-25.4533441" lon="-49.2427320"/>
-  <node id="10741431086" lat="-25.5214712" lon="-49.2277021">
+  <node id="10741431086" lat="-25.5214705" lon="-49.2277003">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
@@ -15720,11 +15720,11 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="10741431088" lat="-25.5215392" lon="-49.2278721">
+  <node id="10741431088" lat="-25.5215435" lon="-49.2278830">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="10741431089" lat="-25.5212949" lon="-49.2277877">
+  <node id="10741431089" lat="-25.5212942" lon="-49.2277858">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
@@ -15732,7 +15732,7 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="10741431091" lat="-25.5213590" lon="-49.2279620">
+  <node id="10741431091" lat="-25.5213627" lon="-49.2279712">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
@@ -15745,7 +15745,7 @@
   <node id="10741509179" lat="-25.5215554" lon="-49.2279126"/>
   <node id="10741540172" lat="-25.5159591" lon="-49.2302918"/>
   <node id="10741540182" lat="-25.5160522" lon="-49.2306323"/>
-  <node id="10741540183" lat="-25.5159787" lon="-49.2303409"/>
+  <node id="10741540183" lat="-25.5159862" lon="-49.2303598"/>
   <node id="10741540184" lat="-25.5159688" lon="-49.2304136"/>
   <node id="10741540185" lat="-25.5159941" lon="-49.2304798"/>
   <node id="10741540186" lat="-25.5159799" lon="-49.2304426"/>
@@ -15759,7 +15759,7 @@
   <node id="10741699805" lat="-25.4963602" lon="-49.2401330"/>
   <node id="10741699807" lat="-25.4908498" lon="-49.2428209"/>
   <node id="10741699809" lat="-25.4871393" lon="-49.2446367"/>
-  <node id="10741786853" lat="-25.4950212" lon="-49.2405980"/>
+  <node id="10741786853" lat="-25.4950250" lon="-49.2405964"/>
   <node id="10741786855" lat="-25.4894897" lon="-49.2433020"/>
   <node id="10741786856" lat="-25.4859856" lon="-49.2450073"/>
   <node id="10741830597" lat="-25.4757638" lon="-49.2500165"/>
