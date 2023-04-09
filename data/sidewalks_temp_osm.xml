@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-08T07:31:16Z"/>
+<meta osm_base="2023-04-09T07:31:52Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -593,6 +593,8 @@
   <node id="4153854402" lat="-25.3979554" lon="-49.2940816"/>
   <node id="4153854406" lat="-25.3990700" lon="-49.2936831"/>
   <node id="4153854407" lat="-25.3984758" lon="-49.2931693"/>
+  <node id="4207719040" lat="-25.4957038" lon="-49.2436970"/>
+  <node id="4207719041" lat="-25.4960228" lon="-49.2435408"/>
   <node id="4221715996" lat="-25.5436266" lon="-49.2840142"/>
   <node id="4221715997" lat="-25.5435564" lon="-49.2835541"/>
   <node id="4225500369" lat="-25.4191774" lon="-49.2652132"/>
@@ -2281,6 +2283,8 @@
   <node id="8523941399" lat="-25.4951635" lon="-49.2719594"/>
   <node id="8552452667" lat="-25.4938648" lon="-49.2074983"/>
   <node id="8552452677" lat="-25.4937291" lon="-49.2079595"/>
+  <node id="8556407584" lat="-25.4964983" lon="-49.2447231"/>
+  <node id="8556407585" lat="-25.4961583" lon="-49.2448912"/>
   <node id="8560216796" lat="-25.4956476" lon="-49.2253181"/>
   <node id="8574552878" lat="-25.3934590" lon="-49.2404999"/>
   <node id="8574552879" lat="-25.3932917" lon="-49.2410889"/>
@@ -29841,6 +29845,20 @@
     <nd ref="5370346495"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="921620000">
+    <nd ref="4207719041"/>
+    <nd ref="4207719040"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Arthur Pina"/>
+  </way>
+  <way id="921620002">
+    <nd ref="8556407584"/>
+    <nd ref="8556407585"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Afonso Nassife"/>
   </way>
   <way id="939793532">
     <nd ref="1830310747"/>
