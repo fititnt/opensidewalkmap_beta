@@ -13189,6 +13189,7 @@
                     8822645899,
                     8822645900
                 ],
+                "smoothness": "good",
                 "surface": "asphalt",
                 "type": "way"
             },
@@ -28362,6 +28363,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 960925987,
+                "lit": "yes",
                 "nodes": [
                     8889224136,
                     8889224137,
@@ -28369,6 +28371,8 @@
                     8889224139,
                     8889224140
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -36796,6 +36800,8 @@
                     9812989514,
                     9812989515
                 ],
+                "smoothness": "excellent",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
