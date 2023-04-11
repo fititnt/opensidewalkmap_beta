@@ -112,7 +112,7 @@
             "properties": {
                 "crossing": "traffic_signals",
                 "crossing_ref": "zebra",
-                "highway": "traffic_signals",
+                "highway": "crossing",
                 "id": 846529477,
                 "kerb": "lowered",
                 "type": "node"

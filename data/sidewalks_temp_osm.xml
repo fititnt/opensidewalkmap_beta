@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-10T07:31:39Z"/>
+<meta osm_base="2023-04-11T07:31:23Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -173,7 +173,6 @@
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="1229541315" lat="-25.4287636" lon="-49.2882250"/>
   <node id="1229556438" lat="-25.4378380" lon="-49.2673100">
     <tag k="highway" v="traffic_signals"/>
   </node>
@@ -516,7 +515,9 @@
     <tag k="highway" v="crossing"/>
   </node>
   <node id="3621910084" lat="-25.4311579" lon="-49.2786690"/>
-  <node id="3621910085" lat="-25.4313542" lon="-49.2791666"/>
+  <node id="3621910085" lat="-25.4313333" lon="-49.2791571">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
   <node id="3631328510" lat="-25.4243114" lon="-49.2799684"/>
   <node id="3631356467" lat="-25.4232442" lon="-49.2808270">
     <tag k="bicycle" v="yes"/>
@@ -1472,6 +1473,11 @@
   <node id="6174044401" lat="-25.5166066" lon="-49.2310422">
     <tag k="entrance" v="exit"/>
   </node>
+  <node id="6175700218" lat="-25.4355708" lon="-49.3064630">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="6175700263" lat="-25.4325302" lon="-49.2655562">
     <tag k="bus" v="yes"/>
     <tag k="name" v="Estação Tubo Guadalupe (507)"/>
@@ -1556,7 +1562,6 @@
     <tag k="highway" v="traffic_signals"/>
     <tag k="traffic_signals" v="signal"/>
   </node>
-  <node id="6206922913" lat="-25.4286048" lon="-49.2882234"/>
   <node id="6211676462" lat="-25.4125791" lon="-49.2554506"/>
   <node id="6211676482" lat="-25.4192275" lon="-49.2652064"/>
   <node id="6211676483" lat="-25.4192708" lon="-49.2645458"/>
@@ -25601,6 +25606,36 @@
   <node id="10786497198" lat="-25.4957501" lon="-49.2253009"/>
   <node id="10786497199" lat="-25.4957230" lon="-49.2253073"/>
   <node id="10798605923" lat="-25.4908158" lon="-49.2553957"/>
+  <node id="10800594418" lat="-25.4288465" lon="-49.2877571"/>
+  <node id="10800594419" lat="-25.4284674" lon="-49.2879427"/>
+  <node id="10800594422" lat="-25.4357573" lon="-49.3060983">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10800594423" lat="-25.4357169" lon="-49.3064336">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10800594424" lat="-25.4356811" lon="-49.3061690">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10800594425" lat="-25.4356075" lon="-49.3062369">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10800594426" lat="-25.4358693" lon="-49.3064029">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="10800594427" lat="-25.4352825" lon="-49.3085728"/>
+  <node id="10800594428" lat="-25.4355583" lon="-49.3084390"/>
+  <node id="10800594438" lat="-25.4359226" lon="-49.3084635"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -25729,11 +25764,13 @@
     <nd ref="3621910085"/>
     <nd ref="5283151676"/>
     <nd ref="3621910084"/>
-    <tag k="bicycle" v="permissive"/>
-    <tag k="foot" v="permissive"/>
+    <tag k="bicycle" v="dismount"/>
+    <tag k="foot" v="designated"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
     <tag k="name" v="Rua Saldanha Marinho"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="138138583">
     <nd ref="9446071790"/>
@@ -28224,12 +28261,6 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="name" v="Avenida Cândido Hartmann"/>
-  </way>
-  <way id="663066064">
-    <nd ref="1229541315"/>
-    <nd ref="6206922913"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
   </way>
   <way id="663647787">
     <nd ref="267414402"/>
@@ -95626,6 +95657,44 @@
     <nd ref="10798605923"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="1161235426">
+    <nd ref="10800594419"/>
+    <nd ref="10800594418"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="1161235432">
+    <nd ref="10800594425"/>
+    <nd ref="10800594424"/>
+    <nd ref="10800594422"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1161235433">
+    <nd ref="6175700218"/>
+    <nd ref="10800594423"/>
+    <nd ref="10800594426"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1161235435">
+    <nd ref="10800594438"/>
+    <nd ref="10800594428"/>
+    <nd ref="10800594427"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
   </way>
 
 </osm>
