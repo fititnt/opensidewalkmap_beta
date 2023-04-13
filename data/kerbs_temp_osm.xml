@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-12T07:31:59Z"/>
+<meta osm_base="2023-04-13T07:32:08Z"/>
 
   <node id="603560947" lat="-25.3652927" lon="-49.1861978">
     <tag k="crossing" v="zebra"/>
@@ -157,7 +157,7 @@
     <tag k="survey:date" v="2019-11-01"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2651925073" lat="-25.4498888" lon="-49.2319834">
+  <node id="2651925073" lat="-25.4498929" lon="-49.2320076">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="flush"/>
@@ -250,6 +250,17 @@
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
+  <node id="4358198900" lat="-25.4498439" lon="-49.2317059">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="direction" v="backward"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="mapillary" v="880367795879708"/>
+    <tag k="side" v="left"/>
+    <tag k="survey:date" v="2020-02-18"/>
+    <tag k="traffic_sign:backward" v="BR:R-1"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4496710650" lat="-25.4642226" lon="-49.3010235">
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
@@ -311,14 +322,6 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="traffic_signals:sound" v="no"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="4680160775" lat="-25.4498483" lon="-49.2317091">
-    <tag k="crossing" v="uncontrolled"/>
-    <tag k="highway" v="crossing"/>
-    <tag k="kerb" v="raised"/>
-    <tag k="mapillary" v="880367795879708"/>
-    <tag k="survey:date" v="2020-02-18"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5445949867" lat="-25.4235596" lon="-49.2681057">
     <tag k="crossing" v="marked"/>

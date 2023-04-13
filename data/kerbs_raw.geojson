@@ -385,8 +385,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2319834,
-                    -25.4498888
+                    -49.2320076,
+                    -25.4498929
                 ],
                 "type": "Point"
             },
@@ -646,6 +646,29 @@
         {
             "geometry": {
                 "coordinates": [
+                    -49.2317059,
+                    -25.4498439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "crossing": "uncontrolled",
+                "direction": "backward",
+                "highway": "crossing",
+                "id": 4358198900,
+                "kerb": "raised",
+                "mapillary": "880367795879708",
+                "side": "left",
+                "survey:date": "2020-02-18",
+                "traffic_sign:backward": "BR:R-1",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -49.3010235,
                     -25.4642226
                 ],
@@ -798,26 +821,6 @@
                 "traffic_signals:sound": "no",
                 "type": "node",
                 "wheelchair": "yes"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -49.2317091,
-                    -25.4498483
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "crossing": "uncontrolled",
-                "highway": "crossing",
-                "id": 4680160775,
-                "kerb": "raised",
-                "mapillary": "880367795879708",
-                "survey:date": "2020-02-18",
-                "type": "node",
-                "wheelchair": "no"
             },
             "type": "Feature"
         },
