@@ -6562,23 +6562,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2365641,
-                    -25.4518939
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "id": 9599767260,
-                "kerb": "no",
-                "type": "node"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -49.236722,
-                    -25.4518474
+                    -49.2367127,
+                    -25.4518526
                 ],
                 "type": "Point"
             },
