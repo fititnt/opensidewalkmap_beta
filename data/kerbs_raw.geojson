@@ -405,13 +405,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2301182,
-                    -25.4534866
+                    -49.2301205,
+                    -25.4534915
                 ],
                 "type": "Point"
             },
             "properties": {
                 "crossing": "unmarked",
+                "crossing:markings": "no",
                 "highway": "crossing",
                 "id": 2682647758,
                 "kerb": "flush",
@@ -468,13 +469,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2303438,
-                    -25.453403
+                    -49.230345,
+                    -25.4534056
                 ],
                 "type": "Point"
             },
             "properties": {
                 "crossing": "unmarked",
+                "crossing:markings": "no",
                 "highway": "crossing",
                 "id": 2682647761,
                 "kerb": "lowered",
@@ -646,8 +648,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2317059,
-                    -25.4498439
+                    -49.2316898,
+                    -25.449868
                 ],
                 "type": "Point"
             },
@@ -1339,26 +1341,6 @@
                 "id": 6484488050,
                 "kerb": "lowered",
                 "type": "node"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -49.2300339,
-                    -25.4492416
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bicycle": "yes",
-                "highway": "crossing",
-                "id": 6635650529,
-                "kerb": "flush",
-                "mapillary": "1059946347866863",
-                "survey:date": "2019-05-02",
-                "type": "node",
-                "wheelchair": "yes"
             },
             "type": "Feature"
         },
@@ -6466,8 +6448,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2327267,
-                    -25.4533682
+                    -49.2327179,
+                    -25.4533473
                 ],
                 "type": "Point"
             },
@@ -6482,8 +6464,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2326675,
-                    -25.4530143
+                    -49.2326796,
+                    -25.4530067
                 ],
                 "type": "Point"
             },
@@ -6498,8 +6480,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2325651,
-                    -25.4527855
+                    -49.2325736,
+                    -25.4527868
                 ],
                 "type": "Point"
             },
@@ -6514,8 +6496,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2322569,
-                    -25.4521081
+                    -49.232272,
+                    -25.4521256
                 ],
                 "type": "Point"
             },
@@ -6530,8 +6512,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2320374,
-                    -25.4516713
+                    -49.2320535,
+                    -25.4516619
                 ],
                 "type": "Point"
             },
@@ -6546,8 +6528,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2319427,
-                    -25.4514397
+                    -49.2319516,
+                    -25.451443
                 ],
                 "type": "Point"
             },
