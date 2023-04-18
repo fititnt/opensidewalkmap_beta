@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-17T07:31:19Z"/>
+<meta osm_base="2023-04-18T07:32:06Z"/>
 
   <node id="603560947" lat="-25.3652927" lon="-49.1861978">
     <tag k="crossing" v="zebra"/>
@@ -2191,10 +2191,14 @@
   <node id="9597873432" lat="-25.4521256" lon="-49.2322720">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9597873436" lat="-25.4516619" lon="-49.2320535">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9597873437" lat="-25.4514430" lon="-49.2319516">
     <tag k="barrier" v="kerb"/>
@@ -3292,6 +3296,36 @@
     <tag k="crossing_ref" v="zebra"/>
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="10820375223" lat="-25.4517358" lon="-49.2365295">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="10820376098" lat="-25.4516100" lon="-49.2320449">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="10820376102" lat="-25.4511120" lon="-49.2317941">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="10820376103" lat="-25.4511379" lon="-49.2317296">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="10820378905" lat="-25.4497917" lon="-49.2311928">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="10820378907" lat="-25.4498169" lon="-49.2311279">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
   </node>
 
 </osm>

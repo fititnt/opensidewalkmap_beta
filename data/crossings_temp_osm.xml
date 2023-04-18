@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-17T07:31:19Z"/>
+<meta osm_base="2023-04-18T07:32:06Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
@@ -884,6 +884,7 @@
     <tag k="highway" v="crossing"/>
   </node>
   <node id="4663404482" lat="-25.4533054" lon="-49.2328358"/>
+  <node id="4663404518" lat="-25.4520334" lon="-49.2336200"/>
   <node id="4674570951" lat="-25.4847939" lon="-49.2204401"/>
   <node id="4674570986" lat="-25.4745914" lon="-49.2273650">
     <tag k="bicycle" v="yes"/>
@@ -6071,7 +6072,7 @@
   <node id="9597873373" lat="-25.4514529" lon="-49.2307120"/>
   <node id="9597873386" lat="-25.4522839" lon="-49.2323595"/>
   <node id="9597873389" lat="-25.4521737" lon="-49.2323060"/>
-  <node id="9597873403" lat="-25.4516061" lon="-49.2320348"/>
+  <node id="9597873403" lat="-25.4515936" lon="-49.2320421"/>
   <node id="9597873408" lat="-25.4533874" lon="-49.2328771"/>
   <node id="9597873409" lat="-25.4533526" lon="-49.2328595"/>
   <node id="9597873412" lat="-25.4514681" lon="-49.2306712"/>
@@ -6090,25 +6091,30 @@
   <node id="9597873432" lat="-25.4521256" lon="-49.2322720">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9597873436" lat="-25.4516619" lon="-49.2320535">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9597873437" lat="-25.4514430" lon="-49.2319516">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
   </node>
-  <node id="9597873444" lat="-25.4510468" lon="-49.2317940"/>
-  <node id="9597873448" lat="-25.4510652" lon="-49.2318608"/>
-  <node id="9597873450" lat="-25.4514995" lon="-49.2320035"/>
+  <node id="9597873444" lat="-25.4510565" lon="-49.2318029"/>
+  <node id="9597873448" lat="-25.4510722" lon="-49.2318519"/>
+  <node id="9597873450" lat="-25.4515002" lon="-49.2320050"/>
   <node id="9597873451" lat="-25.4514741" lon="-49.2319801"/>
-  <node id="9597873453" lat="-25.4516353" lon="-49.2320446"/>
+  <node id="9597873453" lat="-25.4516358" lon="-49.2320491"/>
   <node id="9597873456" lat="-25.4521482" lon="-49.2322877"/>
   <node id="9597873459" lat="-25.4523128" lon="-49.2323658"/>
   <node id="9597873462" lat="-25.4528159" lon="-49.2325927"/>
   <node id="9597873464" lat="-25.4530354" lon="-49.2326909"/>
   <node id="9597873465" lat="-25.4531882" lon="-49.2327527"/>
+  <node id="9597873483" lat="-25.4520635" lon="-49.2336331"/>
   <node id="9597873511" lat="-25.4525866" lon="-49.2347086"/>
   <node id="9597873519" lat="-25.4520799" lon="-49.2344792"/>
   <node id="9597873522" lat="-25.4520231" lon="-49.2344536"/>
@@ -6242,6 +6248,7 @@
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
   </node>
+  <node id="9661940280" lat="-25.4520031" lon="-49.2336068"/>
   <node id="9694206153" lat="-25.4751524" lon="-49.2184724"/>
   <node id="9694206154" lat="-25.4751906" lon="-49.2183516"/>
   <node id="9764973056" lat="-25.4708143" lon="-49.2226625"/>
@@ -15777,6 +15784,33 @@
   <node id="10816361281" lat="-25.4517118" lon="-49.2296363"/>
   <node id="10816629812" lat="-25.4529920" lon="-49.2326584"/>
   <node id="10816636825" lat="-25.4530062" lon="-49.2326170"/>
+  <node id="10820375216" lat="-25.4518260" lon="-49.2365696"/>
+  <node id="10820375223" lat="-25.4517358" lon="-49.2365295">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="10820375232" lat="-25.4518165" lon="-49.2365647"/>
+  <node id="10820375233" lat="-25.4517722" lon="-49.2365498"/>
+  <node id="10820375234" lat="-25.4517444" lon="-49.2365326"/>
+  <node id="10820376098" lat="-25.4516100" lon="-49.2320449">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="10820376104" lat="-25.4497882" lon="-49.2312019"/>
+  <node id="10820378905" lat="-25.4497917" lon="-49.2311928">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="10820378906" lat="-25.4498041" lon="-49.2311585"/>
+  <node id="10820378907" lat="-25.4498169" lon="-49.2311279">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="10820378908" lat="-25.4498221" lon="-49.2311145"/>
   <way id="24576715">
     <nd ref="4807326711"/>
     <nd ref="2688348297"/>
@@ -24146,14 +24180,18 @@
   <way id="1042695869">
     <nd ref="9597873436"/>
     <nd ref="9597873453"/>
+    <nd ref="10820376098"/>
     <nd ref="9597873403"/>
+    <tag k="bicycle" v="no"/>
     <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="crossing:markings" v="no"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="excellent"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="1042695870">
     <nd ref="9597873389"/>
@@ -34102,6 +34140,38 @@
     <nd ref="9597873346"/>
     <tag k="crossing" v="unmarked"/>
     <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1163396919">
+    <nd ref="9597873483"/>
+    <nd ref="4663404518"/>
+    <nd ref="9661940280"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1163478598">
+    <nd ref="10820375216"/>
+    <nd ref="10820375232"/>
+    <nd ref="10820375233"/>
+    <nd ref="10820375234"/>
+    <nd ref="10820375223"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="1163479163">
+    <nd ref="10820376104"/>
+    <nd ref="10820378905"/>
+    <nd ref="10820378906"/>
+    <nd ref="10820378907"/>
+    <nd ref="10820378908"/>
+    <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>

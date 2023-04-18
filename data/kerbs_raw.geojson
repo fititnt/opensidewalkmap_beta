@@ -6505,7 +6505,9 @@
                 "barrier": "kerb",
                 "id": 9597873432,
                 "kerb": "raised",
-                "type": "node"
+                "tactile_paving": "no",
+                "type": "node",
+                "wheelchair": "no"
             },
             "type": "Feature"
         },
@@ -6521,7 +6523,9 @@
                 "barrier": "kerb",
                 "id": 9597873436,
                 "kerb": "raised",
-                "type": "node"
+                "tactile_paving": "no",
+                "type": "node",
+                "wheelchair": "no"
             },
             "type": "Feature"
         },
@@ -10066,6 +10070,108 @@
                 "highway": "crossing",
                 "id": 10791340998,
                 "kerb": "lowered",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2365295,
+                    -25.4517358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10820375223,
+                "kerb": "raised",
+                "tactile_paving": "yes",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2320449,
+                    -25.45161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10820376098,
+                "kerb": "raised",
+                "tactile_paving": "no",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2317941,
+                    -25.451112
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10820376102,
+                "kerb": "lowered",
+                "tactile_paving": "yes",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2317296,
+                    -25.4511379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10820376103,
+                "kerb": "lowered",
+                "tactile_paving": "yes",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2311928,
+                    -25.4497917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10820378905,
+                "kerb": "raised",
+                "tactile_paving": "no",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2311279,
+                    -25.4498169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10820378907,
+                "kerb": "raised",
+                "tactile_paving": "no",
                 "type": "node"
             },
             "type": "Feature"
