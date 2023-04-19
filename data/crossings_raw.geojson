@@ -32095,12 +32095,47 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.235213,
-                        -25.4462188
+                        -49.2386338,
+                        -25.4452147
                     ],
                     [
-                        -49.2351761,
-                        -25.4462643
+                        -49.2385992,
+                        -25.4452115
+                    ],
+                    [
+                        -49.2385525,
+                        -25.4452071
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1042657728,
+                "nodes": [
+                    10822845920,
+                    6881983327,
+                    9597537515
+                ],
+                "smoothness": "good",
+                "surface": "concrete",
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2352175,
+                        -25.4462157
+                    ],
+                    [
+                        -49.2351606,
+                        -25.4462674
                     ],
                     [
                         -49.2351219,
@@ -32111,11 +32146,12 @@
             },
             "properties": {
                 "crossing": "marked",
+                "crossing:markings": "yes",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 1042657752,
                 "nodes": [
-                    9597547432,
+                    9597547429,
                     9597547433,
                     9597547434
                 ],
@@ -32131,22 +32167,23 @@
                         -25.4457973
                     ],
                     [
-                        -49.2349816,
-                        -25.4457861
+                        -49.2349951,
+                        -25.4457844
                     ],
                     [
-                        -49.2350385,
-                        -25.4457698
+                        -49.2350368,
+                        -25.4457726
                     ],
                     [
-                        -49.2350497,
-                        -25.4457698
+                        -49.2350452,
+                        -25.4457707
                     ]
                 ],
                 "type": "LineString"
             },
             "properties": {
                 "crossing": "marked",
+                "crossing:markings": "yes",
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 1042657755,
@@ -32155,38 +32192,6 @@
                     9597547455,
                     9597547456,
                     9597547457
-                ],
-                "type": "way"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        -49.2373002,
-                        -25.4475321
-                    ],
-                    [
-                        -49.2372881,
-                        -25.4475021
-                    ],
-                    [
-                        -49.2372674,
-                        -25.447463
-                    ]
-                ],
-                "type": "LineString"
-            },
-            "properties": {
-                "crossing": "unmarked",
-                "footway": "crossing",
-                "highway": "footway",
-                "id": 1042663247,
-                "nodes": [
-                    9597527816,
-                    9597582917,
-                    1387619019
                 ],
                 "type": "way"
             },
@@ -76100,7 +76105,7 @@
                 "highway": "footway",
                 "id": 1154877176,
                 "nodes": [
-                    10740304497,
+                    10822771814,
                     10740304499,
                     10740304498
                 ],
@@ -76639,6 +76644,342 @@
                     10820378906,
                     10820378907,
                     10820378908
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2368812,
+                        -25.4474572
+                    ],
+                    [
+                        -49.236822,
+                        -25.4474553
+                    ],
+                    [
+                        -49.2367931,
+                        -25.4474544
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "bicycle": "dismount",
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163723247,
+                "incline": "up",
+                "nodes": [
+                    10822771837,
+                    10822771841,
+                    267451965
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2390758,
+                        -25.4503507
+                    ],
+                    [
+                        -49.2391168,
+                        -25.4503761
+                    ],
+                    [
+                        -49.2391822,
+                        -25.4504167
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163729575,
+                "nodes": [
+                    10822820414,
+                    10822820421,
+                    9597584512
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2392371,
+                        -25.4503484
+                    ],
+                    [
+                        -49.2392094,
+                        -25.4503828
+                    ],
+                    [
+                        -49.2391822,
+                        -25.4504167
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163729577,
+                "nodes": [
+                    10822820422,
+                    10822820424,
+                    9597584512
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2383467,
+                        -25.4474295
+                    ],
+                    [
+                        -49.2383372,
+                        -25.4473982
+                    ],
+                    [
+                        -49.2383217,
+                        -25.4473564
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163729580,
+                "nodes": [
+                    10822820431,
+                    3739490666,
+                    9597547252
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2385774,
+                        -25.4468558
+                    ],
+                    [
+                        -49.2385858,
+                        -25.446876
+                    ],
+                    [
+                        -49.2385933,
+                        -25.4468956
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163729583,
+                "nodes": [
+                    9597547242,
+                    9597547251,
+                    10822820437
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2385464,
+                        -25.4467773
+                    ],
+                    [
+                        -49.2385534,
+                        -25.446795
+                    ],
+                    [
+                        -49.2385593,
+                        -25.44681
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163729585,
+                "nodes": [
+                    9597547241,
+                    9034030679,
+                    10822820436
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2386422,
+                        -25.4445579
+                    ],
+                    [
+                        -49.2386912,
+                        -25.4445631
+                    ],
+                    [
+                        -49.2387293,
+                        -25.4445671
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163732958,
+                "nodes": [
+                    10822816100,
+                    10822816102,
+                    10822816101
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2391081,
+                        -25.4440764
+                    ],
+                    [
+                        -49.239106,
+                        -25.4441402
+                    ],
+                    [
+                        -49.2391035,
+                        -25.4442168
+                    ],
+                    [
+                        -49.2391015,
+                        -25.4442792
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163732960,
+                "nodes": [
+                    267191172,
+                    10081047086,
+                    3756108610,
+                    3756108611
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2387598,
+                        -25.4444435
+                    ],
+                    [
+                        -49.2387712,
+                        -25.4444751
+                    ],
+                    [
+                        -49.2387826,
+                        -25.4445062
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163732962,
+                "nodes": [
+                    10822845908,
+                    10822845911,
+                    10822845909
+                ],
+                "type": "way"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.2386139,
+                        -25.4447394
+                    ],
+                    [
+                        -49.2386685,
+                        -25.444735
+                    ],
+                    [
+                        -49.2387787,
+                        -25.4447264
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "crossing": "unmarked",
+                "crossing:markings": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "id": 1163732968,
+                "nodes": [
+                    9597537507,
+                    10822845925,
+                    10822845916
                 ],
                 "type": "way"
             },
