@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-19T07:32:06Z"/>
+<meta osm_base="2023-04-20T07:31:22Z"/>
 
   <node id="603560947" lat="-25.3652927" lon="-49.1861978">
     <tag k="crossing" v="zebra"/>
@@ -252,7 +252,7 @@
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="lowered"/>
   </node>
-  <node id="4358198900" lat="-25.4498680" lon="-49.2316898">
+  <node id="4358198900" lat="-25.4498541" lon="-49.2316978">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="direction" v="backward"/>
     <tag k="highway" v="crossing"/>
@@ -2176,11 +2176,19 @@
     <tag k="highway" v="crossing"/>
     <tag k="kerb" v="raised"/>
   </node>
+  <node id="9595461064" lat="-25.4523548" lon="-49.2325384">
+    <tag k="kerb" v="lowered"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="9597873348" lat="-25.4533473" lon="-49.2327179">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
   </node>
-  <node id="9597873423" lat="-25.4530067" lon="-49.2326796">
+  <node id="9597873422" lat="-25.4530535" lon="-49.2326983">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="9597873423" lat="-25.4530076" lon="-49.2326847">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
   </node>
@@ -3326,6 +3334,46 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
     <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="10825093949" lat="-25.4531532" lon="-49.2327398">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="10825144993" lat="-25.4451490" lon="-49.2379277">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="rolled"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10825144995" lat="-25.4451626" lon="-49.2379351">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10825144996" lat="-25.4451166" lon="-49.2386924">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10825144997" lat="-25.4445097" lon="-49.2387856">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10825146343" lat="-25.4502510" lon="-49.2314823">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="10825146344" lat="-25.4501858" lon="-49.2314483">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="10825146345" lat="-25.4498427" lon="-49.2316738">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="10825146346" lat="-25.4498677" lon="-49.2317288">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
   </node>
 
 </osm>
