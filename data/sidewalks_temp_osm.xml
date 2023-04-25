@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-24T07:31:54Z"/>
+<meta osm_base="2023-04-25T07:31:24Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -232,6 +232,7 @@
   <node id="1408494254" lat="-25.3967672" lon="-49.2183015">
     <tag k="highway" v="turning_circle"/>
   </node>
+  <node id="1411323603" lat="-25.3922019" lon="-49.3378376"/>
   <node id="1411579413" lat="-25.5503956" lon="-49.1869017"/>
   <node id="1427260180" lat="-25.4365466" lon="-49.2662441"/>
   <node id="1487047403" lat="-25.5549118" lon="-49.3060935"/>
@@ -258,7 +259,7 @@
   <node id="1703737540" lat="-25.3980595" lon="-49.3424962">
     <tag k="highway" v="turning_circle"/>
   </node>
-  <node id="1703737544" lat="-25.3983564" lon="-49.3413699"/>
+  <node id="1703737544" lat="-25.3983506" lon="-49.3414150"/>
   <node id="1717014114" lat="-25.3783503" lon="-49.2834590"/>
   <node id="1731940861" lat="-25.5224136" lon="-49.2269099"/>
   <node id="1733116496" lat="-25.4542429" lon="-49.2728176">
@@ -561,6 +562,10 @@
   <node id="3648161557" lat="-25.3794915" lon="-49.2852733"/>
   <node id="3648161558" lat="-25.3795860" lon="-49.2855741"/>
   <node id="3648161559" lat="-25.3796251" lon="-49.2856515"/>
+  <node id="3725531115" lat="-25.3923058" lon="-49.3378621">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="block"/>
+  </node>
   <node id="3732335905" lat="-25.4159108" lon="-49.2402594">
     <tag k="highway" v="turning_circle"/>
   </node>
@@ -8354,7 +8359,7 @@
   <node id="9647374048" lat="-25.4479069" lon="-49.2432627"/>
   <node id="9647374049" lat="-25.4472347" lon="-49.2437843"/>
   <node id="9653153566" lat="-25.3979165" lon="-49.3430371"/>
-  <node id="9653153571" lat="-25.3985011" lon="-49.3408231"/>
+  <node id="9653153571" lat="-25.3985045" lon="-49.3408130"/>
   <node id="9653153572" lat="-25.3982370" lon="-49.3426552">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
@@ -39492,6 +39497,14 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
+  <way id="977034531">
+    <nd ref="3725531115"/>
+    <nd ref="1411323603"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rua Gerônimo Muraro"/>
+    <tag k="source" v="yahoo_imagery"/>
+  </way>
   <way id="977036018">
     <nd ref="5278631449"/>
     <nd ref="5278631445"/>
@@ -43700,7 +43713,6 @@
     <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="name" v="Praça Veneto"/>
     <tag k="segregated" v="no"/>
   </way>
   <way id="1050447234">
@@ -43709,7 +43721,6 @@
     <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="name" v="Praça Veneto"/>
     <tag k="segregated" v="no"/>
   </way>
   <way id="1050447235">
@@ -43718,7 +43729,6 @@
     <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="name" v="Praça Veneto"/>
     <tag k="segregated" v="no"/>
   </way>
   <way id="1051274354">
