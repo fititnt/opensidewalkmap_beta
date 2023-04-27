@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-26T07:31:24Z"/>
+<meta osm_base="2023-04-27T07:31:18Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
@@ -6242,30 +6242,30 @@
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="9653153577" lat="-25.3999363" lon="-49.3367682">
+  <node id="9653153577" lat="-25.3999402" lon="-49.3367682">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="9653153578" lat="-25.3998651" lon="-49.3367350">
+  <node id="9653153578" lat="-25.3998748" lon="-49.3367393">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="9653153579" lat="-25.3994948" lon="-49.3380473">
+  <node id="9653153579" lat="-25.3994974" lon="-49.3380484">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="9653153580" lat="-25.3994192" lon="-49.3380168">
+  <node id="9653153580" lat="-25.3994249" lon="-49.3380191">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="9653153581" lat="-25.3992420" lon="-49.3388138">
+  <node id="9653153581" lat="-25.3992428" lon="-49.3388141">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
   </node>
-  <node id="9653153582" lat="-25.3991669" lon="-49.3387835">
+  <node id="9653153582" lat="-25.3991699" lon="-49.3387847">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="traffic_calming" v="table"/>
