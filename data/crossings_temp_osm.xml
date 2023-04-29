@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-28T07:31:53Z"/>
+<meta osm_base="2023-04-29T07:31:23Z"/>
 
   <node id="266969004" lat="-25.4431401" lon="-49.1992877"/>
   <node id="266971037" lat="-25.5207435" lon="-49.2281302"/>
@@ -2492,37 +2492,37 @@
   <node id="8076132761" lat="-25.4385114" lon="-49.2508833">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="8076169078" lat="-25.4356863" lon="-49.2509382">
+  <node id="8076169078" lat="-25.4356807" lon="-49.2509391">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="8076169079" lat="-25.4356087" lon="-49.2509355"/>
   <node id="8076169080" lat="-25.4355312" lon="-49.2509355">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="8076169081" lat="-25.4358450" lon="-49.2511659">
+  <node id="8076169081" lat="-25.4358441" lon="-49.2511846">
     <tag k="crossing:barrier" v="no"/>
     <tag k="crossing:chicane" v="no"/>
     <tag k="crossing:light" v="yes"/>
     <tag k="crossing:saltire" v="yes"/>
     <tag k="railway" v="crossing"/>
   </node>
-  <node id="8076169082" lat="-25.4358171" lon="-49.2511690">
+  <node id="8076169082" lat="-25.4358162" lon="-49.2511849">
     <tag k="crossing:barrier" v="no"/>
     <tag k="crossing:chicane" v="no"/>
     <tag k="crossing:light" v="yes"/>
     <tag k="crossing:saltire" v="yes"/>
     <tag k="railway" v="crossing"/>
   </node>
-  <node id="8076169083" lat="-25.4359168" lon="-49.2511580"/>
-  <node id="8076169084" lat="-25.4357329" lon="-49.2511783"/>
-  <node id="8076169085" lat="-25.4356798" lon="-49.2511842">
+  <node id="8076169083" lat="-25.4358936" lon="-49.2511839"/>
+  <node id="8076169084" lat="-25.4357319" lon="-49.2511859"/>
+  <node id="8076169085" lat="-25.4356799" lon="-49.2511865">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="8076169086" lat="-25.4356056" lon="-49.2511924"/>
-  <node id="8076169087" lat="-25.4355319" lon="-49.2512006">
+  <node id="8076169086" lat="-25.4356055" lon="-49.2511874"/>
+  <node id="8076169087" lat="-25.4355316" lon="-49.2511882">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="8076169088" lat="-25.4359906" lon="-49.2511498">
+  <node id="8076169088" lat="-25.4359555" lon="-49.2511816">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="8169120337" lat="-25.4531935" lon="-49.2402639">
