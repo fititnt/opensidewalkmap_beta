@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-29T07:31:23Z"/>
+<meta osm_base="2023-04-30T07:32:09Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -146,6 +146,9 @@
     <tag k="mapillary" v="311475440490577"/>
     <tag k="survey:date" v="2020-09-15"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="668990481" lat="-25.4595576" lon="-49.2778931">
+    <tag k="highway" v="turning_circle"/>
   </node>
   <node id="679327320" lat="-25.4661091" lon="-49.2716567"/>
   <node id="679355008" lat="-25.4742934" lon="-49.2722106"/>
@@ -20976,9 +20979,7 @@
   <node id="10250036332" lat="-25.4587745" lon="-49.2769324"/>
   <node id="10250036333" lat="-25.4586811" lon="-49.2771809"/>
   <node id="10250036334" lat="-25.4593588" lon="-49.2777485"/>
-  <node id="10250036335" lat="-25.4595729" lon="-49.2778463"/>
-  <node id="10250036336" lat="-25.4595745" lon="-49.2778473"/>
-  <node id="10250036337" lat="-25.4595741" lon="-49.2778493"/>
+  <node id="10250036336" lat="-25.4595751" lon="-49.2778466"/>
   <node id="10250036338" lat="-25.4595451" lon="-49.2779264"/>
   <node id="10250036339" lat="-25.4595411" lon="-49.2779369"/>
   <node id="10250036340" lat="-25.4595402" lon="-49.2779386"/>
@@ -26019,10 +26020,8 @@
     <nd ref="3263190532"/>
     <nd ref="9934470217"/>
     <nd ref="558907921"/>
-    <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="lcn" v="yes"/>
     <tag k="name" v="Rua Schiller"/>
   </way>
   <way id="319847153">
@@ -26031,10 +26030,8 @@
     <nd ref="9934470218"/>
     <nd ref="3263190531"/>
     <nd ref="558907924"/>
-    <tag k="bicycle" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="lcn" v="yes"/>
     <tag k="name" v="Rua Schiller"/>
   </way>
   <way id="355479579">
@@ -86047,9 +86044,8 @@
     <nd ref="10250036340"/>
     <nd ref="10250036339"/>
     <nd ref="10250036338"/>
-    <nd ref="10250036337"/>
+    <nd ref="668990481"/>
     <nd ref="10250036336"/>
-    <nd ref="10250036335"/>
     <nd ref="10250036334"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
