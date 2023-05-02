@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-01T07:31:44Z"/>
+<meta osm_base="2023-05-02T07:31:39Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -55826,6 +55826,7 @@
     <nd ref="10250027663"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120688270">
     <nd ref="10250027659"/>
@@ -55844,6 +55845,7 @@
     <nd ref="10250027654"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120688272">
     <nd ref="10250027663"/>
@@ -63986,18 +63988,21 @@
     <nd ref="10250029972"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="1120689362">
     <nd ref="10250029971"/>
     <nd ref="10250029974"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120689363">
     <nd ref="10250029972"/>
     <nd ref="10250029971"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120689364">
     <nd ref="10250029974"/>
@@ -64024,12 +64029,14 @@
     <nd ref="10250029977"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="1120689368">
     <nd ref="10250029979"/>
     <nd ref="10250029978"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120689369">
     <nd ref="10250029980"/>
@@ -64055,6 +64062,9 @@
     <nd ref="10250029986"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120689372">
     <nd ref="10250029982"/>
@@ -64088,12 +64098,17 @@
     <nd ref="10250029985"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120689376">
     <nd ref="10250029988"/>
     <nd ref="10250029987"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="concrete"/>
   </way>
   <way id="1120689377">
     <nd ref="10250029996"/>
@@ -65092,24 +65107,28 @@
     <nd ref="10250030391"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120689504">
     <nd ref="10250030384"/>
     <nd ref="10250030383"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="1120689505">
     <nd ref="10250030385"/>
     <nd ref="10250030384"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="1120689506">
     <nd ref="10250030390"/>
     <nd ref="10250030386"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
     <tag k="surface" v="paving_stones"/>
   </way>
   <way id="1120689507">
@@ -65137,6 +65156,8 @@
     <nd ref="10250030390"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="1120689510">
     <nd ref="10250030402"/>

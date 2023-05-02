@@ -10015,33 +10015,6 @@
             "geometry": {
                 "coordinates": [
                     [
-                        -49.2503144,
-                        -25.5532632
-                    ],
-                    [
-                        -49.2501963,
-                        -25.5530967
-                    ]
-                ],
-                "type": "LineString"
-            },
-            "properties": {
-                "crossing": "unmarked",
-                "footway": "crossing",
-                "highway": "footway",
-                "id": 769713067,
-                "nodes": [
-                    5471847550,
-                    7184889550
-                ],
-                "type": "way"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
                         -49.2692257,
                         -25.4642103
                     ],
@@ -43574,6 +43547,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 1120693539,
+                "lit": "yes",
                 "nodes": [
                     10250039321,
                     10250039320,
@@ -43581,6 +43555,8 @@
                     10250039318,
                     10250039317
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -57710,6 +57686,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 1120693883,
+                "lit": "yes",
                 "nodes": [
                     10249983679,
                     10249983678,
@@ -57717,6 +57694,8 @@
                     10249983676,
                     10249983675
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
@@ -57792,6 +57771,7 @@
                 "footway": "crossing",
                 "highway": "footway",
                 "id": 1120693885,
+                "lit": "yes",
                 "nodes": [
                     10249983689,
                     10249983688,
@@ -57799,6 +57779,8 @@
                     10249983686,
                     10249983685
                 ],
+                "smoothness": "good",
+                "surface": "asphalt",
                 "type": "way"
             },
             "type": "Feature"
