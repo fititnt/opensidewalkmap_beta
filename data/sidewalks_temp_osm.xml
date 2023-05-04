@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-03T07:31:54Z"/>
+<meta osm_base="2023-05-04T07:31:24Z"/>
 
   <node id="266971047" lat="-25.5257759" lon="-49.2325253"/>
   <node id="266973363" lat="-25.4409149" lon="-49.2339371">
@@ -750,15 +750,15 @@
   </node>
   <node id="4612228972" lat="-25.4244584" lon="-49.2694431"/>
   <node id="4620646549" lat="-25.4253480" lon="-49.2702753"/>
-  <node id="4663404431" lat="-25.4511861" lon="-49.2314314"/>
-  <node id="4663404433" lat="-25.4532860" lon="-49.2327875"/>
-  <node id="4663404438" lat="-25.4532069" lon="-49.2327523"/>
-  <node id="4663404443" lat="-25.4532976" lon="-49.2328056"/>
+  <node id="4663404431" lat="-25.4511884" lon="-49.2314453"/>
+  <node id="4663404433" lat="-25.4532793" lon="-49.2327908"/>
+  <node id="4663404438" lat="-25.4532054" lon="-49.2327578"/>
+  <node id="4663404443" lat="-25.4532897" lon="-49.2328019"/>
   <node id="4663404451" lat="-25.4526760" lon="-49.2337580"/>
   <node id="4663404460" lat="-25.4551324" lon="-49.2340924"/>
   <node id="4663404462" lat="-25.4549178" lon="-49.2339878"/>
   <node id="4663404464" lat="-25.4547147" lon="-49.2338989"/>
-  <node id="4663404482" lat="-25.4533054" lon="-49.2328358"/>
+  <node id="4663404482" lat="-25.4533008" lon="-49.2328349"/>
   <node id="4663404484" lat="-25.4532591" lon="-49.2329656"/>
   <node id="4663404978" lat="-25.4506351" lon="-49.2325859"/>
   <node id="4663404979" lat="-25.4507302" lon="-49.2326287"/>
@@ -8026,31 +8026,21 @@
   <node id="9597873337" lat="-25.4540484" lon="-49.2326158"/>
   <node id="9597873341" lat="-25.4540948" lon="-49.2325143"/>
   <node id="9597873344" lat="-25.4539142" lon="-49.2325518"/>
-  <node id="9597873346" lat="-25.4530224" lon="-49.2325698"/>
-  <node id="9597873348" lat="-25.4533473" lon="-49.2327179">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="raised"/>
-  </node>
+  <node id="9597873346" lat="-25.4530227" lon="-49.2325705"/>
+  <node id="9597873348" lat="-25.4533465" lon="-49.2326972"/>
   <node id="9597873349" lat="-25.4532538" lon="-49.2326763"/>
-  <node id="9597873350" lat="-25.4531574" lon="-49.2326312"/>
-  <node id="9597873351" lat="-25.4529550" lon="-49.2325411"/>
-  <node id="9597873352" lat="-25.4527971" lon="-49.2324741"/>
-  <node id="9597873353" lat="-25.4527366" lon="-49.2324456"/>
-  <node id="9597873355" lat="-25.4525568" lon="-49.2323619"/>
   <node id="9597873356" lat="-25.4524443" lon="-49.2323106"/>
-  <node id="9597873357" lat="-25.4522282" lon="-49.2322085"/>
-  <node id="9597873358" lat="-25.4520711" lon="-49.2321384"/>
-  <node id="9597873359" lat="-25.4519901" lon="-49.2321037"/>
-  <node id="9597873361" lat="-25.4515014" lon="-49.2318810"/>
-  <node id="9597873364" lat="-25.4511004" lon="-49.2316865"/>
-  <node id="9597873366" lat="-25.4511652" lon="-49.2314855"/>
-  <node id="9597873368" lat="-25.4512342" lon="-49.2313001"/>
-  <node id="9597873369" lat="-25.4512715" lon="-49.2311997"/>
-  <node id="9597873370" lat="-25.4512992" lon="-49.2311252"/>
-  <node id="9597873371" lat="-25.4513413" lon="-49.2310121"/>
-  <node id="9597873372" lat="-25.4514010" lon="-49.2308516"/>
-  <node id="9597873373" lat="-25.4514529" lon="-49.2307120"/>
-  <node id="9597873374" lat="-25.4526111" lon="-49.2323871"/>
+  <node id="9597873357" lat="-25.4522276" lon="-49.2322100"/>
+  <node id="9597873359" lat="-25.4519604" lon="-49.2320873"/>
+  <node id="9597873361" lat="-25.4514668" lon="-49.2318644"/>
+  <node id="9597873364" lat="-25.4511087" lon="-49.2316918"/>
+  <node id="9597873366" lat="-25.4511349" lon="-49.2315928"/>
+  <node id="9597873368" lat="-25.4512358" lon="-49.2313171"/>
+  <node id="9597873369" lat="-25.4512768" lon="-49.2312073"/>
+  <node id="9597873370" lat="-25.4512900" lon="-49.2311715"/>
+  <node id="9597873371" lat="-25.4513482" lon="-49.2310141"/>
+  <node id="9597873373" lat="-25.4514504" lon="-49.2307377"/>
+  <node id="9597873374" lat="-25.4526114" lon="-49.2323849"/>
   <node id="9597873375" lat="-25.4513801" lon="-49.2318258"/>
   <node id="9597873376" lat="-25.4513447" lon="-49.2321298"/>
   <node id="9597873383" lat="-25.4523121" lon="-49.2324658"/>
@@ -8069,8 +8059,7 @@
   <node id="9597873403" lat="-25.4515936" lon="-49.2320421"/>
   <node id="9597873404" lat="-25.4515434" lon="-49.2320129"/>
   <node id="9597873407" lat="-25.4513698" lon="-49.2321205"/>
-  <node id="9597873413" lat="-25.4514817" lon="-49.2306348"/>
-  <node id="9597873415" lat="-25.4515282" lon="-49.2305098"/>
+  <node id="9597873413" lat="-25.4514906" lon="-49.2306266"/>
   <node id="9597873417" lat="-25.4516155" lon="-49.2302752"/>
   <node id="9597873420" lat="-25.4516684" lon="-49.2301329"/>
   <node id="9597873421" lat="-25.4531277" lon="-49.2327309"/>
@@ -8231,14 +8220,13 @@
   <node id="9599693207" lat="-25.4504880" lon="-49.2353155"/>
   <node id="9599727960" lat="-25.4508550" lon="-49.2331004"/>
   <node id="9599727962" lat="-25.4515860" lon="-49.2320334"/>
-  <node id="9599727967" lat="-25.4530545" lon="-49.2325843"/>
-  <node id="9599727968" lat="-25.4528436" lon="-49.2324938"/>
-  <node id="9599727969" lat="-25.4526697" lon="-49.2324150"/>
+  <node id="9599727968" lat="-25.4528453" lon="-49.2324912"/>
+  <node id="9599727969" lat="-25.4526703" lon="-49.2324122"/>
   <node id="9599727970" lat="-25.4521291" lon="-49.2321642"/>
   <node id="9599727971" lat="-25.4517913" lon="-49.2320131"/>
   <node id="9599727972" lat="-25.4515810" lon="-49.2319173"/>
   <node id="9599727974" lat="-25.4513118" lon="-49.2317947"/>
-  <node id="9599727975" lat="-25.4511106" lon="-49.2317031"/>
+  <node id="9599727975" lat="-25.4511191" lon="-49.2317061"/>
   <node id="9599727976" lat="-25.4515523" lon="-49.2304450"/>
   <node id="9599727991" lat="-25.4496545" lon="-49.2310257"/>
   <node id="9599727992" lat="-25.4494733" lon="-49.2308154"/>
@@ -8304,13 +8292,13 @@
   <node id="9603892784" lat="-25.5118481" lon="-49.3256333"/>
   <node id="9623859940" lat="-25.4136259" lon="-49.2225298"/>
   <node id="9625351635" lat="-25.4140311" lon="-49.2223323"/>
-  <node id="9641879084" lat="-25.4533312" lon="-49.2327114"/>
-  <node id="9641879085" lat="-25.4533145" lon="-49.2327582"/>
+  <node id="9641879084" lat="-25.4533117" lon="-49.2327020"/>
+  <node id="9641879085" lat="-25.4532945" lon="-49.2327491"/>
   <node id="9641879086" lat="-25.4534878" lon="-49.2328199"/>
   <node id="9641879087" lat="-25.4534569" lon="-49.2328495"/>
   <node id="9641879088" lat="-25.4534263" lon="-49.2328788"/>
   <node id="9641891503" lat="-25.4509841" lon="-49.2319579"/>
-  <node id="9641925219" lat="-25.4510985" lon="-49.2316649"/>
+  <node id="9641925219" lat="-25.4511240" lon="-49.2316221"/>
   <node id="9647366596" lat="-25.4461416" lon="-49.2449574"/>
   <node id="9647366600" lat="-25.4461810" lon="-49.2447369"/>
   <node id="9647366602" lat="-25.4471931" lon="-49.2444084"/>
@@ -8395,9 +8383,8 @@
   <node id="9661929687" lat="-25.4513560" lon="-49.2331803"/>
   <node id="9661929688" lat="-25.4508439" lon="-49.2323239"/>
   <node id="9661929689" lat="-25.4507817" lon="-49.2322974"/>
-  <node id="9661938095" lat="-25.4511078" lon="-49.2318037"/>
-  <node id="9661938096" lat="-25.4511269" lon="-49.2317595"/>
-  <node id="9661938097" lat="-25.4511423" lon="-49.2317175"/>
+  <node id="9661938095" lat="-25.4511034" lon="-49.2318021"/>
+  <node id="9661938097" lat="-25.4511374" lon="-49.2317145"/>
   <node id="9661940270" lat="-25.4499969" lon="-49.2350921"/>
   <node id="9661940271" lat="-25.4502782" lon="-49.2342298"/>
   <node id="9661940272" lat="-25.4503141" lon="-49.2342403"/>
@@ -25334,7 +25321,7 @@
   <node id="10816572473" lat="-25.4521831" lon="-49.2336846"/>
   <node id="10816629810" lat="-25.4527791" lon="-49.2326776"/>
   <node id="10816629811" lat="-25.4528680" lon="-49.2326024"/>
-  <node id="10816629812" lat="-25.4529920" lon="-49.2326584"/>
+  <node id="10816629812" lat="-25.4529914" lon="-49.2326581"/>
   <node id="10816629813" lat="-25.4536547" lon="-49.2327173"/>
   <node id="10816636826" lat="-25.4530716" lon="-49.2326930"/>
   <node id="10816636827" lat="-25.4531141" lon="-49.2327092"/>
@@ -25389,16 +25376,6 @@
   <node id="10820376099" lat="-25.4510736" lon="-49.2317925"/>
   <node id="10820376100" lat="-25.4510493" lon="-49.2318231"/>
   <node id="10820376101" lat="-25.4510539" lon="-49.2318389"/>
-  <node id="10820376102" lat="-25.4511120" lon="-49.2317941">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="lowered"/>
-    <tag k="tactile_paving" v="yes"/>
-  </node>
-  <node id="10820376103" lat="-25.4511379" lon="-49.2317296">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="lowered"/>
-    <tag k="tactile_paving" v="yes"/>
-  </node>
   <node id="10820376971" lat="-25.4519208" lon="-49.2321697"/>
   <node id="10820378908" lat="-25.4498221" lon="-49.2311145"/>
   <node id="10820378910" lat="-25.4508502" lon="-49.2315834"/>
@@ -25617,10 +25594,7 @@
   <node id="10825150937" lat="-25.4571233" lon="-49.2375536"/>
   <node id="10825151623" lat="-25.4515973" lon="-49.2303240"/>
   <node id="10825151624" lat="-25.4516955" lon="-49.2303680"/>
-  <node id="10825155417" lat="-25.4514894" lon="-49.2306154"/>
-  <node id="10825155418" lat="-25.4517580" lon="-49.2307355"/>
-  <node id="10825155419" lat="-25.4518339" lon="-49.2307705"/>
-  <node id="10825155420" lat="-25.4518645" lon="-49.2308430"/>
+  <node id="10825155417" lat="-25.4514943" lon="-49.2306169"/>
   <node id="10825650686" lat="-25.4423535" lon="-49.2320546"/>
   <node id="10825650688" lat="-25.4422592" lon="-49.2303440"/>
   <node id="10825650689" lat="-25.4422986" lon="-49.2307406"/>
@@ -25639,6 +25613,22 @@
   <node id="10858843650" lat="-25.4482635" lon="-49.2802014"/>
   <node id="10858843653" lat="-25.4491068" lon="-49.2824401"/>
   <node id="10858843654" lat="-25.4511967" lon="-49.2878649"/>
+  <node id="10866203101" lat="-25.4525813" lon="-49.2324719"/>
+  <node id="10866260287" lat="-25.4513281" lon="-49.2310685"/>
+  <node id="10866260288" lat="-25.4511109" lon="-49.2316570"/>
+  <node id="10866260296" lat="-25.4511067" lon="-49.2316689"/>
+  <node id="10866260303" lat="-25.4532994" lon="-49.2328159"/>
+  <node id="10866260304" lat="-25.4532832" lon="-49.2327801">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10866299205" lat="-25.4533063" lon="-49.2327169">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10866299206" lat="-25.4533302" lon="-49.2327025"/>
   <way id="24959939">
     <nd ref="1394041998"/>
     <nd ref="271226465"/>
@@ -42044,13 +42034,14 @@
   <way id="1042695854">
     <nd ref="9597873369"/>
     <nd ref="9597873370"/>
+    <nd ref="10866260287"/>
     <nd ref="9597873371"/>
-    <nd ref="9597873372"/>
+    <nd ref="9597873373"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="mapillary" v="191891276120167"/>
-    <tag k="survey:date" v="2019-10-09"/>
+    <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042695855">
     <nd ref="9597873357"/>
@@ -42060,6 +42051,7 @@
     <tag k="lit" v="no"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042695857">
     <nd ref="9597873383"/>
@@ -42102,6 +42094,7 @@
   <way id="1042695865">
     <nd ref="9597873425"/>
     <nd ref="9597873426"/>
+    <nd ref="10866203101"/>
     <nd ref="9597873430"/>
     <nd ref="9597873431"/>
     <tag k="footway" v="sidewalk"/>
@@ -42510,52 +42503,45 @@
   </way>
   <way id="1042939935">
     <nd ref="9597873348"/>
+    <nd ref="10866299206"/>
     <nd ref="9641879084"/>
     <nd ref="9597873349"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="mapillary" v="505842404191284"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
-    <tag k="survey:date" v="2020-02-18"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939936">
     <nd ref="10825148913"/>
-    <nd ref="9597873350"/>
-    <nd ref="9599727967"/>
     <nd ref="9597873346"/>
-    <nd ref="9597873351"/>
     <nd ref="9599727968"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="no"/>
-    <tag k="mapillary" v="157153023084460"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
-    <tag k="survey:date" v="2020-02-18"/>
     <tag k="tactile_paving" v="no"/>
-    <tag k="width" v="2.697"/>
-    <tag k="width:precision" v="0.028"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939938">
     <nd ref="9599727968"/>
-    <nd ref="9597873352"/>
-    <nd ref="9597873353"/>
     <nd ref="9599727969"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="no"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939939">
     <nd ref="9599727969"/>
     <nd ref="9597873374"/>
-    <nd ref="9597873355"/>
     <nd ref="9597873356"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939940">
     <nd ref="9597873356"/>
@@ -42565,16 +42551,17 @@
     <tag k="lit" v="no"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="paving_stones"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939941">
     <nd ref="9599727970"/>
-    <nd ref="9597873358"/>
     <nd ref="9597873359"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939942">
     <nd ref="9597873359"/>
@@ -42584,6 +42571,7 @@
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939943">
     <nd ref="9599727971"/>
@@ -42593,6 +42581,7 @@
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939944">
     <nd ref="10820376094"/>
@@ -42605,34 +42594,35 @@
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939945">
     <nd ref="10820376093"/>
     <nd ref="9599727974"/>
     <nd ref="9661938097"/>
     <nd ref="9599727975"/>
+    <nd ref="9597873364"/>
+    <nd ref="10866260296"/>
+    <nd ref="10866260288"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="no"/>
-    <tag k="mapillary" v="301985548184741"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
-    <tag k="survey:date" v="2019-10-09"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939946">
-    <nd ref="9599727975"/>
-    <nd ref="9597873364"/>
+    <nd ref="10866260288"/>
     <nd ref="9641925219"/>
     <nd ref="9597873366"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
-    <tag k="mapillary" v="1742437495928838"/>
     <tag k="smoothness" v="intermediate"/>
-    <tag k="surface" v="sett"/>
-    <tag k="survey:date" v="2019-10-09"/>
+    <tag k="surface" v="concrete"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939947">
     <nd ref="9597873366"/>
@@ -42640,32 +42630,23 @@
     <nd ref="9597873368"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="mapillary" v="191891276120167"/>
-    <tag k="survey:date" v="2019-10-09"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939948">
     <nd ref="9597873368"/>
     <nd ref="9597873369"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="mapillary" v="191891276120167"/>
-    <tag k="survey:date" v="2019-10-09"/>
+    <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="no"/>
-  </way>
-  <way id="1042939949">
-    <nd ref="9597873372"/>
-    <nd ref="9597873373"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="mapillary" v="189808926227379"/>
-    <tag k="survey:date" v="2019-10-09"/>
-    <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1042939950">
     <nd ref="9597873413"/>
     <nd ref="10825155417"/>
-    <nd ref="9597873415"/>
     <nd ref="9599727976"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -43605,12 +43586,15 @@
   </way>
   <way id="1049170415">
     <nd ref="9641879084"/>
+    <nd ref="10866299205"/>
     <nd ref="9641879085"/>
-    <nd ref="4663404443"/>
+    <nd ref="10866260304"/>
+    <nd ref="4663404433"/>
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="mapillary" v="180038930674234"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="survey:date" v="2020-02-18"/>
     <tag k="tactile_paving" v="no"/>
   </way>
@@ -43746,19 +43730,6 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="mapillary" v="559676328536817"/>
-    <tag k="survey:date" v="2019-10-09"/>
-    <tag k="tactile_paving" v="no"/>
-  </way>
-  <way id="1051401362">
-    <nd ref="9661938095"/>
-    <nd ref="10820376102"/>
-    <nd ref="9661938096"/>
-    <nd ref="10820376103"/>
-    <nd ref="9661938097"/>
-    <tag k="crossing" v="marked"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="mapillary" v="336765614713898"/>
     <tag k="survey:date" v="2019-10-09"/>
     <tag k="tactile_paving" v="no"/>
   </way>
@@ -95413,6 +95384,7 @@
     <tag k="lit" v="no"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="sett"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1163065360">
     <nd ref="9597873423"/>
@@ -96029,10 +96001,9 @@
     <nd ref="10825148913"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
-    <tag k="mapillary" v="157153023084460"/>
     <tag k="surface" v="sett"/>
-    <tag k="survey:date" v="2020-02-18"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="width" v="2"/>
   </way>
   <way id="1163979399">
     <nd ref="10825126653"/>
@@ -96136,18 +96107,6 @@
     <tag k="surface" v="concrete"/>
     <tag k="width" v="1"/>
   </way>
-  <way id="1163981539">
-    <nd ref="10825155417"/>
-    <nd ref="10825155418"/>
-    <nd ref="10825155419"/>
-    <nd ref="10825155420"/>
-    <tag k="barrier" v="kerb"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="kerb" v="no"/>
-    <tag k="smoothness" v="horrible"/>
-    <tag k="surface" v="dirt"/>
-  </way>
   <way id="1163982381">
     <nd ref="10825151623"/>
     <nd ref="10825151624"/>
@@ -96177,6 +96136,7 @@
   </way>
   <way id="1164691301">
     <nd ref="4663404482"/>
+    <nd ref="10866260303"/>
     <nd ref="4663404443"/>
     <nd ref="4663404433"/>
     <nd ref="4663404438"/>
