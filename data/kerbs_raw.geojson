@@ -6465,6 +6465,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -49.2325557,
+                    -25.4539318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 9597873282,
+                "kerb": "no",
+                "type": "node"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2327562,
+                    -25.4534705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 9597873291,
+                "kerb": "no",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -49.2326983,
                     -25.4530535
                 ],
@@ -10498,8 +10531,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2311928,
-                    -25.4497917
+                    -49.231193,
+                    -25.4497921
                 ],
                 "type": "Point"
             },
@@ -10508,7 +10541,8 @@
                 "id": 10820378905,
                 "kerb": "raised",
                 "tactile_paving": "no",
-                "type": "node"
+                "type": "node",
+                "wheelchair": "no"
             },
             "type": "Feature"
         },
@@ -10516,7 +10550,7 @@
             "geometry": {
                 "coordinates": [
                     -49.2311279,
-                    -25.4498169
+                    -25.449817
                 ],
                 "type": "Point"
             },
@@ -10525,7 +10559,8 @@
                 "id": 10820378907,
                 "kerb": "raised",
                 "tactile_paving": "no",
-                "type": "node"
+                "type": "node",
+                "wheelchair": "no"
             },
             "type": "Feature"
         },
@@ -10782,14 +10817,864 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.2327038,
-                    -25.4533567
+                    -49.2327021,
+                    -25.4533573
                 ],
                 "type": "Point"
             },
             "properties": {
                 "barrier": "kerb",
                 "id": 10866299207,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2302275,
+                    -25.4485887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875918900,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2302927,
+                    -25.4485627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875918901,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2301876,
+                    -25.4488786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875918902,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2301926,
+                    -25.4488143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875918903,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2298389,
+                    -25.4516534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875972888,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2299237,
+                    -25.4516344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875972889,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2299582,
+                    -25.4516562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875972892,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2299696,
+                    -25.4517286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875972893,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2300553,
+                    -25.4521367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875972894,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.229931,
+                    -25.4521622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875972895,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2324738,
+                    -25.4539639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875972900,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2304806,
+                    -25.4492326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976208,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2305605,
+                    -25.4492854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976209,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2312845,
+                    -25.450162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976215,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2313498,
+                    -25.4501382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976216,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.231717,
+                    -25.4509428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976220,
+                "kerb": "flush",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2316517,
+                    -25.4509681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976221,
+                "kerb": "flush",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2299871,
+                    -25.4492318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976233,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2299461,
+                    -25.449229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976234,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2300781,
+                    -25.4492457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10875976235,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2303012,
+                    -25.451544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876080792,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2303226,
+                    -25.4515921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876080793,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2299975,
+                    -25.4516545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876080795,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2300112,
+                    -25.4517072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876080796,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.230533,
+                    -25.451525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876080801,
+                "kerb": "flush",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2304574,
+                    -25.4515529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876080802,
+                "kerb": "flush",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2301899,
+                    -25.4516522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087306,
+                "kerb": "flush",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2301417,
+                    -25.4516699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087307,
+                "kerb": "flush",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2328774,
+                    -25.4534305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087309,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2328122,
+                    -25.4534986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087310,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2328399,
+                    -25.4533079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087311,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2328774,
+                    -25.4533896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087312,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2336229,
+                    -25.4530172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087315,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2336545,
+                    -25.453092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087316,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.233385,
+                    -25.4531992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087319,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2333281,
+                    -25.4532206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087320,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2339503,
+                    -25.4547334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087324,
+                "kerb": "no",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2339253,
+                    -25.4547123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087325,
+                "kerb": "no",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2353875,
+                    -25.4544006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087345,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2354092,
+                    -25.4544511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087346,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2361406,
+                    -25.4557103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087352,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2357914,
+                    -25.4553289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087357,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2356878,
+                    -25.4553482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087360,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2365114,
+                    -25.4567522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087367,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2364092,
+                    -25.4565845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876087368,
+                "kerb": "raised",
+                "type": "node",
+                "wheelchair": "no"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2366283,
+                    -25.4572171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876140304,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.236417,
+                    -25.4570225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876161908,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.2359874,
+                    -25.4565588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876161909,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.235727,
+                    -25.4569685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876161914,
+                "kerb": "lowered",
+                "type": "node",
+                "wheelchair": "yes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.235658,
+                    -25.4570627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "barrier": "kerb",
+                "id": 10876161915,
                 "kerb": "raised",
                 "type": "node",
                 "wheelchair": "no"
